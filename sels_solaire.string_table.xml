@@ -1238,22 +1238,22 @@
     <entry id="buff_stat_tooltip_damage_reflect_percent"><![CDATA[%d%% 伤害反弹]]></entry>
 	
     <entry id="buff_stat_tooltip_shard_reward_percent"><![CDATA[+%d%% 获得的碎片]]></entry>
-    <entry id="buff_stat_tooltip_transfer_debuff_from_attacker_chance"><![CDATA[+%d%% 减益几率]]></entry>
-    <entry id="buff_rule_data_tooltip_husk"><![CDATA[瘪壳怪]]></entry>
-    <entry id="buff_rule_data_tooltip_grind_the_grist"><![CDATA[米勒：收割]]></entry>
-    <entry id="trinket_attack_skill_additional_effects_hit_miss"><![CDATA[攻击时:]]></entry>
-    <entry id="trinket_attack_skill_additional_effects_hit"><![CDATA[命中时:]]></entry>
-    <entry id="trinket_attack_skill_additional_effects_miss"><![CDATA[闪避时:]]></entry>
+    <entry id="buff_stat_tooltip_transfer_debuff_from_attacker_chance"><![CDATA[受到攻击时吸收减益的几率+%d%%]]></entry>
+    <entry id="buff_rule_data_tooltip_husk"><![CDATA[“糠秕”]]></entry>
+    <entry id="buff_rule_data_tooltip_grind_the_grist"><![CDATA[磨坊主：收割]]></entry>
+    <entry id="trinket_attack_skill_additional_effects_hit_miss"><![CDATA[攻击:]]></entry>
+    <entry id="trinket_attack_skill_additional_effects_hit"><![CDATA[命中:]]></entry>
+    <entry id="trinket_attack_skill_additional_effects_miss"><![CDATA[闪避:]]></entry>
     <entry id="trinket_friendly_skill_additional_effects"><![CDATA[友军技能:]]></entry>
     <entry id="trinket_kill_performer_additional_effects"><![CDATA[击杀时:]]></entry>
 	<entry id="trinket_was_hit_additional_effects"><![CDATA[被击中时:]]></entry>
-    <entry id="effect_health_damage_format"><![CDATA[-%d 伤害]]></entry>
+    <entry id="effect_health_damage_format"><![CDATA[-%d 生命]]></entry>
     <entry id="buff_stat_tooltip_random_target_attack_chance"><![CDATA[攻击时:随机目标 %d%%.]]></entry>
-    <entry id="buff_stat_tooltip_guard_duration_percent"><![CDATA[+%d%% 守护持续时间]]></entry>
+    <entry id="buff_stat_tooltip_guard_duration_percent"><![CDATA[守护持续时间+%d%%]]></entry>
     <entry id="buff_rule_tooltip_has_item_id"><![CDATA[%s 如果 %s 在背包里]]></entry>
     <entry id="buff_rule_tooltip_target_hpabove"><![CDATA[%s当生命值大于 %d%%]]></entry>
     <entry id="buff_rule_tooltip_target_hpbelow"><![CDATA[%s 当生命值低于 %d%%]]></entry>
-    <entry id="tray_icon_tooltip_riposte_no_duration"><![CDATA[{colour_start|riposte}反击{colour_end}开启]]></entry>
+    <entry id="tray_icon_tooltip_riposte_no_duration"><![CDATA[{colour_start|riposte}反击{colour_end}有效]]></entry>
     <entry id="buff_rule_tooltip_attacking_monster_type"><![CDATA[%s 被攻击时 %s]]></entry>
     <entry id="buff_stat_tooltip_hp_dot_bleed_duration_percent"><![CDATA[+%d%% 流血持续时间]]></entry>
     <entry id="buff_stat_tooltip_hp_dot_poison_duration_percent"><![CDATA[+%d%% 腐蚀持续时间]]></entry>
@@ -1270,14 +1270,14 @@
     <entry id="buff_stat_tooltip_cure_bleed_received_chance"><![CDATA[%d%% 治愈流血技能概率]]></entry>
     <entry id="buff_stat_tooltip_cure_poison_received_chance"><![CDATA[%d%% 治愈腐蚀技能概率]]></entry>
     <entry id="tutorial_popup_health_damage_block_title"><![CDATA[伤害免疫]]></entry>
-    <entry id="tutorial_popup_health_damage_block_description"><![CDATA[赠予伤害免疫，又名“宙斯盾之令”，吸收下次被造成的伤害。]]></entry>
+    <entry id="tutorial_popup_health_damage_block_description"><![CDATA[赠予伤害免疫，或者称为「加护」，吸收下次被造成的伤害。]]></entry>
 	
 	<entry id="buff_rule_tooltip_is_stealthed"><![CDATA[%s 当 {colour_start|stealth}潜行{colour_end}]]></entry>
 	
-	<entry id="buff_rule_data_tooltip_corpse"><![CDATA[尸体]]></entry>
+	<entry id="buff_rule_data_tooltip_corpse"><![CDATA[尸骸]]></entry>
 	
-	<entry id="buff_rule_tooltip_monster_type_count_min"><![CDATA[%s 如果有敌人 %s]]></entry>
-	<entry id="buff_rule_tooltip_monster_type_count_min_false"><![CDATA[%s 如果没有敌人 %s]]></entry>
+	<entry id="buff_rule_tooltip_monster_type_count_min"><![CDATA[%s对战%s]]></entry>
+	<entry id="buff_rule_tooltip_monster_type_count_min_false"><![CDATA[%s 若不存在 %s]]></entry>
 	
 	<entry id="buff_stat_tooltip_torchlight_burn_percent"><![CDATA[%+d%% 火把燃烧速率]]></entry>
 	
@@ -1292,13 +1292,13 @@
 	<entry id="str_monstername_invader_solaire_B"><![CDATA[{colour_start|sels_invader}入侵{colour_end}太阳战士]]></entry>
 	<entry id="str_monstername_invader_solaire_C"><![CDATA[{colour_start|sels_invader}入侵{colour_end}太阳战士]]></entry>
     <!--Undead Axe Wielder-->
-	<entry id="str_monstername_undead_axe_A"><![CDATA[不死战士]]></entry>
-	<entry id="str_monstername_undead_axe_B"><![CDATA[不死战士]]></entry>
-	<entry id="str_monstername_undead_axe_C"><![CDATA[不死战士]]></entry>
+	<entry id="str_monstername_undead_axe_A"><![CDATA[不死兵士]]></entry>
+	<entry id="str_monstername_undead_axe_B"><![CDATA[不死兵士]]></entry>
+	<entry id="str_monstername_undead_axe_C"><![CDATA[不死兵士]]></entry>
 	<!--Undead Fire Bomber-->
-	<entry id="str_monstername_undead_firebomb_A"><![CDATA[不死掷弹手]]></entry>	
-	<entry id="str_monstername_undead_firebomb_B"><![CDATA[不死掷弹手]]></entry>	
-	<entry id="str_monstername_undead_firebomb_C"><![CDATA[不死掷弹手]]></entry>
+	<entry id="str_monstername_undead_firebomb_A"><![CDATA[不死爆破手]]></entry>	
+	<entry id="str_monstername_undead_firebomb_B"><![CDATA[不死爆破手]]></entry>	
+	<entry id="str_monstername_undead_firebomb_C"><![CDATA[不死爆破手]]></entry>
 	<!--Undead Swordman-->
 	<entry id="str_monstername_undead_sword_A"><![CDATA[不死剑士]]></entry>	
 	<entry id="str_monstername_undead_sword_B"><![CDATA[不死剑士]]></entry>	
@@ -1327,7 +1327,7 @@
 	<entry id="str_monster_skill_sels_wrath_gods"><![CDATA[神明震怒]]></entry>
 	<entry id="str_monster_skill_sels_roll_back"><![CDATA[翻滚躲闪]]></entry>
 	<entry id="str_monster_skill_sels_roll_front"><![CDATA[翻滚躲闪]]></entry>
-	<entry id="str_monster_skill_sels_sunlight_spear"><![CDATA[太阳长矛]]></entry>
+	<entry id="str_monster_skill_sels_sunlight_spear"><![CDATA[阳光长矛]]></entry>
 	<entry id="str_monster_skill_sels_bountiful_sunlight"><![CDATA[炽烈日炎]]></entry>
 	<entry id="str_monster_skill_sels_soap_stone"><![CDATA[使用白标记蜡石]]></entry>
 	<entry id="str_monster_skill_sels_way_white"><![CDATA[白教之道]]></entry>
@@ -1335,22 +1335,22 @@
 	<entry id="str_monster_skill_sels_axe_strike"><![CDATA[斧击]]></entry>
 	<entry id="str_monster_skill_sels_parry"><![CDATA[招架]]></entry>
 	<entry id="str_monster_skill_sels_shield_bash"><![CDATA[盾牌猛击]]></entry>
-	<entry id="str_monster_skill_sels_charge_attack"><![CDATA[跳跃攻击]]></entry>
+	<entry id="str_monster_skill_sels_charge_attack"><![CDATA[跃劈]]></entry>
 	<!--Undead Fire Bomber-->
 	<entry id="str_monster_skill_sels_point_blank_bomb"><![CDATA[迅准火焰壶]]></entry>
 	<entry id="str_monster_skill_sels_firebomb"><![CDATA[黑火焰壶]]></entry>
 	<entry id="str_monster_skill_sels_fragbomb"><![CDATA[火焰壶]]></entry>
 	<!--Undead Swordman-->
-	<entry id="str_monster_skill_sels_sword_slash"><![CDATA[猛砍]]></entry>
-	<entry id="str_monster_skill_sels_wild_strike"><![CDATA[乱砍]]></entry>
-	<entry id="str_monster_skill_sels_wild_strike_second"><![CDATA[乱砍]]></entry>
-	<entry id="str_monster_skill_sels_wild_strike_final"><![CDATA[乱砍]]></entry>
+	<entry id="str_monster_skill_sels_sword_slash"><![CDATA[猛斩]]></entry>
+	<entry id="str_monster_skill_sels_wild_strike"><![CDATA[狂野袭击]]></entry>
+	<entry id="str_monster_skill_sels_wild_strike_second"><![CDATA[狂野袭击]]></entry>
+	<entry id="str_monster_skill_sels_wild_strike_final"><![CDATA[狂野袭击]]></entry>
 	<!--Undead Crossbow-->
-	<entry id="str_monster_skill_sels_stagger_shot"><![CDATA[心悸射击]]></entry>
-	<entry id="str_monster_skill_sels_suppression"><![CDATA[潜抑]]></entry>
+	<entry id="str_monster_skill_sels_stagger_shot"><![CDATA[死角射击]]></entry>
+	<entry id="str_monster_skill_sels_suppression"><![CDATA[火力覆盖]]></entry>
 	<!--Undead Lantern Bearer-->
 	<entry id="str_monster_skill_sels_stab"><![CDATA[突刺]]></entry>
-	<entry id="str_monster_skill_sels_scream"><![CDATA[恐怖尖叫]]></entry>
+	<entry id="str_monster_skill_sels_scream"><![CDATA[震颤尖啸]]></entry>
 	<!--Undead Spearman-->
 	<entry id="str_monster_skill_sels_spear_thrust"><![CDATA[穿刺]]></entry>
 	<entry id="str_monster_skill_sels_spear_thrust_far"><![CDATA[矛刺]]></entry>
@@ -1360,7 +1360,7 @@
 	
   <!--Loading Screen-->
 	<entry id="str_sels_invaded_tip"><![CDATA[入侵者和不死者会对被标记目标造成严重伤害。]]></entry>
-    <entry id="str_sels_invaded_tip"><![CDATA[你在这次任务的成员人数多少会导致受到集团型入侵概率的提升。]]></entry>
+    <entry id="str_sels_invaded_tip"><![CDATA[在地图中遭到入侵的概率取决于队伍中太阳誓约成员的数量。]]></entry>
     <entry id="loading_screen_override_sels_invaded"><![CDATA[为入侵者做好准备，保持警惕！]]></entry>
 	
   <!--Tooltips-->
