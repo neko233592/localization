@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <language id="english">
+<entry id="str_monstername_res_corpse_A"><![CDATA[行尸走肉]]></entry>
+<entry id="str_monstername_res_corpse_B"><![CDATA[死尸烂肉]]></entry>
+<entry id="str_monstername_res_corpse_C"><![CDATA[邪秽尸肉]]></entry>
+<entry id="str_monstername_corpsemeat_A"><![CDATA[尸堆]]></entry>
+<entry id="str_monstername_corpsemeat_B"><![CDATA[尸堆]]></entry>
+<entry id="str_monstername_corpsemeat_C"><![CDATA[尸堆]]></entry>
+
+
+<entry id="str_monster_skill_meat_swipe"><![CDATA[抓取之手]]></entry>
+<entry id="str_monster_skill_dead_meat_reborn"><![CDATA[尸骸复活]]></entry>
+<entry id="str_monster_skill_regrowing"><![CDATA[再生]]></entry>     
+
+
+  </language>
+</root>

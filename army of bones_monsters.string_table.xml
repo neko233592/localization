@@ -1,95 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-   <language id="english">
-   </language>
-   <language id="schinese">
-<entry id="str_monstername_skeleton_assassin_A"><![CDATA[骨骸刺客]]></entry>
-<entry id="str_monstername_skeleton_assassin_B"><![CDATA[骨骸圣堂刺客]]></entry>
-<entry id="str_monstername_skeleton_assassin_C"><![CDATA[骨骸大师刺客]]></entry>
+  <language id="english">
+<entry id="str_monstername_skeleton_assassin_A"><![CDATA[骸骨刺客]]></entry>
+<entry id="str_monstername_skeleton_assassin_B"><![CDATA[骸骨宫廷刺客]]></entry>
+<entry id="str_monstername_skeleton_assassin_C"><![CDATA[骸骨大师刺客]]></entry>
       
 <entry id="str_monster_skill_stealth_kill"><![CDATA[暗杀]]></entry>
-<entry id="str_monster_skill_posion_attack"><![CDATA[带毒剑刃]]></entry>
-<entry id="str_monster_skill_kill_from_shadow"><![CDATA[来自阴影中的暗杀]]></entry>
+<entry id="str_monster_skill_posion_attack"><![CDATA[剧毒之刃]]></entry>
+<entry id="str_monster_skill_kill_from_shadow"><![CDATA[戮自影中]]></entry>
       
 
 
-<entry id="str_monstername_skullet_A"><![CDATA[颅骨串]]></entry>
-<entry id="str_monstername_skullet_B"><![CDATA[颅骨串]]></entry>
-<entry id="str_monstername_skullet_C"><![CDATA[颅骨串]]></entry>
+<entry id="str_monstername_skullet_A"><![CDATA[飞颅]]></entry>
+<entry id="str_monstername_skullet_B"><![CDATA[飞颅]]></entry>
+<entry id="str_monstername_skullet_C"><![CDATA[飞颅]]></entry>
 
 
-<entry id="str_monstername_cracked_skullet_A"><![CDATA[破裂颅骨串]]></entry>
-<entry id="str_monstername_cracked_skullet_B"><![CDATA[破裂颅骨串]]></entry>
+<entry id="str_monstername_cracked_skullet_A"><![CDATA[破裂飞颅]]></entry>
+<entry id="str_monstername_cracked_skullet_B"><![CDATA[破裂飞颅]]></entry>
 
-<entry id="str_monstername_dread_skullet_A"><![CDATA[恐惧颅骨]]></entry>
-<entry id="str_monstername_dread_skullet_B"><![CDATA[恐惧颅骨]]></entry>
-<entry id="str_monstername_dread_skullet_C"><![CDATA[恐惧颅骨]]></entry>
-
-
-<entry id="str_monstername_mega_skullet_A"><![CDATA[庞大颅骨]]></entry>
-<entry id="str_monstername_mega_skullet_B"><![CDATA[集团颅骨]]></entry>
-<entry id="str_monstername_mega_skullet_C"><![CDATA[玛格努斯颅骨]]></entry>
+<entry id="str_monstername_dread_skullet_A"><![CDATA[骇人飞颅]]></entry>
+<entry id="str_monstername_dread_skullet_B"><![CDATA[骇人飞颅]]></entry>
+<entry id="str_monstername_dread_skullet_C"><![CDATA[骇人飞颅]]></entry>
 
 
-<entry id="str_monstername_damned_skullet_A"><![CDATA[颅骨串]]></entry>
-<entry id="str_monstername_damned_skullet_B"><![CDATA[颅骨串]]></entry>
-<entry id="str_monstername_damned_skullet_C"><![CDATA[颅骨串]]></entry>
+<entry id="str_monstername_mega_skullet_A"><![CDATA[巨大飞颅]]></entry>
+<entry id="str_monstername_mega_skullet_B"><![CDATA[聚合飞颅]]></entry>
+<entry id="str_monstername_mega_skullet_C"><![CDATA[飞天巨颅]]></entry>
+
+
+<entry id="str_monstername_damned_skullet_A"><![CDATA[飞颅]]></entry>
+<entry id="str_monstername_damned_skullet_B"><![CDATA[飞颅]]></entry>
+<entry id="str_monstername_damned_skullet_C"><![CDATA[飞颅]]></entry>
 
 
 <entry id="str_monstername_wine_taster_A"><![CDATA[品酒师]]></entry>
-<entry id="str_monstername_wine_taster_B"><![CDATA[优秀品酒师]]></entry>
-<entry id="str_monstername_wine_taster_C"><![CDATA[老年品酒师]]></entry>
+<entry id="str_monstername_wine_taster_B"><![CDATA[优秀的品酒师]]></entry>
+<entry id="str_monstername_wine_taster_C"><![CDATA[年迈的品酒师]]></entry>
       
-<entry id="str_monster_skill_take_a_sip"><![CDATA[啜一口]]></entry>
-<entry id="str_monster_skill_drink_up"><![CDATA[喝起来!]]></entry>
+<entry id="str_monster_skill_take_a_sip"><![CDATA[小酌一口]]></entry>
+<entry id="str_monster_skill_drink_up"><![CDATA[干了这杯！]]></entry>
       
       
-<entry id="str_monstername_backstabber_A"><![CDATA[骨骸袭背者]]></entry>
-<entry id="str_monstername_backstabber_B"><![CDATA[骨骸袭背者]]></entry>
-<entry id="str_monstername_backstabber_C"><![CDATA[骨骸叛徒]]></entry>
+<entry id="str_monstername_backstabber_A"><![CDATA[骸骨暗算者]]></entry>
+<entry id="str_monstername_backstabber_B"><![CDATA[骸骨暗算者]]></entry>
+<entry id="str_monstername_backstabber_C"><![CDATA[骸骨背刺者]]></entry>
       
-<entry id="str_monster_skill_stab_back"><![CDATA[背后捅刺]]></entry>
-<entry id="str_monster_skill_stab_armor_crack"><![CDATA[嘭!]]></entry>
+<entry id="str_monster_skill_stab_back"><![CDATA[暗中算计]]></entry>
+<entry id="str_monster_skill_stab_armor_crack"><![CDATA[砰！]]></entry>
       
 
-<entry id="str_monster_skill_skullet_explode"><![CDATA[骨碎]]></entry>
-<entry id="str_monster_skill_summon_skullet"><![CDATA[召唤颅骨串]]></entry>
-<entry id="str_monster_skill_skullet_curse"><![CDATA[颅骨的诅咒]]></entry>
+<entry id="str_monster_skill_skullet_explode"><![CDATA[骸骨碎裂]]></entry>
+<entry id="str_monster_skill_summon_skullet"><![CDATA[召唤飞颅]]></entry>
+<entry id="str_monster_skill_skullet_curse"><![CDATA[飞颅诅咒]]></entry>
 
-<entry id="str_monster_skill_skullet_bite"><![CDATA[颅骨打击]]></entry>
+<entry id="str_monster_skill_skullet_bite"><![CDATA[飞颅啃咬]]></entry>
 
-<entry id="str_monster_skill_skullet_dread"><![CDATA[充满恐惧]]></entry>
-<entry id="str_monster_skill_summon_dread_skullet"><![CDATA[召唤恐惧颅骨]]></entry>
-<entry id="str_monster_skill_dread_skullet_explode"><![CDATA[黑暗降临]]></entry>
-<entry id="str_monster_skill_cracked_skullet_explode"><![CDATA[骨骸碎片]]></entry>
+<entry id="str_monster_skill_skullet_dread"><![CDATA[恐惧充盈]]></entry>
+<entry id="str_monster_skill_summon_dread_skullet"><![CDATA[召唤骇人飞颅]]></entry>
+<entry id="str_monster_skill_dread_skullet_explode"><![CDATA[夜幕降临]]></entry>
+<entry id="str_monster_skill_cracked_skullet_explode"><![CDATA[骸骨爆裂]]></entry>
 
-<entry id="str_monster_skill_skullet_self_heal"><![CDATA[治疗骨髓]]></entry>
+<entry id="str_monster_skill_skullet_self_heal"><![CDATA[愈疗骨髓]]></entry>
 
-<entry id="str_monster_skill_mega_guard"><![CDATA[骨骸守卫]]></entry>
+<entry id="str_monster_skill_mega_guard"><![CDATA[飞颅守护]]></entry>
 
 <entry id="str_monstername_necromancer_apprentice_A"><![CDATA[死灵法师学徒]]></entry>
-<entry id="str_monstername_necromancer_apprentice_B"><![CDATA[死灵法师预言者]]></entry>
+<entry id="str_monstername_necromancer_apprentice_B"><![CDATA[死灵法师旅者]]></entry>
 <entry id="str_monstername_necromancer_apprentice_C"><![CDATA[死灵法师大师]]></entry>
-<entry id="str_monster_skill_necro_heal"><![CDATA[死者修复]]></entry>
-<entry id="str_monster_skill_bone_armor"><![CDATA[颅骨装甲]]></entry>
-<entry id="str_monster_skill_nec_unholy_rally"><![CDATA[死者再生]]></entry>
+<entry id="str_monster_skill_necro_heal"><![CDATA[重构死者]]></entry>
+<entry id="str_monster_skill_bone_armor"><![CDATA[骸骨装甲]]></entry>
+<entry id="str_monster_skill_nec_unholy_rally"><![CDATA[复活死尸]]></entry>
 
-<entry id="str_monstername_skeleton_chopper_A"><![CDATA[骨骸斩击者]]></entry>
-<entry id="str_monstername_skeleton_chopper_B"><![CDATA[骨骸斩头者]]></entry>
-<entry id="str_monstername_skeleton_chopper_C"><![CDATA[骨骸断头者]]></entry>
+<entry id="str_monstername_skeleton_chopper_A"><![CDATA[骸骨刀斧手]]></entry>
+<entry id="str_monstername_skeleton_chopper_B"><![CDATA[骸骨刽子手]]></entry>
+<entry id="str_monstername_skeleton_chopper_C"><![CDATA[骸骨断头台]]></entry>
 
-<entry id="str_monster_skill_chopping_block"><![CDATA[切块]]></entry>
-<entry id="str_monster_skill_decapitation"><![CDATA[砍掉脑袋]]></entry>
-<entry id="str_monster_skill_weak_chop"><![CDATA[虚弱斩击]]></entry>
+<entry id="str_monster_skill_chopping_block"><![CDATA[断头砧板]]></entry>
+<entry id="str_monster_skill_decapitation"><![CDATA[砍下脑袋]]></entry>
+<entry id="str_monster_skill_weak_chop"><![CDATA[虚弱劈砍]]></entry>
 
-<entry id="str_monstername_skeleton_blocker_A"><![CDATA[骨骸守卫]]></entry>
-<entry id="str_monstername_skeleton_blocker_B"><![CDATA[骨骸高等守卫]]></entry>
-<entry id="str_monstername_skeleton_blocker_C"><![CDATA[骨骸荣耀守卫]]></entry>
+<entry id="str_monstername_skeleton_blocker_A"><![CDATA[骸骨护卫]]></entry>
+<entry id="str_monstername_skeleton_blocker_B"><![CDATA[骸骨高阶护卫]]></entry>
+<entry id="str_monstername_skeleton_blocker_C"><![CDATA[骨骼仪仗护卫]]></entry>
 
-<entry id="str_monster_skill_blocker_guard"><![CDATA[骨骸守卫]]></entry>
-<entry id="str_monster_skill_shield_bash_weak"><![CDATA[虚弱一击]]></entry>
+<entry id="str_monster_skill_blocker_guard"><![CDATA[骸骨守护]]></entry>
+<entry id="str_monster_skill_shield_bash_weak"><![CDATA[弱化猛撞]]></entry>
       
-<entry id="str_monster_skill_mace_assult"><![CDATA[狼牙棒打击]]></entry>
+<entry id="str_monster_skill_mace_assult"><![CDATA[钉锤猛击]]></entry>
 
   </language>
 </root>

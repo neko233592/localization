@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <language id="english">
+<entry id="str_monstername_bone_gella_A"><![CDATA[猩红刽子手]]></entry>
+<entry id="str_monstername_bone_gella_B"><![CDATA[猩红行刑者]]></entry>
+<entry id="str_monstername_bone_gella_C"><![CDATA[猩红断头台]]></entry>
+
+<entry id="str_monster_skill_skull_toss"><![CDATA[头颅滚落]]></entry>
+<entry id="str_monster_skill_sentence_death"><![CDATA[死刑宣判]]></entry>
+<entry id="str_monster_skill_deep_chop"><![CDATA[“砍下脑袋！”]]></entry>
+
+
+  </language>
+</root>
+
