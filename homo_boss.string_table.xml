@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <language id="english">
+
+
+     
+<entry id="str_inventory_title_trinketboss_homohand"><![CDATA[造物的手]]></entry>
+<entry id="str_inventory_title_trinketboss_homopotionS"><![CDATA[药剂S]]></entry>
+<entry id="str_inventory_title_trinketboss_homopotionX"><![CDATA[药剂X]]></entry>
+
+<entry id="str_caretaker_goal_plot_kill_homo_1"><![CDATA[放倒人造人]]></entry>
+<entry id="str_caretaker_goal_plot_kill_homo_2"><![CDATA[放倒人造人]]></entry>
+<entry id="str_caretaker_goal_plot_kill_homo_3"><![CDATA[放倒人造人]]></entry>
+
+<entry id="str_embarked_on_plot_kill_homo_1"><![CDATA[{?hero_names}%s 试图打败被创造的生物，人造人。 ({?difficulty}%s {?length}%s)]]></entry>
+<entry id="str_embarked_on_plot_kill_homo_2"><![CDATA[{?hero_names}%s 试图打败被创造的生物，人造人。 ({?difficulty}%s {?length}%s)]]></entry>
+<entry id="str_embarked_on_plot_kill_homo_3"><![CDATA[{?hero_names}%s 试图打败被创造的生物，人造人。 ({?difficulty}%s {?length}%s)]]></entry>
+
+<entry id="str_returned_from_plot_kill_homo_1_success"><![CDATA[{?hero_names}%s击败了人造人。（{?difficulty}%s {?length}%s）]]></entry>
+<entry id="str_returned_from_plot_kill_homo_2_success"><![CDATA[{?hero_names}%s击败了人造人。（{?difficulty}%s {?length}%s）]]></entry>
+<entry id="str_returned_from_plot_kill_homo_3_success"><![CDATA[{?hero_names}%s击败了人造人。（{?difficulty}%s {?length}%s）]]></entry>
+      
+<entry id="str_returned_from_plot_kill_homo_1_failure"><![CDATA[{?hero_names}%s没能击败人造人。（{?difficulty}%s {?length}%s）]]></entry>
+<entry id="str_returned_from_plot_kill_homo_2_failure"><![CDATA[{?hero_names}%s没能击败人造人。（{?difficulty}%s {?length}%s）]]></entry>
+<entry id="str_returned_from_plot_kill_homo_3_failure"><![CDATA[{?hero_names}%s没能击败人造人。（{?difficulty}%s {?length}%s）]]></entry>
+
+<entry id="town_quest_progress_plot_kill_homo_1"><![CDATA[击杀首领!]]></entry>
+<entry id="town_quest_progress_plot_kill_homo_2"><![CDATA[击杀首领!]]></entry>
+<entry id="town_quest_progress_plot_kill_homo_3"><![CDATA[击杀首领!]]></entry>
+      
+      
+       <entry id="town_event_title_plot_start_quest_kill_homo_1"><![CDATA[它活过来了！]]></entry>
+    <entry id="town_event_description_plot_start_quest_kill_homo_1"><![CDATA[一场“实验”挑战了造物主。以死者的残肢锻造，这造物正在被赋予一次新的生命；不管它会有多么的痛苦。]]></entry>
+      
+
+<entry id="town_quest_name_plot_kill_homo_1"><![CDATA[它活过来了]]></entry>
+<entry id="town_quest_description_plot_kill_homo_1"><![CDATA[一场“实验”挑战了造物主。以死者的残肢锻造，这造物正在被赋予一次新的生命；不管它会有多么的痛苦。小心点，然后放倒它。]]></entry>
+
+<entry id="town_quest_name_plot_kill_homo_2"><![CDATA[它活过来了，再一次的！]]></entry>
+<entry id="town_quest_description_plot_kill_homo_2"><![CDATA[一场“实验”挑战了造物主。以死者的残肢锻造，这造物正在被赋予一次新的生命；不管它会有多么的痛苦。小心点，然后放倒它。]]></entry>
+
+<entry id="town_quest_name_plot_kill_homo_3"><![CDATA[它活过来了，只为去死！]]></entry>
+<entry id="town_quest_description_plot_kill_homo_3"><![CDATA[一场“实验”挑战了造物主。以死者的残肢锻造，这造物正在被赋予一次新的生命；不管它会有多么的痛苦。小心点，然后放倒它。]]></entry>
+      
+
+<entry id="str_plot_kill_homo_1_tip"><![CDATA[药剂混合物给了人造人它的力量。先消灭它们。]]></entry>
+<entry id="str_plot_kill_homo_2_tip"><![CDATA[如果被眩晕了最好要移动开来。后续的抱摔会造成很多伤害。]]></entry>
+<entry id="str_plot_kill_homo_3_tip"><![CDATA[人造人的肉体容易受到流血和腐蚀。利用那点作为你的优势]]></entry>
+
+
+  </language>
+</root>
+

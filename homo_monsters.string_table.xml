@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <language id="english">
+<entry id="str_monstername_homo_A"><![CDATA[失败的人造人]]></entry>
+<entry id="str_monstername_homo_B"><![CDATA[令人失望的人造人]]></entry>
+<entry id="str_monstername_homo_C"><![CDATA[不完美的人造人]]></entry>
+
+<entry id="str_monstername_speed_pump_A"><![CDATA[混合物S注射器]]></entry>
+<entry id="str_monstername_speed_pump_B"><![CDATA[混合物S注射器]]></entry>
+<entry id="str_monstername_speed_pump_C"><![CDATA[混合物S注射器]]></entry>
+
+<entry id="str_monstername_buff_pump_A"><![CDATA[调合物X注射器]]></entry>
+<entry id="str_monstername_buff_pump_B"><![CDATA[调合物X注射器]]></entry>
+<entry id="str_monstername_buff_pump_C"><![CDATA[调合物X注射器]]></entry>
+
+<entry id="str_monster_skill_grab"><![CDATA[抓取]]></entry>
+<entry id="str_monster_skill_bodyslam"><![CDATA[抱摔]]></entry>
+<entry id="str_monster_skill_swip"><![CDATA[反手碎击]]></entry>
+
+<entry id="str_monster_skill_xpump_speed"><![CDATA[注射混合物S]]></entry>
+<entry id="str_monster_skill_xpump_heal"><![CDATA[注射调合物H]]></entry>
+<entry id="str_monster_skill_xpump_buff"><![CDATA[注射调合物X]]></entry>
+
+
+
+
+
+  </language>
+</root>
+

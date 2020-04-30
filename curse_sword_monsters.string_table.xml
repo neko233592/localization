@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <language id="english">
+<entry id="str_monstername_curse_sword_A"><![CDATA[诅咒之剑]]></entry>
+<entry id="str_monstername_curse_sword_B"><![CDATA[邪秽的诅咒之剑]]></entry>
+<entry id="str_monstername_curse_sword_C"><![CDATA[致命的诅咒之剑]]></entry>
+
+<entry id="str_monster_skill_Blood_Cut"><![CDATA[血腥切割]]></entry>
+<entry id="str_monster_skill_Curse_Cut"><![CDATA[诅咒切割]]></entry>
+
+  </language>
+</root>
+
