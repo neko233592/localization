@@ -1,0 +1,1755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <language id="english">
+   <!--Tables -->
+	<entry id="camping_skill_effect_loot_HERBS_MAIN"><![CDATA[Search for Herbs]]></entry>
+	<entry id="camping_skill_effect_loot_INSTRUMENT"><![CDATA[Craft a Music Instrument]]></entry>
+	<entry id="camping_skill_effect_loot_SHROOM"><![CDATA[Search for Mushrooms]]></entry>
+	<entry id="camping_skill_effect_loot_FRUIT"><![CDATA[Search for Fruits]]></entry>
+	<entry id="camping_skill_effect_loot_WOOD"><![CDATA[Retrieve rare Wood]]></entry>
+	<entry id="camping_skill_effect_loot_MOSS"><![CDATA[Search for curative Moss]]></entry>
+	<entry id="camping_skill_effect_loot_MOSS_B"><![CDATA[Search for curative Moss]]></entry>
+	<entry id="camping_skill_effect_loot_OCCULT_RESIN"><![CDATA[Produce Occult Resin]]></entry>
+	<entry id="camping_skill_effect_loot_HEAVY_RESIN"><![CDATA[Gather Heavy Resin]]></entry>
+	<entry id="camping_skill_effect_loot_HOLY_RESIN"><![CDATA[Produce Holy Resin]]></entry>
+	<entry id="camping_skill_effect_loot_ETHEREAL_RESIN"><![CDATA[Gather Ethereal Resin]]></entry>
+	<entry id="camping_skill_effect_loot_POISON_RESIN"><![CDATA[Gather toxic Resin]]></entry>
+	<entry id="camping_skill_effect_loot_FIRE_RESIN"><![CDATA[Gather flamable Resin]]></entry>
+	<entry id="camping_skill_effect_loot_HERBS_S"><![CDATA[Produce a random supply Item
+	or search for Herbs]]></entry>
+  
+  <!--Shrooms -->
+  <entry id="str_inventory_title_supplyshroom"><![CDATA[Shamanic Fungus]]></entry>
+	<entry id="str_inventory_description_supplyshroom"><![CDATA[A mushroom used in shamanic rituals. It provides insight about the true nature of the world.
+	Heal {colour_start|white}Stress{colour_end}.
+	Be wary inisght might also cause {colour_start|stress}Horror{colour_end} trips]]></entry>
+	
+	<entry id="str_inventory_title_supplyshroom_p"><![CDATA[Shamanic Fungus]]></entry>
+	<entry id="str_inventory_description_supplyshroom_p"><![CDATA[A mushroom used in shamanic rituals. It provides insight about the true nature of the world.
+	Heal {colour_start|white}Stress{colour_end}.
+	Be wary inisght might also cause {colour_start|stress}Horror{colour_end} trips]]></entry>
+
+	<!--Royal -->
+	<entry id="str_inventory_title_supplyroyal"><![CDATA[Royal Greencap]]></entry>
+	<entry id="str_inventory_description_supplyroyal"><![CDATA[Rare Mushroom growing on exotic wood. It emmits a purple bloodlike sap.
+	Despite its look it is able to cure {colour_start|mortaldebuff}Mortality Debuffs{colour_end}. ]]></entry>
+	
+	<!--Moss -->	
+	<entry id="str_inventory_title_supplymoss"><![CDATA[Crimson Moss Clump]]></entry>
+	<entry id="str_inventory_description_supplymoss"><![CDATA[Use to treat poison and open wounds.
+	Cure {colour_start|blight}Blight{colour_end}/{colour_start|bleed}Bleed{colour_end}. ]]></entry>
+	
+	<entry id="str_inventory_title_supplymosspurple"><![CDATA[Amaranth Ointment]]></entry>
+	<entry id="str_inventory_description_supplymosspurple"><![CDATA[Salve made out of purple mossclumps. Use to soak out poison from wounds.
+	Cure {colour_start|blight}Blight{colour_end}. ]]></entry>
+	
+	
+	<entry id="str_inventory_title_supplymossred"><![CDATA[Moss Clumps]]></entry>
+	<entry id="str_inventory_description_supplymossred"><![CDATA[Use to soak up blood from open wounds.
+	Cure {colour_start|bleed}Bleed{colour_end}. ]]></entry>
+	
+	<!--Berry -->
+	<entry id="str_inventory_title_supplyberry"><![CDATA[Wildberrys]]></entry>
+	<entry id="str_inventory_description_supplyberry"><![CDATA[Fresh Berrys found in the wilds. Use to increase your resistances.]]></entry>
+	
+	<!--Wolfgras-->
+	<entry id="str_inventory_title_supplywolfgras"><![CDATA[Swordgrass]]></entry>
+	<entry id="str_inventory_description_supplywolfgras"><![CDATA[The Riftwatchers use this for their brotherhood ritual.
+	These leaves are sharp like metal.
+	Throw them to {colour_start|bleed}Bleed{colour_end} your foes.]]></entry>
+	
+	<!--Rot -->
+	<entry id="str_inventory_title_supplyrot"><![CDATA[Pile of Rot]]></entry>
+	<entry id="str_inventory_description_supplyrot"><![CDATA[A bunch of rotten leftovers.
+	Throw them to {colour_start|blight}Blight{colour_end} your foes.]]></entry>
+	
+	<!--Tangle-->
+	<entry id="str_inventory_title_supplytangle"><![CDATA[Tangleweed]]></entry>
+	<entry id="str_inventory_description_supplytangle"><![CDATA[A sticky liana, severed from a flesh eating plant.
+	Throw to {colour_start|debuff}Debuff:{colour_end} SPEED & DODGE]]></entry>
+	
+	<!--Fruits-->
+	<entry id="str_inventory_title_supplyfruit"><![CDATA[Smelly Fruit]]></entry>
+	<entry id="str_inventory_description_supplyfruit"><![CDATA[This common fruit emmits an awful smell of rotting flesh. Despite this it has 
+	{colour_start|healhp}medicinical use{colour_end}.
+	Be wary some of them are {colour_start|blight}poisonous{colour_end} ! ]]></entry>
+	
+	<entry id="str_inventory_title_supplyfruit_p"><![CDATA[Smelly Fruit]]></entry>
+	<entry id="str_inventory_description_supplyfruit_p"><![CDATA[This common fruit emmits an awful smell of rotting flesh. Despite this it has 
+	{colour_start|healhp}medicinical use{colour_end}.
+	Be wary some of them are {colour_start|blight}poisonous{colour_end} ! ]]></entry>
+	
+	<!--Branch-->
+	<entry id="str_inventory_title_supplybranch"><![CDATA[Ivory Branch]]></entry>
+	<entry id="str_inventory_description_supplybranch"><![CDATA[Ghosttrees are nearly invisible. Breaking the branch emmits a cloud of white ghastly mist. 
+	{colour_start|stealth}Stealth{colour_end} (2rds)]]></entry>
+	
+	<entry id="str_inventory_title_supplyflute"><![CDATA[Cattail Flute]]></entry>
+	<entry id="str_inventory_description_supplyflute"><![CDATA[The Watchers of the Legion learned to craft flutes out of wild Cattail-gras. 
+	The mild Melody {colour_start|virtue}clears Horror and heals Stress{colour_end}]]></entry>
+	
+	<!--Seed-->
+	<entry id="str_inventory_title_supplyseed"><![CDATA[Seed of an Elder Tree]]></entry>
+	<entry id="str_inventory_description_supplyseed"><![CDATA[Rare seed of a long extinct tree. A spirit-guide resides in it.
+	Use to {colour_start|surprised}prevent any ambush{colour_end} (quest),
+	or sell it for a good price]]></entry>
+	
+	<!--Blossom-->
+	<entry id="str_inventory_title_supplyblossom"><![CDATA[Emerald Blossom]]></entry>
+	<entry id="str_inventory_description_supplyblossom"><![CDATA[Blossom found in clear waters, it has a strong rejunevating effect.
+	Grants two{colour_start|notable} additional Combat Actions {colour_end}]]></entry>
+	
+	<entry id="str_inventory_title_supplybud"><![CDATA[Emerald Bud]]></entry>
+	<entry id="str_inventory_description_supplybud"><![CDATA[Bud of a soon blossoming herb found in clear waters, it has a rejunevating effect.
+	Grants an{colour_start|notable} additional Combat Action {colour_end}]]></entry>
+	
+	<!--Spores-->
+	<entry id="str_inventory_title_supplyspores"><![CDATA[Fungal Spores]]></entry>
+	<entry id="str_inventory_description_supplyspores"><![CDATA[Fungus mutants use these glowing spores to tag their enemys.
+	Throw them to 
+	{colour_start|mark}Mark {colour_end} & {colour_start|stealth}Destealth{colour_end} the enemy group.]]></entry>
+	
+	<!--Coral-->
+	<entry id="str_inventory_title_supplycoral"><![CDATA[Cleansing Coral]]></entry>
+	<entry id="str_inventory_description_supplycoral"><![CDATA[A glowing branch of an Eerie Coral. 
+	Use to remove {colour_start|mark}Marks{colour_end} & {colour_start|debuff}Debuffs{colour_end} from your party]]></entry>
+	
+	<!--Fragrant Branch-->
+	<entry id="str_inventory_title_supplyfragrant"><![CDATA[Fragrant Branch]]></entry>
+	<entry id="str_inventory_description_supplyfragrant"><![CDATA[Rare wood emmiting a calming odour. 
+	Use to clear {colour_start|stun}Stun{colour_end} from your party]]></entry>
+	
+	<!--Lotus-->
+	<entry id="str_inventory_title_supplyblacklotus"><![CDATA[Pitch Black Lotus]]></entry>
+	<entry id="str_inventory_description_supplyblacklotus"><![CDATA[It is the rarest amongst all flowers, only growing upon corpses. It withers within seconds if exposed to light.
+	{colour_start|notable} Use during combat to recover from any ailments, or sell it for precious amount of gold.{colour_end} ]]></entry>
+	
+	<!--Butterfly-->
+	<entry id="str_inventory_title_supplybutterfly"><![CDATA[Encaptured Torchling]]></entry>
+	<entry id="str_inventory_description_supplybutterfly"><![CDATA[Rare Butterfly, emmiting glowing dust from its wings, to keep of predators.
+	Release to fully light the Dungeon, and prevent {colour_start|surprised}party surprised{colour_end}.]]></entry>
+	
+	<!--Weed-->
+	<entry id="str_inventory_title_supplyweed"><![CDATA[Sedative Herb]]></entry>
+	<entry id="str_inventory_description_supplyweed"><![CDATA[Some consider this as odd weed. Used in the right way consumption provides stress relief by the cost of SPEED & ACC]]></entry>
+	
+	<!--Riddlestone-->
+	<entry id="str_inventory_title_supplymapstone"><![CDATA[Mapstone]]></entry>
+	<entry id="str_inventory_description_supplymapstone"><![CDATA[Strange overgrown slab found beneath some moss. Someone engraved a map and some hints about the environment into it.]]></entry>
+	
+	
+	<!--Glowberrys-->
+	<entry id="str_inventory_title_supplyglimmer"><![CDATA[Glimmerberrys]]></entry>
+	<entry id="str_inventory_description_supplyglimmer"><![CDATA[Inedible berrys, glowing in all colours of the prism. Use to mark your way to prevent
+	{colour_start|surprised}Backtraging Stress{colour_end},
+	or throw them to disable{colour_start|surprised} Traps{colour_end}]]></entry>
+	
+	<!--saturating-->
+	<entry id="str_inventory_title_supplysaturating"><![CDATA[Nutritious Root]]></entry>
+	<entry id="str_inventory_description_supplysaturating"><![CDATA[This seemingly dried root, inflates upen coming in contact with water. Eat it to saturate the hero until the end of the journey .]]></entry>
+	
+	<!--Resins-->
+	<entry id="str_inventory_title_estateresin_fire"><![CDATA[Flamable Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_fire"><![CDATA[Flamable substance, extracted from plants. Attach this to your weapon to hunt beasts and vampires.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_poison"><![CDATA[Venomous Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_poison"><![CDATA[Poisonous sap, wich dilutes the blood. Attach this to your weapon to increase {colour_start|blight}Blight{colour_end}&{colour_start|bleed}Bleed{colour_end} chance.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_dark"><![CDATA[Occult Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_dark"><![CDATA[Black resin gathered from corrupted plants. Attach this to your weapon to deal increased damage against humans and 
+	in low light.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_holy"><![CDATA[Blessed Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_holy"><![CDATA[Glowing resin, used for holy rituals. Attach this to your weapon to deal increased damage against unholy and 
+	in high light.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_magic"><![CDATA[Ethereal Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_magic"><![CDATA[Strange substance, extracted from the twisted wildlife. Attach this to your weapon to hunt eldritchs and 
+	ignore armour.]]></entry>
+    
+	<entry id="str_inventory_title_estateresin_heavy"><![CDATA[Heavy Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_heavy"><![CDATA[Heavy sap that shines like molten led. Attach this to your weapon to increase {colour_start|stun}Stun{colour_end}&{colour_start|move}Move{colour_end} chance.]]></entry>
+    
+	<!--Disease NOT IMPLEMENTED YET-->
+
+    <entry id="buff_rule_data_tooltip_disease_fungal_passive"><![CDATA[Fungal Infection]]></entry>
+    <entry id="buff_rule_data_tooltip_disease_fungal_active"><![CDATA[Fungal Infection - Overtaking]]></entry>
+    <entry id="quirk_transition_disease_fungal_passive_to_fungal_active"><![CDATA[My pulse slows...the need abates.]]></entry>
+  
+  </language>
+  <language id="german">
+  
+  <!--Tables -->
+	<entry id="camping_skill_effect_loot_HERBS_MAIN"><![CDATA[Search for Herbs]]></entry>
+	<entry id="camping_skill_effect_loot_SHROOM"><![CDATA[Search for Mushrooms]]></entry>
+	<entry id="camping_skill_effect_loot_FRUIT"><![CDATA[Search for Fruits]]></entry>
+	<entry id="camping_skill_effect_loot_WOOD"><![CDATA[Retrieve rare Wood]]></entry>
+	<entry id="camping_skill_effect_loot_MOSS"><![CDATA[Search for curative Moss]]></entry>
+	<entry id="camping_skill_effect_loot_MOSS_B"><![CDATA[Search for curative Moss]]></entry>
+	<entry id="camping_skill_effect_loot_OCCULT_RESIN"><![CDATA[Produce Occult Resin]]></entry>
+	<entry id="camping_skill_effect_loot_HEAVY_RESIN"><![CDATA[Gather Heavy Resin]]></entry>
+	<entry id="camping_skill_effect_loot_HOLY_RESIN"><![CDATA[Produce Holy Resin]]></entry>
+	<entry id="camping_skill_effect_loot_ETHEREAL_RESIN"><![CDATA[Gather Ethereal Resin]]></entry>
+	<entry id="camping_skill_effect_loot_POISON_RESIN"><![CDATA[Gather toxic Resin]]></entry>
+	<entry id="camping_skill_effect_loot_FIRE_RESIN"><![CDATA[Gather flamable Resin]]></entry>
+  
+  
+  
+  <!--Shrooms -->
+  <entry id="str_inventory_title_supplyshroom"><![CDATA[Shamanic Fungus]]></entry>
+	<entry id="str_inventory_description_supplyshroom"><![CDATA[A mushroom used in shamanic rituals. It provides insight about the true nature of the world.
+	Heal {colour_start|white}Stress{colour_end}.
+	Be wary inisght might also cause {colour_start|stress}Horror{colour_end} trips]]></entry>
+	
+	<entry id="str_inventory_title_supplyshroom_p"><![CDATA[Shamanic Fungus]]></entry>
+	<entry id="str_inventory_description_supplyshroom_p"><![CDATA[A mushroom used in shamanic rituals. It provides insight about the true nature of the world.
+	Heal {colour_start|white}Stress{colour_end}.
+	Be wary inisght might also cause {colour_start|stress}Horror{colour_end} trips]]></entry>
+
+	<!--Royal -->
+	<entry id="str_inventory_title_supplyroyal"><![CDATA[Royal Greencap]]></entry>
+	<entry id="str_inventory_description_supplyroyal"><![CDATA[Rare Mushroom growing on exotic wood. It emmits a purple bloodlike sap.
+	Despite its look it is able to cure {colour_start|mortaldebuff}Mortality Debuffs{colour_end}. ]]></entry>
+	
+	<!--Moss -->	
+	<entry id="str_inventory_title_supplymoss"><![CDATA[Crimson Moss Clump]]></entry>
+	<entry id="str_inventory_description_supplymoss"><![CDATA[Use to treat poison and open wounds.
+	Cure {colour_start|blight}Blight{colour_end}/{colour_start|bleed}Bleed{colour_end}. ]]></entry>
+	
+	<entry id="str_inventory_title_supplymosspurple"><![CDATA[Amaranth Ointment]]></entry>
+	<entry id="str_inventory_description_supplymosspurple"><![CDATA[Salve made out of purple mossclumps. Use to soak out poison from wounds.
+	Cure {colour_start|blight}Blight{colour_end}. ]]></entry>
+	
+	
+	<entry id="str_inventory_title_supplymossred"><![CDATA[Moss Clumps]]></entry>
+	<entry id="str_inventory_description_supplymossred"><![CDATA[Use to soak up blood from open wounds.
+	Cure {colour_start|bleed}Bleed{colour_end}. ]]></entry>
+	
+	<!--Berry -->
+	<entry id="str_inventory_title_supplyberry"><![CDATA[Wildberrys]]></entry>
+	<entry id="str_inventory_description_supplyberry"><![CDATA[Fresh Berrys found in the wilds. Use to increase your resistances.]]></entry>
+	
+	<!--Wolfgras-->
+	<entry id="str_inventory_title_supplywolfgras"><![CDATA[Swordgras]]></entry>
+	<entry id="str_inventory_description_supplywolfgras"><![CDATA[The Riftwatchers use this for their brotherhood ritual.
+	These leaves are sharp like metal.
+	Throw them to {colour_start|bleed}Bleed{colour_end} your foes.]]></entry>
+	
+	<!--Rot -->
+	<entry id="str_inventory_title_supplyrot"><![CDATA[Pile of Rot]]></entry>
+	<entry id="str_inventory_description_supplyrot"><![CDATA[A bunch of rotten leftovers.
+	Throw them to {colour_start|blight}Blight{colour_end} your foes.]]></entry>
+	
+	<!--Tangle-->
+	<entry id="str_inventory_title_supplytangle"><![CDATA[Tangleweed]]></entry>
+	<entry id="str_inventory_description_supplytangle"><![CDATA[A sticky liana, severed from a flesh eating plant.
+	Throw to {colour_start|debuff}Debuff:{colour_end} SPEED & DODGE]]></entry>
+	
+	<!--Fruits-->
+	<entry id="str_inventory_title_supplyfruit"><![CDATA[Smelly Fruit]]></entry>
+	<entry id="str_inventory_description_supplyfruit"><![CDATA[This common fruit emmits an awful smell of rotting flesh. Despite this it has 
+	{colour_start|healhp}medicinical use{colour_end}.
+	Be wary some of them are {colour_start|blight}poisonous{colour_end} ! ]]></entry>
+	
+	<entry id="str_inventory_title_supplyfruit_p"><![CDATA[Smelly Fruit]]></entry>
+	<entry id="str_inventory_description_supplyfruit_p"><![CDATA[This common fruit emmits an awful smell of rotting flesh. Despite this it has 
+	{colour_start|healhp}medicinical use{colour_end}.
+	Be wary some of them are {colour_start|blight}poisonous{colour_end} ! ]]></entry>
+	
+	<!--Branch-->
+	<entry id="str_inventory_title_supplybranch"><![CDATA[Ivory Branch]]></entry>
+	<entry id="str_inventory_description_supplybranch"><![CDATA[Ghosttrees are nearly invisible. Breaking the branch emmits a cloud of white ghastly mist. 
+	{colour_start|stealth}Stealth{colour_end} (2rds)]]></entry>
+	
+	<entry id="str_inventory_title_supplyflute"><![CDATA[Cattail Flute]]></entry>
+	<entry id="str_inventory_description_supplyflute"><![CDATA[The Watchers of the Legion learned to craft flutes out of wild Cattail-gras. 
+	The mild Melody {colour_start|virtue}clears Horror and heals Stress{colour_end}]]></entry>
+	
+	<!--Seed-->
+	<entry id="str_inventory_title_supplyseed"><![CDATA[Seed of an Elder Tree]]></entry>
+	<entry id="str_inventory_description_supplyseed"><![CDATA[Rare seed of a long extinct tree. A spirit-guide resides in it.
+	Use to {colour_start|surprised}prevent any ambush{colour_end} (quest),
+	or sell it for a good price]]></entry>
+	
+	<!--Blossom-->
+	<entry id="str_inventory_title_supplyblossom"><![CDATA[Emerald Blossom]]></entry>
+	<entry id="str_inventory_description_supplyblossom"><![CDATA[Blossom found in clear waters, it has a strong rejunevating effect.
+	Grants two{colour_start|notable} additional Combat Actions {colour_end}]]></entry>
+	
+	<entry id="str_inventory_title_supplybud"><![CDATA[Emerald Bud]]></entry>
+	<entry id="str_inventory_description_supplybud"><![CDATA[Bud of a soon blossoming herb found in clear waters, it has a rejunevating effect.
+	Grants an{colour_start|notable} additional Combat Action {colour_end}]]></entry>
+	
+	<!--Spores-->
+	<entry id="str_inventory_title_supplyspores"><![CDATA[Fungal Spores]]></entry>
+	<entry id="str_inventory_description_supplyspores"><![CDATA[Fungus mutants use these glowing spores to tag their enemys.
+	Throw them to 
+	{colour_start|mark}Mark {colour_end} & {colour_start|stealth}Destealth{colour_end} the enemy group.]]></entry>
+	
+	<!--Coral-->
+	<entry id="str_inventory_title_supplycoral"><![CDATA[Cleansing Coral]]></entry>
+	<entry id="str_inventory_description_supplycoral"><![CDATA[A glowing branch of an Eerie Coral. 
+	Use to remove {colour_start|mark}Marks{colour_end} & {colour_start|debuff}Debuffs{colour_end} from your party]]></entry>
+	
+	<!--Fragrant Branch-->
+	<entry id="str_inventory_title_supplyfragrant"><![CDATA[Fragrant Branch]]></entry>
+	<entry id="str_inventory_description_supplyfragrant"><![CDATA[Rare wood emmiting a calming odour. 
+	Use to clear {colour_start|stun}Stun{colour_end} from your party]]></entry>
+	
+	<!--Lotus-->
+	<entry id="str_inventory_title_supplyblacklotus"><![CDATA[Pitch Black Lotus]]></entry>
+	<entry id="str_inventory_description_supplyblacklotus"><![CDATA[It is the rarest amongst all flowers, only growing upon corpses. It withers within seconds if exposed to light.
+	{colour_start|notable} Use during combat to recover from any ailments, or sell it for precious amount of gold.{colour_end} ]]></entry>
+	
+	<!--Butterfly-->
+	<entry id="str_inventory_title_supplybutterfly"><![CDATA[Encaptured Torchling]]></entry>
+	<entry id="str_inventory_description_supplybutterfly"><![CDATA[Rare Butterfly, emmiting glowing dust from its wings, to keep of predators.
+	Release to fully light the Dungeon, and prevent {colour_start|surprised}party surprised{colour_end}.]]></entry>
+	
+	<!--Weed-->
+	<entry id="str_inventory_title_supplyweed"><![CDATA[Sedative Herb]]></entry>
+	<entry id="str_inventory_description_supplyweed"><![CDATA[Some consider this as odd weed. Used in the right way consumption provides stress relief by the cost of SPEED & ACC]]></entry>
+	
+	<!--Riddlestone-->
+	<entry id="str_inventory_title_supplymapstone"><![CDATA[Mapstone]]></entry>
+	<entry id="str_inventory_description_supplymapstone"><![CDATA[Strange overgrown slab found beneath some moss. Someone engraved a map and some hints about the environment into it.]]></entry>
+	
+	
+	<!--Glowberrys-->
+	<entry id="str_inventory_title_supplyglimmer"><![CDATA[Glimmerberrys]]></entry>
+	<entry id="str_inventory_description_supplyglimmer"><![CDATA[Inedible berrys, glowing in ll coours of the prism. Use to mark your way to prevent{colour_start|surprised}Backtraging Stress{colour_end},
+	or throw them to disable{colour_start|surprised} Traps{colour_end}]]></entry>
+	
+	<!--saturating-->
+	<entry id="str_inventory_title_supplysaturating"><![CDATA[Nutritious Root]]></entry>
+	<entry id="str_inventory_description_supplysaturating"><![CDATA[This seemingly dried root, inflates upen coming in contact with water. Eat it to saturate the hero until the end of the journey .]]></entry>
+	
+	<!--Resins-->
+	<entry id="str_inventory_title_estateresin_fire"><![CDATA[Flamable Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_fire"><![CDATA[Flamable substance, extracted from plants. Attach this to your weapon to hunt beasts and vampires.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_poison"><![CDATA[Venomous Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_poison"><![CDATA[Poisonous sap, wich dilutes the blood. Attach this to your weapon to increase {colour_start|blight}Blight{colour_end}&{colour_start|bleed}Bleed{colour_end} chance.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_dark"><![CDATA[Occult Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_dark"><![CDATA[Black resin gathered from corrupted plants. Attach this to your weapon to deal increased damage against humans and 
+	in low light.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_holy"><![CDATA[Blessed Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_holy"><![CDATA[Glowing resin, used for holy rituals. Attach this to your weapon to deal increased damage against unholy and 
+	in high light.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_magic"><![CDATA[Ethereal Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_magic"><![CDATA[Strange substance, extracted from the twisted wildlife. Attach this to your weapon to hunt eldritchs and 
+	ignore armour.]]></entry>
+    
+	<entry id="str_inventory_title_estateresin_heavy"><![CDATA[Heavy Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_heavy"><![CDATA[Heavy sap that shines like molten led. Attach this to your weapon to increase {colour_start|stun}Stun{colour_end}&{colour_start|move}Move{colour_end} chance.]]></entry>
+    
+	<!--Disease NOT IMPLEMENTED YET-->
+
+    <entry id="buff_rule_data_tooltip_disease_fungal_passive"><![CDATA[Fungal Infection]]></entry>
+    <entry id="buff_rule_data_tooltip_disease_fungal_active"><![CDATA[Fungal Infection - Overtaking]]></entry>
+    <entry id="quirk_transition_disease_fungal_passive_to_fungal_active"><![CDATA[My pulse slows...the need abates.]]></entry>
+  </language>
+   <language id="french">
+ 
+
+<!--Tables -->
+	<entry id="camping_skill_effect_loot_HERBS_MAIN"><![CDATA[Search for Herbs]]></entry>
+	<entry id="camping_skill_effect_loot_SHROOM"><![CDATA[Search for Mushrooms]]></entry>
+	<entry id="camping_skill_effect_loot_FRUIT"><![CDATA[Search for Fruits]]></entry>
+	<entry id="camping_skill_effect_loot_WOOD"><![CDATA[Retrieve rare Wood]]></entry>
+	<entry id="camping_skill_effect_loot_MOSS"><![CDATA[Search for curative Moss]]></entry>
+	<entry id="camping_skill_effect_loot_MOSS_B"><![CDATA[Search for curative Moss]]></entry>
+	<entry id="camping_skill_effect_loot_OCCULT_RESIN"><![CDATA[Produce Occult Resin]]></entry>
+	<entry id="camping_skill_effect_loot_HEAVY_RESIN"><![CDATA[Gather Heavy Resin]]></entry>
+	<entry id="camping_skill_effect_loot_HOLY_RESIN"><![CDATA[Produce Holy Resin]]></entry>
+	<entry id="camping_skill_effect_loot_ETHEREAL_RESIN"><![CDATA[Gather Ethereal Resin]]></entry>
+	<entry id="camping_skill_effect_loot_POISON_RESIN"><![CDATA[Gather toxic Resin]]></entry>
+	<entry id="camping_skill_effect_loot_FIRE_RESIN"><![CDATA[Gather flamable Resin]]></entry>
+
+
+ <!--Shrooms -->
+  <entry id="str_inventory_title_supplyshroom"><![CDATA[Shamanic Fungus]]></entry>
+	<entry id="str_inventory_description_supplyshroom"><![CDATA[A mushroom used in shamanic rituals. It provides insight about the true nature of the world.
+	Heal {colour_start|white}Stress{colour_end}.
+	Be wary inisght might also cause {colour_start|stress}Horror{colour_end} trips]]></entry>
+	
+	<entry id="str_inventory_title_supplyshroom_p"><![CDATA[Shamanic Fungus]]></entry>
+	<entry id="str_inventory_description_supplyshroom_p"><![CDATA[A mushroom used in shamanic rituals. It provides insight about the true nature of the world.
+	Heal {colour_start|white}Stress{colour_end}.
+	Be wary inisght might also cause {colour_start|stress}Horror{colour_end} trips]]></entry>
+
+	<!--Royal -->
+	<entry id="str_inventory_title_supplyroyal"><![CDATA[Royal Greencap]]></entry>
+	<entry id="str_inventory_description_supplyroyal"><![CDATA[Rare Mushroom growing on exotic wood. It emmits a purple bloodlike sap.
+	Despite its look it is able to cure {colour_start|mortaldebuff}Mortality Debuffs{colour_end}. ]]></entry>
+	
+	<!--Moss -->	
+	<entry id="str_inventory_title_supplymoss"><![CDATA[Crimson Moss Clump]]></entry>
+	<entry id="str_inventory_description_supplymoss"><![CDATA[Use to treat poison and open wounds.
+	Cure {colour_start|blight}Blight{colour_end}/{colour_start|bleed}Bleed{colour_end}. ]]></entry>
+	
+	<entry id="str_inventory_title_supplymosspurple"><![CDATA[Amaranth Ointment]]></entry>
+	<entry id="str_inventory_description_supplymosspurple"><![CDATA[Salve made out of purple mossclumps. Use to soak out poison from wounds.
+	Cure {colour_start|blight}Blight{colour_end}. ]]></entry>
+	
+	
+	<entry id="str_inventory_title_supplymossred"><![CDATA[Moss Clumps]]></entry>
+	<entry id="str_inventory_description_supplymossred"><![CDATA[Use to soak up blood from open wounds.
+	Cure {colour_start|bleed}Bleed{colour_end}. ]]></entry>
+	
+	<!--Berry -->
+	<entry id="str_inventory_title_supplyberry"><![CDATA[Wildberrys]]></entry>
+	<entry id="str_inventory_description_supplyberry"><![CDATA[Fresh Berrys found in the wilds. Use to increase your resistances.]]></entry>
+	
+	<!--Wolfgras-->
+	<entry id="str_inventory_title_supplywolfgras"><![CDATA[Swordgras]]></entry>
+	<entry id="str_inventory_description_supplywolfgras"><![CDATA[The Riftwatchers use this for their brotherhood ritual.
+	These leaves are sharp like metal.
+	Throw them to {colour_start|bleed}Bleed{colour_end} your foes.]]></entry>
+	
+	<!--Rot -->
+	<entry id="str_inventory_title_supplyrot"><![CDATA[Pile of Rot]]></entry>
+	<entry id="str_inventory_description_supplyrot"><![CDATA[A bunch of rotten leftovers.
+	Throw them to {colour_start|blight}Blight{colour_end} your foes.]]></entry>
+	
+	<!--Tangle-->
+	<entry id="str_inventory_title_supplytangle"><![CDATA[Tangleweed]]></entry>
+	<entry id="str_inventory_description_supplytangle"><![CDATA[A sticky liana, severed from a flesh eating plant.
+	Throw to {colour_start|debuff}Debuff:{colour_end} SPEED & DODGE]]></entry>
+	
+	<!--Fruits-->
+	<entry id="str_inventory_title_supplyfruit"><![CDATA[Smelly Fruit]]></entry>
+	<entry id="str_inventory_description_supplyfruit"><![CDATA[This common fruit emmits an awful smell of rotting flesh. Despite this it has 
+	{colour_start|healhp}medicinical use{colour_end}.
+	Be wary some of them are {colour_start|blight}poisonous{colour_end} ! ]]></entry>
+	
+	<entry id="str_inventory_title_supplyfruit_p"><![CDATA[Smelly Fruit]]></entry>
+	<entry id="str_inventory_description_supplyfruit_p"><![CDATA[This common fruit emmits an awful smell of rotting flesh. Despite this it has 
+	{colour_start|healhp}medicinical use{colour_end}.
+	Be wary some of them are {colour_start|blight}poisonous{colour_end} ! ]]></entry>
+	
+	<!--Branch-->
+	<entry id="str_inventory_title_supplybranch"><![CDATA[Ivory Branch]]></entry>
+	<entry id="str_inventory_description_supplybranch"><![CDATA[Ghosttrees are nearly invisible. Breaking the branch emmits a cloud of white ghastly mist. 
+	{colour_start|stealth}Stealth{colour_end} (2rds)]]></entry>
+	
+	<entry id="str_inventory_title_supplyflute"><![CDATA[Cattail Flute]]></entry>
+	<entry id="str_inventory_description_supplyflute"><![CDATA[The Watchers of the Legion learned to craft flutes out of wild Cattail-gras. 
+	The mild Melody {colour_start|virtue}clears Horror and heals Stress{colour_end}]]></entry>
+	
+	<!--Seed-->
+	<entry id="str_inventory_title_supplyseed"><![CDATA[Seed of an Elder Tree]]></entry>
+	<entry id="str_inventory_description_supplyseed"><![CDATA[Rare seed of a long extinct tree. A spirit-guide resides in it.
+	Use to {colour_start|surprised}prevent any ambush{colour_end} (quest),
+	or sell it for a good price]]></entry>
+	
+	<!--Blossom-->
+	<entry id="str_inventory_title_supplyblossom"><![CDATA[Emerald Blossom]]></entry>
+	<entry id="str_inventory_description_supplyblossom"><![CDATA[Blossom found in clear waters, it has a strong rejunevating effect.
+	Grants two{colour_start|notable} additional Combat Actions {colour_end}]]></entry>
+	
+	<entry id="str_inventory_title_supplybud"><![CDATA[Emerald Bud]]></entry>
+	<entry id="str_inventory_description_supplybud"><![CDATA[Bud of a soon blossoming herb found in clear waters, it has a rejunevating effect.
+	Grants an{colour_start|notable} additional Combat Action {colour_end}]]></entry>
+	
+	<!--Spores-->
+	<entry id="str_inventory_title_supplyspores"><![CDATA[Fungal Spores]]></entry>
+	<entry id="str_inventory_description_supplyspores"><![CDATA[Fungus mutants use these glowing spores to tag their enemys.
+	Throw them to 
+	{colour_start|mark}Mark {colour_end} & {colour_start|stealth}Destealth{colour_end} the enemy group.]]></entry>
+	
+	<!--Coral-->
+	<entry id="str_inventory_title_supplycoral"><![CDATA[Cleansing Coral]]></entry>
+	<entry id="str_inventory_description_supplycoral"><![CDATA[A glowing branch of an Eerie Coral. 
+	Use to remove {colour_start|mark}Marks{colour_end} & {colour_start|debuff}Debuffs{colour_end} from your party]]></entry>
+	
+	<!--Fragrant Branch-->
+	<entry id="str_inventory_title_supplyfragrant"><![CDATA[Fragrant Branch]]></entry>
+	<entry id="str_inventory_description_supplyfragrant"><![CDATA[Rare wood emmiting a calming odour. 
+	Use to clear {colour_start|stun}Stun{colour_end} from your party]]></entry>
+	
+	<!--Lotus-->
+	<entry id="str_inventory_title_supplyblacklotus"><![CDATA[Pitch Black Lotus]]></entry>
+	<entry id="str_inventory_description_supplyblacklotus"><![CDATA[It is the rarest amongst all flowers, only growing upon corpses. It withers within seconds if exposed to light.
+	{colour_start|notable} Use during combat to recover from any ailments, or sell it for precious amount of gold.{colour_end} ]]></entry>
+	
+	<!--Butterfly-->
+	<entry id="str_inventory_title_supplybutterfly"><![CDATA[Encaptured Torchling]]></entry>
+	<entry id="str_inventory_description_supplybutterfly"><![CDATA[Rare Butterfly, emmiting glowing dust from its wings, to keep of predators.
+	Release to fully light the Dungeon, and prevent {colour_start|surprised}party surprised{colour_end}.]]></entry>
+	
+	<!--Weed-->
+	<entry id="str_inventory_title_supplyweed"><![CDATA[Sedative Herb]]></entry>
+	<entry id="str_inventory_description_supplyweed"><![CDATA[Some consider this as odd weed. Used in the right way consumption provides stress relief by the cost of SPEED & ACC]]></entry>
+	
+	<!--Riddlestone-->
+	<entry id="str_inventory_title_supplymapstone"><![CDATA[Mapstone]]></entry>
+	<entry id="str_inventory_description_supplymapstone"><![CDATA[Strange overgrown slab found beneath some moss. Someone engraved a map and some hints about the environment into it.]]></entry>
+	
+	
+	<!--Glowberrys-->
+	<entry id="str_inventory_title_supplyglimmer"><![CDATA[Glimmerberrys]]></entry>
+	<entry id="str_inventory_description_supplyglimmer"><![CDATA[Inedible berrys, glowing in ll coours of the prism. Use to mark your way to prevent{colour_start|surprised}Backtraging Stress{colour_end},
+	or throw them to disable{colour_start|surprised} Traps{colour_end}]]></entry>
+	
+	<!--saturating-->
+	<entry id="str_inventory_title_supplysaturating"><![CDATA[Nutritious Root]]></entry>
+	<entry id="str_inventory_description_supplysaturating"><![CDATA[This seemingly dried root, inflates upen coming in contact with water. Eat it to saturate the hero until the end of the journey .]]></entry>
+	
+	<!--Resins-->
+	<entry id="str_inventory_title_estateresin_fire"><![CDATA[Flamable Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_fire"><![CDATA[Flamable substance, extracted from plants. Attach this to your weapon to hunt beasts and vampires.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_poison"><![CDATA[Venomous Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_poison"><![CDATA[Poisonous sap, wich dilutes the blood. Attach this to your weapon to increase {colour_start|blight}Blight{colour_end}&{colour_start|bleed}Bleed{colour_end} chance.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_dark"><![CDATA[Occult Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_dark"><![CDATA[Black resin gathered from corrupted plants. Attach this to your weapon to deal increased damage against humans and 
+	in low light.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_holy"><![CDATA[Blessed Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_holy"><![CDATA[Glowing resin, used for holy rituals. Attach this to your weapon to deal increased damage against unholy and 
+	in high light.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_magic"><![CDATA[Ethereal Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_magic"><![CDATA[Strange substance, extracted from the twisted wildlife. Attach this to your weapon to hunt eldritchs and 
+	ignore armour.]]></entry>
+    
+	<entry id="str_inventory_title_estateresin_heavy"><![CDATA[Heavy Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_heavy"><![CDATA[Heavy sap that shines like molten led. Attach this to your weapon to increase {colour_start|stun}Stun{colour_end}&{colour_start|move}Move{colour_end} chance.]]></entry>
+    
+	<!--Disease NOT IMPLEMENTED YET-->
+
+    <entry id="buff_rule_data_tooltip_disease_fungal_passive"><![CDATA[Fungal Infection]]></entry>
+    <entry id="buff_rule_data_tooltip_disease_fungal_active"><![CDATA[Fungal Infection - Overtaking]]></entry>
+    <entry id="quirk_transition_disease_fungal_passive_to_fungal_active"><![CDATA[My pulse slows...the need abates.]]></entry>
+  </language>
+   <language id="russian">
+  <!--Shrooms -->
+  
+ <!--Tables -->
+	<entry id="camping_skill_effect_loot_HERBS_MAIN"><![CDATA[Search for Herbs]]></entry>
+	<entry id="camping_skill_effect_loot_SHROOM"><![CDATA[Search for Mushrooms]]></entry>
+	<entry id="camping_skill_effect_loot_FRUIT"><![CDATA[Search for Fruits]]></entry>
+	<entry id="camping_skill_effect_loot_WOOD"><![CDATA[Retrieve rare Wood]]></entry>
+	<entry id="camping_skill_effect_loot_MOSS"><![CDATA[Search for curative Moss]]></entry>
+	<entry id="camping_skill_effect_loot_MOSS_B"><![CDATA[Search for curative Moss]]></entry>
+	<entry id="camping_skill_effect_loot_OCCULT_RESIN"><![CDATA[Produce Occult Resin]]></entry>
+	<entry id="camping_skill_effect_loot_HEAVY_RESIN"><![CDATA[Gather Heavy Resin]]></entry>
+	<entry id="camping_skill_effect_loot_HOLY_RESIN"><![CDATA[Produce Holy Resin]]></entry>
+	<entry id="camping_skill_effect_loot_ETHEREAL_RESIN"><![CDATA[Gather Ethereal Resin]]></entry>
+	<entry id="camping_skill_effect_loot_POISON_RESIN"><![CDATA[Gather toxic Resin]]></entry>
+	<entry id="camping_skill_effect_loot_FIRE_RESIN"><![CDATA[Gather flamable Resin]]></entry> 
+  
+  
+  
+  <entry id="str_inventory_title_supplyshroom"><![CDATA[Shamanic Fungus]]></entry>
+	<entry id="str_inventory_description_supplyshroom"><![CDATA[A mushroom used in shamanic rituals. It provides insight about the true nature of the world.
+	Heal {colour_start|white}Stress{colour_end}.
+	Be wary inisght might also cause {colour_start|stress}Horror{colour_end} trips]]></entry>
+	
+	<entry id="str_inventory_title_supplyshroom_p"><![CDATA[Shamanic Fungus]]></entry>
+	<entry id="str_inventory_description_supplyshroom_p"><![CDATA[A mushroom used in shamanic rituals. It provides insight about the true nature of the world.
+	Heal {colour_start|white}Stress{colour_end}.
+	Be wary inisght might also cause {colour_start|stress}Horror{colour_end} trips]]></entry>
+
+	<!--Royal -->
+	<entry id="str_inventory_title_supplyroyal"><![CDATA[Royal Greencap]]></entry>
+	<entry id="str_inventory_description_supplyroyal"><![CDATA[Rare Mushroom growing on exotic wood. It emmits a purple bloodlike sap.
+	Despite its look it is able to cure {colour_start|mortaldebuff}Mortality Debuffs{colour_end}. ]]></entry>
+	
+	<!--Moss -->	
+	<entry id="str_inventory_title_supplymoss"><![CDATA[Crimson Moss Clump]]></entry>
+	<entry id="str_inventory_description_supplymoss"><![CDATA[Use to treat poison and open wounds.
+	Cure {colour_start|blight}Blight{colour_end}/{colour_start|bleed}Bleed{colour_end}. ]]></entry>
+	
+	<entry id="str_inventory_title_supplymosspurple"><![CDATA[Amaranth Ointment]]></entry>
+	<entry id="str_inventory_description_supplymosspurple"><![CDATA[Salve made out of purple mossclumps. Use to soak out poison from wounds.
+	Cure {colour_start|blight}Blight{colour_end}. ]]></entry>
+	
+	
+	<entry id="str_inventory_title_supplymossred"><![CDATA[Moss Clumps]]></entry>
+	<entry id="str_inventory_description_supplymossred"><![CDATA[Use to soak up blood from open wounds.
+	Cure {colour_start|bleed}Bleed{colour_end}. ]]></entry>
+	
+	<!--Berry -->
+	<entry id="str_inventory_title_supplyberry"><![CDATA[Wildberrys]]></entry>
+	<entry id="str_inventory_description_supplyberry"><![CDATA[Fresh Berrys found in the wilds. Use to increase your resistances.]]></entry>
+	
+	<!--Wolfgras-->
+	<entry id="str_inventory_title_supplywolfgras"><![CDATA[Swordgras]]></entry>
+	<entry id="str_inventory_description_supplywolfgras"><![CDATA[The Riftwatchers use this for their brotherhood ritual.
+	These leaves are sharp like metal.
+	Throw them to {colour_start|bleed}Bleed{colour_end} your foes.]]></entry>
+	
+	<!--Rot -->
+	<entry id="str_inventory_title_supplyrot"><![CDATA[Pile of Rot]]></entry>
+	<entry id="str_inventory_description_supplyrot"><![CDATA[A bunch of rotten leftovers.
+	Throw them to {colour_start|blight}Blight{colour_end} your foes.]]></entry>
+	
+	<!--Tangle-->
+	<entry id="str_inventory_title_supplytangle"><![CDATA[Tangleweed]]></entry>
+	<entry id="str_inventory_description_supplytangle"><![CDATA[A sticky liana, severed from a flesh eating plant.
+	Throw to {colour_start|debuff}Debuff:{colour_end} SPEED & DODGE]]></entry>
+	
+	<!--Fruits-->
+	<entry id="str_inventory_title_supplyfruit"><![CDATA[Smelly Fruit]]></entry>
+	<entry id="str_inventory_description_supplyfruit"><![CDATA[This common fruit emmits an awful smell of rotting flesh. Despite this it has 
+	{colour_start|healhp}medicinical use{colour_end}.
+	Be wary some of them are {colour_start|blight}poisonous{colour_end} ! ]]></entry>
+	
+	<entry id="str_inventory_title_supplyfruit_p"><![CDATA[Smelly Fruit]]></entry>
+	<entry id="str_inventory_description_supplyfruit_p"><![CDATA[This common fruit emmits an awful smell of rotting flesh. Despite this it has 
+	{colour_start|healhp}medicinical use{colour_end}.
+	Be wary some of them are {colour_start|blight}poisonous{colour_end} ! ]]></entry>
+	
+	<!--Branch-->
+	<entry id="str_inventory_title_supplybranch"><![CDATA[Ivory Branch]]></entry>
+	<entry id="str_inventory_description_supplybranch"><![CDATA[Ghosttrees are nearly invisible. Breaking the branch emmits a cloud of white ghastly mist. 
+	{colour_start|stealth}Stealth{colour_end} (2rds)]]></entry>
+	
+	<entry id="str_inventory_title_supplyflute"><![CDATA[Cattail Flute]]></entry>
+	<entry id="str_inventory_description_supplyflute"><![CDATA[The Watchers of the Legion learned to craft flutes out of wild Cattail-gras. 
+	The mild Melody {colour_start|virtue}clears Horror and heals Stress{colour_end}]]></entry>
+	
+	<!--Seed-->
+	<entry id="str_inventory_title_supplyseed"><![CDATA[Seed of an Elder Tree]]></entry>
+	<entry id="str_inventory_description_supplyseed"><![CDATA[Rare seed of a long extinct tree. A spirit-guide resides in it.
+	Use to {colour_start|surprised}prevent any ambush{colour_end} (quest),
+	or sell it for a good price]]></entry>
+	
+	<!--Blossom-->
+	<entry id="str_inventory_title_supplyblossom"><![CDATA[Emerald Blossom]]></entry>
+	<entry id="str_inventory_description_supplyblossom"><![CDATA[Blossom found in clear waters, it has a strong rejunevating effect.
+	Grants two{colour_start|notable} additional Combat Actions {colour_end}]]></entry>
+	
+	<entry id="str_inventory_title_supplybud"><![CDATA[Emerald Bud]]></entry>
+	<entry id="str_inventory_description_supplybud"><![CDATA[Bud of a soon blossoming herb found in clear waters, it has a rejunevating effect.
+	Grants an{colour_start|notable} additional Combat Action {colour_end}]]></entry>
+	
+	<!--Spores-->
+	<entry id="str_inventory_title_supplyspores"><![CDATA[Fungal Spores]]></entry>
+	<entry id="str_inventory_description_supplyspores"><![CDATA[Fungus mutants use these glowing spores to tag their enemys.
+	Throw them to 
+	{colour_start|mark}Mark {colour_end} & {colour_start|stealth}Destealth{colour_end} the enemy group.]]></entry>
+	
+	<!--Coral-->
+	<entry id="str_inventory_title_supplycoral"><![CDATA[Cleansing Coral]]></entry>
+	<entry id="str_inventory_description_supplycoral"><![CDATA[A glowing branch of an Eerie Coral. 
+	Use to remove {colour_start|mark}Marks{colour_end} & {colour_start|debuff}Debuffs{colour_end} from your party]]></entry>
+	
+	<!--Fragrant Branch-->
+	<entry id="str_inventory_title_supplyfragrant"><![CDATA[Fragrant Branch]]></entry>
+	<entry id="str_inventory_description_supplyfragrant"><![CDATA[Rare wood emmiting a calming odour. 
+	Use to clear {colour_start|stun}Stun{colour_end} from your party]]></entry>
+	
+	<!--Lotus-->
+	<entry id="str_inventory_title_supplyblacklotus"><![CDATA[Pitch Black Lotus]]></entry>
+	<entry id="str_inventory_description_supplyblacklotus"><![CDATA[It is the rarest amongst all flowers, only growing upon corpses. It withers within seconds if exposed to light.
+	{colour_start|notable} Use during combat to recover from any ailments, or sell it for precious amount of gold.{colour_end} ]]></entry>
+	
+	<!--Butterfly-->
+	<entry id="str_inventory_title_supplybutterfly"><![CDATA[Encaptured Torchling]]></entry>
+	<entry id="str_inventory_description_supplybutterfly"><![CDATA[Rare Butterfly, emmiting glowing dust from its wings, to keep of predators.
+	Release to fully light the Dungeon, and prevent {colour_start|surprised}party surprised{colour_end}.]]></entry>
+	
+	<!--Weed-->
+	<entry id="str_inventory_title_supplyweed"><![CDATA[Sedative Herb]]></entry>
+	<entry id="str_inventory_description_supplyweed"><![CDATA[Some consider this as odd weed. Used in the right way consumption provides stress relief by the cost of SPEED & ACC]]></entry>
+	
+	<!--Riddlestone-->
+	<entry id="str_inventory_title_supplymapstone"><![CDATA[Mapstone]]></entry>
+	<entry id="str_inventory_description_supplymapstone"><![CDATA[Strange overgrown slab found beneath some moss. Someone engraved a map and some hints about the environment into it.]]></entry>
+	
+	
+	<!--Glowberrys-->
+	<entry id="str_inventory_title_supplyglimmer"><![CDATA[Glimmerberrys]]></entry>
+	<entry id="str_inventory_description_supplyglimmer"><![CDATA[Inedible berrys, glowing in ll coours of the prism. Use to mark your way to prevent{colour_start|surprised}Backtraging Stress{colour_end},
+	or throw them to disable{colour_start|surprised} Traps{colour_end}]]></entry>
+	
+	<!--saturating-->
+	<entry id="str_inventory_title_supplysaturating"><![CDATA[Nutritious Root]]></entry>
+	<entry id="str_inventory_description_supplysaturating"><![CDATA[This seemingly dried root, inflates upen coming in contact with water. Eat it to saturate the hero until the end of the journey .]]></entry>
+	
+	<!--Resins-->
+	<entry id="str_inventory_title_estateresin_fire"><![CDATA[Flamable Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_fire"><![CDATA[Flamable substance, extracted from plants. Attach this to your weapon to hunt beasts and vampires.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_poison"><![CDATA[Venomous Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_poison"><![CDATA[Poisonous sap, wich dilutes the blood. Attach this to your weapon to increase {colour_start|blight}Blight{colour_end}&{colour_start|bleed}Bleed{colour_end} chance.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_dark"><![CDATA[Occult Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_dark"><![CDATA[Black resin gathered from corrupted plants. Attach this to your weapon to deal increased damage against humans and 
+	in low light.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_holy"><![CDATA[Blessed Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_holy"><![CDATA[Glowing resin, used for holy rituals. Attach this to your weapon to deal increased damage against unholy and 
+	in high light.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_magic"><![CDATA[Ethereal Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_magic"><![CDATA[Strange substance, extracted from the twisted wildlife. Attach this to your weapon to hunt eldritchs and 
+	ignore armour.]]></entry>
+    
+	<entry id="str_inventory_title_estateresin_heavy"><![CDATA[Heavy Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_heavy"><![CDATA[Heavy sap that shines like molten led. Attach this to your weapon to increase {colour_start|stun}Stun{colour_end}&{colour_start|move}Move{colour_end} chance.]]></entry>
+    
+	<!--Disease NOT IMPLEMENTED YET-->
+
+    <entry id="buff_rule_data_tooltip_disease_fungal_passive"><![CDATA[Fungal Infection]]></entry>
+    <entry id="buff_rule_data_tooltip_disease_fungal_active"><![CDATA[Fungal Infection - Overtaking]]></entry>
+    <entry id="quirk_transition_disease_fungal_passive_to_fungal_active"><![CDATA[My pulse slows...the need abates.]]></entry>
+  </language>
+   <language id="spanish">
+  
+  
+  <!--Tables -->
+	<entry id="camping_skill_effect_loot_HERBS_MAIN"><![CDATA[Search for Herbs]]></entry>
+	<entry id="camping_skill_effect_loot_SHROOM"><![CDATA[Search for Mushrooms]]></entry>
+	<entry id="camping_skill_effect_loot_FRUIT"><![CDATA[Search for Fruits]]></entry>
+	<entry id="camping_skill_effect_loot_WOOD"><![CDATA[Retrieve rare Wood]]></entry>
+	<entry id="camping_skill_effect_loot_MOSS"><![CDATA[Search for curative Moss]]></entry>
+	<entry id="camping_skill_effect_loot_MOSS_B"><![CDATA[Search for curative Moss]]></entry>
+	<entry id="camping_skill_effect_loot_OCCULT_RESIN"><![CDATA[Produce Occult Resin]]></entry>
+	<entry id="camping_skill_effect_loot_HEAVY_RESIN"><![CDATA[Gather Heavy Resin]]></entry>
+	<entry id="camping_skill_effect_loot_HOLY_RESIN"><![CDATA[Produce Holy Resin]]></entry>
+	<entry id="camping_skill_effect_loot_ETHEREAL_RESIN"><![CDATA[Gather Ethereal Resin]]></entry>
+	<entry id="camping_skill_effect_loot_POISON_RESIN"><![CDATA[Gather toxic Resin]]></entry>
+	<entry id="camping_skill_effect_loot_FIRE_RESIN"><![CDATA[Gather flamable Resin]]></entry>
+  
+  
+  <!--Shrooms -->
+  <entry id="str_inventory_title_supplyshroom"><![CDATA[Shamanic Fungus]]></entry>
+	<entry id="str_inventory_description_supplyshroom"><![CDATA[A mushroom used in shamanic rituals. It provides insight about the true nature of the world.
+	Heal {colour_start|white}Stress{colour_end}.
+	Be wary inisght might also cause {colour_start|stress}Horror{colour_end} trips]]></entry>
+	
+	<entry id="str_inventory_title_supplyshroom_p"><![CDATA[Shamanic Fungus]]></entry>
+	<entry id="str_inventory_description_supplyshroom_p"><![CDATA[A mushroom used in shamanic rituals. It provides insight about the true nature of the world.
+	Heal {colour_start|white}Stress{colour_end}.
+	Be wary inisght might also cause {colour_start|stress}Horror{colour_end} trips]]></entry>
+
+	<!--Royal -->
+	<entry id="str_inventory_title_supplyroyal"><![CDATA[Royal Greencap]]></entry>
+	<entry id="str_inventory_description_supplyroyal"><![CDATA[Rare Mushroom growing on exotic wood. It emmits a purple bloodlike sap.
+	Despite its look it is able to cure {colour_start|mortaldebuff}Mortality Debuffs{colour_end}. ]]></entry>
+	
+	<!--Moss -->	
+	<entry id="str_inventory_title_supplymoss"><![CDATA[Crimson Moss Clump]]></entry>
+	<entry id="str_inventory_description_supplymoss"><![CDATA[Use to treat poison and open wounds.
+	Cure {colour_start|blight}Blight{colour_end}/{colour_start|bleed}Bleed{colour_end}. ]]></entry>
+	
+	<entry id="str_inventory_title_supplymosspurple"><![CDATA[Amaranth Ointment]]></entry>
+	<entry id="str_inventory_description_supplymosspurple"><![CDATA[Salve made out of purple mossclumps. Use to soak out poison from wounds.
+	Cure {colour_start|blight}Blight{colour_end}. ]]></entry>
+	
+	
+	<entry id="str_inventory_title_supplymossred"><![CDATA[Moss Clumps]]></entry>
+	<entry id="str_inventory_description_supplymossred"><![CDATA[Use to soak up blood from open wounds.
+	Cure {colour_start|bleed}Bleed{colour_end}. ]]></entry>
+	
+	<!--Berry -->
+	<entry id="str_inventory_title_supplyberry"><![CDATA[Wildberrys]]></entry>
+	<entry id="str_inventory_description_supplyberry"><![CDATA[Fresh Berrys found in the wilds. Use to increase your resistances.]]></entry>
+	
+	<!--Wolfgras-->
+	<entry id="str_inventory_title_supplywolfgras"><![CDATA[Swordgras]]></entry>
+	<entry id="str_inventory_description_supplywolfgras"><![CDATA[The Riftwatchers use this for their brotherhood ritual.
+	These leaves are sharp like metal.
+	Throw them to {colour_start|bleed}Bleed{colour_end} your foes.]]></entry>
+	
+	<!--Rot -->
+	<entry id="str_inventory_title_supplyrot"><![CDATA[Pile of Rot]]></entry>
+	<entry id="str_inventory_description_supplyrot"><![CDATA[A bunch of rotten leftovers.
+	Throw them to {colour_start|blight}Blight{colour_end} your foes.]]></entry>
+	
+	<!--Tangle-->
+	<entry id="str_inventory_title_supplytangle"><![CDATA[Tangleweed]]></entry>
+	<entry id="str_inventory_description_supplytangle"><![CDATA[A sticky liana, severed from a flesh eating plant.
+	Throw to {colour_start|debuff}Debuff:{colour_end} SPEED & DODGE]]></entry>
+	
+	<!--Fruits-->
+	<entry id="str_inventory_title_supplyfruit"><![CDATA[Smelly Fruit]]></entry>
+	<entry id="str_inventory_description_supplyfruit"><![CDATA[This common fruit emmits an awful smell of rotting flesh. Despite this it has 
+	{colour_start|healhp}medicinical use{colour_end}.
+	Be wary some of them are {colour_start|blight}poisonous{colour_end} ! ]]></entry>
+	
+	<entry id="str_inventory_title_supplyfruit_p"><![CDATA[Smelly Fruit]]></entry>
+	<entry id="str_inventory_description_supplyfruit_p"><![CDATA[This common fruit emmits an awful smell of rotting flesh. Despite this it has 
+	{colour_start|healhp}medicinical use{colour_end}.
+	Be wary some of them are {colour_start|blight}poisonous{colour_end} ! ]]></entry>
+	
+	<!--Branch-->
+	<entry id="str_inventory_title_supplybranch"><![CDATA[Ivory Branch]]></entry>
+	<entry id="str_inventory_description_supplybranch"><![CDATA[Ghosttrees are nearly invisible. Breaking the branch emmits a cloud of white ghastly mist. 
+	{colour_start|stealth}Stealth{colour_end} (2rds)]]></entry>
+	
+	<entry id="str_inventory_title_supplyflute"><![CDATA[Cattail Flute]]></entry>
+	<entry id="str_inventory_description_supplyflute"><![CDATA[The Watchers of the Legion learned to craft flutes out of wild Cattail-gras. 
+	The mild Melody {colour_start|virtue}clears Horror and heals Stress{colour_end}]]></entry>
+	
+	<!--Seed-->
+	<entry id="str_inventory_title_supplyseed"><![CDATA[Seed of an Elder Tree]]></entry>
+	<entry id="str_inventory_description_supplyseed"><![CDATA[Rare seed of a long extinct tree. A spirit-guide resides in it.
+	Use to {colour_start|surprised}prevent any ambush{colour_end} (quest),
+	or sell it for a good price]]></entry>
+	
+	<!--Blossom-->
+	<entry id="str_inventory_title_supplyblossom"><![CDATA[Emerald Blossom]]></entry>
+	<entry id="str_inventory_description_supplyblossom"><![CDATA[Blossom found in clear waters, it has a strong rejunevating effect.
+	Grants two{colour_start|notable} additional Combat Actions {colour_end}]]></entry>
+	
+	<entry id="str_inventory_title_supplybud"><![CDATA[Emerald Bud]]></entry>
+	<entry id="str_inventory_description_supplybud"><![CDATA[Bud of a soon blossoming herb found in clear waters, it has a rejunevating effect.
+	Grants an{colour_start|notable} additional Combat Action {colour_end}]]></entry>
+	
+	<!--Spores-->
+	<entry id="str_inventory_title_supplyspores"><![CDATA[Fungal Spores]]></entry>
+	<entry id="str_inventory_description_supplyspores"><![CDATA[Fungus mutants use these glowing spores to tag their enemys.
+	Throw them to 
+	{colour_start|mark}Mark {colour_end} & {colour_start|stealth}Destealth{colour_end} the enemy group.]]></entry>
+	
+	<!--Coral-->
+	<entry id="str_inventory_title_supplycoral"><![CDATA[Cleansing Coral]]></entry>
+	<entry id="str_inventory_description_supplycoral"><![CDATA[A glowing branch of an Eerie Coral. 
+	Use to remove {colour_start|mark}Marks{colour_end} & {colour_start|debuff}Debuffs{colour_end} from your party]]></entry>
+	
+	<!--Fragrant Branch-->
+	<entry id="str_inventory_title_supplyfragrant"><![CDATA[Fragrant Branch]]></entry>
+	<entry id="str_inventory_description_supplyfragrant"><![CDATA[Rare wood emmiting a calming odour. 
+	Use to clear {colour_start|stun}Stun{colour_end} from your party]]></entry>
+	
+	<!--Lotus-->
+	<entry id="str_inventory_title_supplyblacklotus"><![CDATA[Pitch Black Lotus]]></entry>
+	<entry id="str_inventory_description_supplyblacklotus"><![CDATA[It is the rarest amongst all flowers, only growing upon corpses. It withers within seconds if exposed to light.
+	{colour_start|notable} Use during combat to recover from any ailments, or sell it for precious amount of gold.{colour_end} ]]></entry>
+	
+	<!--Butterfly-->
+	<entry id="str_inventory_title_supplybutterfly"><![CDATA[Encaptured Torchling]]></entry>
+	<entry id="str_inventory_description_supplybutterfly"><![CDATA[Rare Butterfly, emmiting glowing dust from its wings, to keep of predators.
+	Release to fully light the Dungeon, and prevent {colour_start|surprised}party surprised{colour_end}.]]></entry>
+	
+	<!--Weed-->
+	<entry id="str_inventory_title_supplyweed"><![CDATA[Sedative Herb]]></entry>
+	<entry id="str_inventory_description_supplyweed"><![CDATA[Some consider this as odd weed. Used in the right way consumption provides stress relief by the cost of SPEED & ACC]]></entry>
+	
+	<!--Riddlestone-->
+	<entry id="str_inventory_title_supplymapstone"><![CDATA[Mapstone]]></entry>
+	<entry id="str_inventory_description_supplymapstone"><![CDATA[Strange overgrown slab found beneath some moss. Someone engraved a map and some hints about the environment into it.]]></entry>
+	
+	
+	<!--Glowberrys-->
+	<entry id="str_inventory_title_supplyglimmer"><![CDATA[Glimmerberrys]]></entry>
+	<entry id="str_inventory_description_supplyglimmer"><![CDATA[Inedible berrys, glowing in ll coours of the prism. Use to mark your way to prevent{colour_start|surprised}Backtraging Stress{colour_end},
+	or throw them to disable{colour_start|surprised} Traps{colour_end}]]></entry>
+	
+	<!--saturating-->
+	<entry id="str_inventory_title_supplysaturating"><![CDATA[Nutritious Root]]></entry>
+	<entry id="str_inventory_description_supplysaturating"><![CDATA[This seemingly dried root, inflates upen coming in contact with water. Eat it to saturate the hero until the end of the journey .]]></entry>
+	
+	<!--Resins-->
+	<entry id="str_inventory_title_estateresin_fire"><![CDATA[Flamable Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_fire"><![CDATA[Flamable substance, extracted from plants. Attach this to your weapon to hunt beasts and vampires.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_poison"><![CDATA[Venomous Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_poison"><![CDATA[Poisonous sap, wich dilutes the blood. Attach this to your weapon to increase {colour_start|blight}Blight{colour_end}&{colour_start|bleed}Bleed{colour_end} chance.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_dark"><![CDATA[Occult Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_dark"><![CDATA[Black resin gathered from corrupted plants. Attach this to your weapon to deal increased damage against humans and 
+	in low light.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_holy"><![CDATA[Blessed Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_holy"><![CDATA[Glowing resin, used for holy rituals. Attach this to your weapon to deal increased damage against unholy and 
+	in high light.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_magic"><![CDATA[Ethereal Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_magic"><![CDATA[Strange substance, extracted from the twisted wildlife. Attach this to your weapon to hunt eldritchs and 
+	ignore armour.]]></entry>
+    
+	<entry id="str_inventory_title_estateresin_heavy"><![CDATA[Heavy Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_heavy"><![CDATA[Heavy sap that shines like molten led. Attach this to your weapon to increase {colour_start|stun}Stun{colour_end}&{colour_start|move}Move{colour_end} chance.]]></entry>
+    
+	<!--Disease NOT IMPLEMENTED YET-->
+
+    <entry id="buff_rule_data_tooltip_disease_fungal_passive"><![CDATA[Fungal Infection]]></entry>
+    <entry id="buff_rule_data_tooltip_disease_fungal_active"><![CDATA[Fungal Infection - Overtaking]]></entry>
+    <entry id="quirk_transition_disease_fungal_passive_to_fungal_active"><![CDATA[My pulse slows...the need abates.]]></entry>
+  </language>
+   <language id="italian">
+  
+  
+<!--Tables -->
+	<entry id="camping_skill_effect_loot_HERBS_MAIN"><![CDATA[Search for Herbs]]></entry>
+	<entry id="camping_skill_effect_loot_SHROOM"><![CDATA[Search for Mushrooms]]></entry>
+	<entry id="camping_skill_effect_loot_FRUIT"><![CDATA[Search for Fruits]]></entry>
+	<entry id="camping_skill_effect_loot_WOOD"><![CDATA[Retrieve rare Wood]]></entry>
+	<entry id="camping_skill_effect_loot_MOSS"><![CDATA[Search for curative Moss]]></entry>
+	<entry id="camping_skill_effect_loot_MOSS_B"><![CDATA[Search for curative Moss]]></entry>
+	<entry id="camping_skill_effect_loot_OCCULT_RESIN"><![CDATA[Produce Occult Resin]]></entry>
+	<entry id="camping_skill_effect_loot_HEAVY_RESIN"><![CDATA[Gather Heavy Resin]]></entry>
+	<entry id="camping_skill_effect_loot_HOLY_RESIN"><![CDATA[Produce Holy Resin]]></entry>
+	<entry id="camping_skill_effect_loot_ETHEREAL_RESIN"><![CDATA[Gather Ethereal Resin]]></entry>
+	<entry id="camping_skill_effect_loot_POISON_RESIN"><![CDATA[Gather toxic Resin]]></entry>
+	<entry id="camping_skill_effect_loot_FIRE_RESIN"><![CDATA[Gather flamable Resin]]></entry>  
+  
+  
+  <!--Shrooms -->
+  <entry id="str_inventory_title_supplyshroom"><![CDATA[Shamanic Fungus]]></entry>
+	<entry id="str_inventory_description_supplyshroom"><![CDATA[A mushroom used in shamanic rituals. It provides insight about the true nature of the world.
+	Heal {colour_start|white}Stress{colour_end}.
+	Be wary inisght might also cause {colour_start|stress}Horror{colour_end} trips]]></entry>
+	
+	<entry id="str_inventory_title_supplyshroom_p"><![CDATA[Shamanic Fungus]]></entry>
+	<entry id="str_inventory_description_supplyshroom_p"><![CDATA[A mushroom used in shamanic rituals. It provides insight about the true nature of the world.
+	Heal {colour_start|white}Stress{colour_end}.
+	Be wary inisght might also cause {colour_start|stress}Horror{colour_end} trips]]></entry>
+
+	<!--Royal -->
+	<entry id="str_inventory_title_supplyroyal"><![CDATA[Royal Greencap]]></entry>
+	<entry id="str_inventory_description_supplyroyal"><![CDATA[Rare Mushroom growing on exotic wood. It emmits a purple bloodlike sap.
+	Despite its look it is able to cure {colour_start|mortaldebuff}Mortality Debuffs{colour_end}. ]]></entry>
+	
+	<!--Moss -->	
+	<entry id="str_inventory_title_supplymoss"><![CDATA[Crimson Moss Clump]]></entry>
+	<entry id="str_inventory_description_supplymoss"><![CDATA[Use to treat poison and open wounds.
+	Cure {colour_start|blight}Blight{colour_end}/{colour_start|bleed}Bleed{colour_end}. ]]></entry>
+	
+	<entry id="str_inventory_title_supplymosspurple"><![CDATA[Amaranth Ointment]]></entry>
+	<entry id="str_inventory_description_supplymosspurple"><![CDATA[Salve made out of purple mossclumps. Use to soak out poison from wounds.
+	Cure {colour_start|blight}Blight{colour_end}. ]]></entry>
+	
+	
+	<entry id="str_inventory_title_supplymossred"><![CDATA[Moss Clumps]]></entry>
+	<entry id="str_inventory_description_supplymossred"><![CDATA[Use to soak up blood from open wounds.
+	Cure {colour_start|bleed}Bleed{colour_end}. ]]></entry>
+	
+	<!--Berry -->
+	<entry id="str_inventory_title_supplyberry"><![CDATA[Wildberrys]]></entry>
+	<entry id="str_inventory_description_supplyberry"><![CDATA[Fresh Berrys found in the wilds. Use to increase your resistances.]]></entry>
+	
+	<!--Wolfgras-->
+	<entry id="str_inventory_title_supplywolfgras"><![CDATA[Swordgras]]></entry>
+	<entry id="str_inventory_description_supplywolfgras"><![CDATA[The Riftwatchers use this for their brotherhood ritual.
+	These leaves are sharp like metal.
+	Throw them to {colour_start|bleed}Bleed{colour_end} your foes.]]></entry>
+	
+	<!--Rot -->
+	<entry id="str_inventory_title_supplyrot"><![CDATA[Pile of Rot]]></entry>
+	<entry id="str_inventory_description_supplyrot"><![CDATA[A bunch of rotten leftovers.
+	Throw them to {colour_start|blight}Blight{colour_end} your foes.]]></entry>
+	
+	<!--Tangle-->
+	<entry id="str_inventory_title_supplytangle"><![CDATA[Tangleweed]]></entry>
+	<entry id="str_inventory_description_supplytangle"><![CDATA[A sticky liana, severed from a flesh eating plant.
+	Throw to {colour_start|debuff}Debuff:{colour_end} SPEED & DODGE]]></entry>
+	
+	<!--Fruits-->
+	<entry id="str_inventory_title_supplyfruit"><![CDATA[Smelly Fruit]]></entry>
+	<entry id="str_inventory_description_supplyfruit"><![CDATA[This common fruit emmits an awful smell of rotting flesh. Despite this it has 
+	{colour_start|healhp}medicinical use{colour_end}.
+	Be wary some of them are {colour_start|blight}poisonous{colour_end} ! ]]></entry>
+	
+	<entry id="str_inventory_title_supplyfruit_p"><![CDATA[Smelly Fruit]]></entry>
+	<entry id="str_inventory_description_supplyfruit_p"><![CDATA[This common fruit emmits an awful smell of rotting flesh. Despite this it has 
+	{colour_start|healhp}medicinical use{colour_end}.
+	Be wary some of them are {colour_start|blight}poisonous{colour_end} ! ]]></entry>
+	
+	<!--Branch-->
+	<entry id="str_inventory_title_supplybranch"><![CDATA[Ivory Branch]]></entry>
+	<entry id="str_inventory_description_supplybranch"><![CDATA[Ghosttrees are nearly invisible. Breaking the branch emmits a cloud of white ghastly mist. 
+	{colour_start|stealth}Stealth{colour_end} (2rds)]]></entry>
+	
+	<entry id="str_inventory_title_supplyflute"><![CDATA[Cattail Flute]]></entry>
+	<entry id="str_inventory_description_supplyflute"><![CDATA[The Watchers of the Legion learned to craft flutes out of wild Cattail-gras. 
+	The mild Melody {colour_start|virtue}clears Horror and heals Stress{colour_end}]]></entry>
+	
+	<!--Seed-->
+	<entry id="str_inventory_title_supplyseed"><![CDATA[Seed of an Elder Tree]]></entry>
+	<entry id="str_inventory_description_supplyseed"><![CDATA[Rare seed of a long extinct tree. A spirit-guide resides in it.
+	Use to {colour_start|surprised}prevent any ambush{colour_end} (quest),
+	or sell it for a good price]]></entry>
+	
+	<!--Blossom-->
+	<entry id="str_inventory_title_supplyblossom"><![CDATA[Emerald Blossom]]></entry>
+	<entry id="str_inventory_description_supplyblossom"><![CDATA[Blossom found in clear waters, it has a strong rejunevating effect.
+	Grants two{colour_start|notable} additional Combat Actions {colour_end}]]></entry>
+	
+	<entry id="str_inventory_title_supplybud"><![CDATA[Emerald Bud]]></entry>
+	<entry id="str_inventory_description_supplybud"><![CDATA[Bud of a soon blossoming herb found in clear waters, it has a rejunevating effect.
+	Grants an{colour_start|notable} additional Combat Action {colour_end}]]></entry>
+	
+	<!--Spores-->
+	<entry id="str_inventory_title_supplyspores"><![CDATA[Fungal Spores]]></entry>
+	<entry id="str_inventory_description_supplyspores"><![CDATA[Fungus mutants use these glowing spores to tag their enemys.
+	Throw them to 
+	{colour_start|mark}Mark {colour_end} & {colour_start|stealth}Destealth{colour_end} the enemy group.]]></entry>
+	
+	<!--Coral-->
+	<entry id="str_inventory_title_supplycoral"><![CDATA[Cleansing Coral]]></entry>
+	<entry id="str_inventory_description_supplycoral"><![CDATA[A glowing branch of an Eerie Coral. 
+	Use to remove {colour_start|mark}Marks{colour_end} & {colour_start|debuff}Debuffs{colour_end} from your party]]></entry>
+	
+	<!--Fragrant Branch-->
+	<entry id="str_inventory_title_supplyfragrant"><![CDATA[Fragrant Branch]]></entry>
+	<entry id="str_inventory_description_supplyfragrant"><![CDATA[Rare wood emmiting a calming odour. 
+	Use to clear {colour_start|stun}Stun{colour_end} from your party]]></entry>
+	
+	<!--Lotus-->
+	<entry id="str_inventory_title_supplyblacklotus"><![CDATA[Pitch Black Lotus]]></entry>
+	<entry id="str_inventory_description_supplyblacklotus"><![CDATA[It is the rarest amongst all flowers, only growing upon corpses. It withers within seconds if exposed to light.
+	{colour_start|notable} Use during combat to recover from any ailments, or sell it for precious amount of gold.{colour_end} ]]></entry>
+	
+	<!--Butterfly-->
+	<entry id="str_inventory_title_supplybutterfly"><![CDATA[Encaptured Torchling]]></entry>
+	<entry id="str_inventory_description_supplybutterfly"><![CDATA[Rare Butterfly, emmiting glowing dust from its wings, to keep of predators.
+	Release to fully light the Dungeon, and prevent {colour_start|surprised}party surprised{colour_end}.]]></entry>
+	
+	<!--Weed-->
+	<entry id="str_inventory_title_supplyweed"><![CDATA[Sedative Herb]]></entry>
+	<entry id="str_inventory_description_supplyweed"><![CDATA[Some consider this as odd weed. Used in the right way consumption provides stress relief by the cost of SPEED & ACC]]></entry>
+	
+	<!--Riddlestone-->
+	<entry id="str_inventory_title_supplymapstone"><![CDATA[Mapstone]]></entry>
+	<entry id="str_inventory_description_supplymapstone"><![CDATA[Strange overgrown slab found beneath some moss. Someone engraved a map and some hints about the environment into it.]]></entry>
+	
+	
+	<!--Glowberrys-->
+	<entry id="str_inventory_title_supplyglimmer"><![CDATA[Glimmerberrys]]></entry>
+	<entry id="str_inventory_description_supplyglimmer"><![CDATA[Inedible berrys, glowing in ll coours of the prism. Use to mark your way to prevent{colour_start|surprised}Backtraging Stress{colour_end},
+	or throw them to disable{colour_start|surprised} Traps{colour_end}]]></entry>
+	
+	<!--saturating-->
+	<entry id="str_inventory_title_supplysaturating"><![CDATA[Nutritious Root]]></entry>
+	<entry id="str_inventory_description_supplysaturating"><![CDATA[This seemingly dried root, inflates upen coming in contact with water. Eat it to saturate the hero until the end of the journey .]]></entry>
+	
+	<!--Resins-->
+	<entry id="str_inventory_title_estateresin_fire"><![CDATA[Flamable Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_fire"><![CDATA[Flamable substance, extracted from plants. Attach this to your weapon to hunt beasts and vampires.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_poison"><![CDATA[Venomous Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_poison"><![CDATA[Poisonous sap, wich dilutes the blood. Attach this to your weapon to increase {colour_start|blight}Blight{colour_end}&{colour_start|bleed}Bleed{colour_end} chance.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_dark"><![CDATA[Occult Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_dark"><![CDATA[Black resin gathered from corrupted plants. Attach this to your weapon to deal increased damage against humans and 
+	in low light.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_holy"><![CDATA[Blessed Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_holy"><![CDATA[Glowing resin, used for holy rituals. Attach this to your weapon to deal increased damage against unholy and 
+	in high light.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_magic"><![CDATA[Ethereal Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_magic"><![CDATA[Strange substance, extracted from the twisted wildlife. Attach this to your weapon to hunt eldritchs and 
+	ignore armour.]]></entry>
+    
+	<entry id="str_inventory_title_estateresin_heavy"><![CDATA[Heavy Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_heavy"><![CDATA[Heavy sap that shines like molten led. Attach this to your weapon to increase {colour_start|stun}Stun{colour_end}&{colour_start|move}Move{colour_end} chance.]]></entry>
+    
+	<!--Disease NOT IMPLEMENTED YET-->
+
+    <entry id="buff_rule_data_tooltip_disease_fungal_passive"><![CDATA[Fungal Infection]]></entry>
+    <entry id="buff_rule_data_tooltip_disease_fungal_active"><![CDATA[Fungal Infection - Overtaking]]></entry>
+    <entry id="quirk_transition_disease_fungal_passive_to_fungal_active"><![CDATA[My pulse slows...the need abates.]]></entry>
+  </language>
+   <language id="schinese">
+  
+ <!--Tables -->
+	<entry id="camping_skill_effect_loot_HERBS_MAIN"><![CDATA[寻找草药]]></entry>
+	<entry id="camping_skill_effect_loot_SHROOM"><![CDATA[寻找蘑菇]]></entry>
+	<entry id="camping_skill_effect_loot_FRUIT"><![CDATA[寻找水果]]></entry>
+	<entry id="camping_skill_effect_loot_WOOD"><![CDATA[寻回稀有木材]]></entry>
+	<entry id="camping_skill_effect_loot_MOSS"><![CDATA[寻找可医用苔藓球]]></entry>
+	<entry id="camping_skill_effect_loot_MOSS_B"><![CDATA[寻找可医用苔藓球]]></entry>
+	<entry id="camping_skill_effect_loot_OCCULT_RESIN"><![CDATA[出产神秘松脂]]></entry>
+	<entry id="camping_skill_effect_loot_HEAVY_RESIN"><![CDATA[收集重质松脂]]></entry>
+	<entry id="camping_skill_effect_loot_HOLY_RESIN"><![CDATA[制造神圣松脂]]></entry>
+	<entry id="camping_skill_effect_loot_ETHEREAL_RESIN"><![CDATA[收集油性松脂]]></entry>
+	<entry id="camping_skill_effect_loot_POISON_RESIN"><![CDATA[收集带毒松脂]]></entry>
+	<entry id="camping_skill_effect_loot_FIRE_RESIN"><![CDATA[收集可燃松脂]]></entry> 
+  
+  
+  
+  <!--Shrooms -->
+  <entry id="str_inventory_title_supplyshroom"><![CDATA[萨满真菌]]></entry>
+	<entry id="str_inventory_description_supplyshroom"><![CDATA[用于萨满仪式的小蘑菇，他可能有提供洞察世界本质的能力。
+	治疗 {colour_start|white}压力{colour_end}.
+	要小心，服用可能会导致 {colour_start|stress}恐惧{colour_end} 的副作用。]]></entry>
+	
+	<entry id="str_inventory_title_supplyshroom_p"><![CDATA[萨满真菌]]></entry>
+	<entry id="str_inventory_description_supplyshroom_p"><![CDATA[用于萨满仪式的小蘑菇，他可能有提供洞察世界本质的能力。
+	 治疗 {colour_start|white}压力{colour_end}.
+	要小心，服用可能会导致 {colour_start|stress}恐惧{colour_end} 的副作用。]]></entry>
+
+	<!--Royal -->
+	<entry id="str_inventory_title_supplyroyal"><![CDATA[皇家白鬼伞菇]]></entry>
+	<entry id="str_inventory_description_supplyroyal"><![CDATA[生长在异国木材上的稀有蘑菇。伞面上渗露出紫色的体液。
+	尽管它看起来。。。但它可以清除 {colour_start|mortaldebuff}濒死{colour_end}状态。 ]]></entry>
+	
+	<!--Moss -->	
+	<entry id="str_inventory_title_supplymoss"><![CDATA[血红苔藓球]]></entry>
+	<entry id="str_inventory_description_supplymoss"><![CDATA[使用可以治愈中毒或修复开放性伤口。
+	治愈 {colour_start|blight}腐蚀{colour_end}/{colour_start|bleed}流血{colour_end}。]]></entry>
+	
+	<entry id="str_inventory_title_supplymosspurple"><![CDATA[不朽涂膏]]></entry>
+	<entry id="str_inventory_description_supplymosspurple"><![CDATA[紫色苔藓球制作而成的药膏，使用可以从伤口中吸取毒素。
+	治愈 {colour_start|blight}腐蚀{colour_end}。 ]]></entry>
+	
+	
+	<entry id="str_inventory_title_supplymossred"><![CDATA[苔藓团块]]></entry>
+	<entry id="str_inventory_description_supplymossred"><![CDATA[用于吸收开放性创口上的血液。
+	治愈 {colour_start|bleed}流血{colour_end}。]]></entry>
+	
+	<!--Berry -->
+	<entry id="str_inventory_title_supplyberry"><![CDATA[野果]]></entry>
+	<entry id="str_inventory_description_supplyberry"><![CDATA[野外发现的可食用新鲜浆果，吃下可以增加你的抗性。]]></entry>
+	
+	<!--Wolfgras-->
+	<entry id="str_inventory_title_supplywolfgras"><![CDATA[狼血剑草]]></entry>
+	<entry id="str_inventory_description_supplywolfgras"><![CDATA[深渊监视者用于入会仪式的植物。
+	这些叶片犹如刀片般锋利。
+	 扔向你的敌人会导致其{colour_start|bleed}流血{colour_end}。]]></entry>
+	
+	<!--Rot -->
+	<entry id="str_inventory_title_supplyrot"><![CDATA[浆糊]]></entry>
+	<entry id="str_inventory_description_supplyrot"><![CDATA[一团腐烂的遗骸。
+	扔向你的敌人会导致其 {colour_start|blight}腐蚀{colour_end}。]]></entry>
+	
+	<!--Tangle-->
+	<entry id="str_inventory_title_supplytangle"><![CDATA[缠结草团]]></entry>
+	<entry id="str_inventory_description_supplytangle"><![CDATA[由一种带有粘性的藤类植物构成，从某种食肉植物剥离下来。
+	扔向敌人给予{colour_start|debuff}减益:{colour_end} 速度 & 闪避]]></entry>
+	
+	<!--Fruits-->
+	<entry id="str_inventory_title_supplyfruit"><![CDATA[发臭水果]]></entry>
+	<entry id="str_inventory_description_supplyfruit"><![CDATA[这种其貌不扬的水果散发着腐烂果肉的臭味，尽管如此，
+	它可以{colour_start|healhp}治疗{colour_end}生命值.
+	但要小心它带有的{colour_start|blight}腐蚀{colour_end}性!]]></entry>
+	
+	<entry id="str_inventory_title_supplyfruit_p"><![CDATA[发臭水果]]></entry>
+	<entry id="str_inventory_description_supplyfruit_p"><![CDATA[这种其貌不扬的水果散发着腐烂果肉的臭味，尽管如此 ，
+	它可以{colour_start|healhp}治疗{colour_end}生命值.
+	但要小心它带有的{colour_start|blight}腐蚀{colour_end}性!]]></entry>
+	
+	<!--Branch-->
+	<entry id="str_inventory_title_supplybranch"><![CDATA[嫩白树枝]]></entry>
+	<entry id="str_inventory_description_supplybranch"><![CDATA[幽魂之木近无形，折枝散雾白且怖。 
+	使用时{colour_start|stealth}潜行{colour_end} (2回合)]]></entry>
+	
+	<entry id="str_inventory_title_supplyflute"><![CDATA[蒲草笛]]></entry>
+	<entry id="str_inventory_description_supplyflute"><![CDATA[过去军团的守望者们用野外的香蒲学习制作的笛子。
+	柔和的旋律可以清除 {colour_start|virtue}恐惧，并减少压力{colour_end}。]]></entry>
+	
+	<!--Seed-->
+	<entry id="str_inventory_title_supplyseed"><![CDATA[巨人树种子]]></entry>
+	<entry id="str_inventory_description_supplyseed"><![CDATA[绝迹已久之树的稀有种子。其中蕴含着精神的向导。
+	使用时{colour_start|surprised}防止伏击{colour_end} (1任务),
+	或者你可以拿它卖个好价钱。]]></entry>
+	
+	<!--Blossom-->
+	<entry id="str_inventory_title_supplyblossom"><![CDATA[翡翠花]]></entry>
+	<entry id="str_inventory_description_supplyblossom"><![CDATA[在纯净之水中能发现的花朵，据说有着返老还童的强大效果。
+	使用给予{colour_start|notable} 2个额外行动回合 {colour_end}]。]></entry>
+	
+	<entry id="str_inventory_title_supplybud"><![CDATA[翡翠花苞]]></entry>
+	<entry id="str_inventory_description_supplybud"><![CDATA[在纯净之水中发现的很快就要开花的花苞，据说有着使虚弱之人恢复活力的功效。
+	使用给予{colour_start|notable} 1个额外行动回合 {colour_end}。]]></entry>
+	
+	<!--Spores-->
+	<entry id="str_inventory_title_supplyspores"><![CDATA[真菌孢子]]></entry>
+	<entry id="str_inventory_description_supplyspores"><![CDATA[真菌突变体们利用这些会发光的孢子来标记他们的猎物。
+	扔向敌人给予全体{colour_start|mark}标记 {colour_end} & {colour_start|stealth}显踪{colour_end} 。]]></entry>
+	
+	<!--Coral-->
+	<entry id="str_inventory_title_supplycoral"><![CDATA[净化珊瑚]]></entry>
+	<entry id="str_inventory_description_supplycoral"><![CDATA[一种奇异珊瑚的分叉枝条。
+	使用时全体清除 {colour_start|mark}标记{colour_end} & {colour_start|debuff}减益{colour_end}。]]></entry>
+	
+	<!--Fragrant Branch-->
+	<entry id="str_inventory_title_supplyfragrant"><![CDATA[芳香枝条]]></entry>
+	<entry id="str_inventory_description_supplyfragrant"><![CDATA[散发着令人平静的气味的稀有木材。
+	 使用时全体清除{colour_start|stun}晕眩{colour_end}。]]></entry>
+	
+	<!--Lotus-->
+	<entry id="str_inventory_title_supplyblacklotus"><![CDATA[漆黑莲花]]></entry>
+	<entry id="str_inventory_description_supplyblacklotus"><![CDATA[这种花是所有花中最稀有的一种，它只会生长在尸体上。如果让其暴露在阳光下，它会在几秒钟内枯萎。
+	在战斗中使用可以{colour_start|notable} 治愈疾病，或者你可以拿它卖个好价钱{colour_end}。]]></entry>
+	
+	<!--Butterfly-->
+	<entry id="str_inventory_title_supplybutterfly"><![CDATA[猎获的太阳]]></entry>
+	<entry id="str_inventory_description_supplybutterfly"><![CDATA[一种稀有的蝴蝶，其翅膀会散发出炽烈的粉尘来躲避掠食者。
+	释放时会照亮地牢, 并避免{colour_start|surprised}队伍惊慌{colour_end}。]]></entry>
+	
+	<!--Weed-->
+	<entry id="str_inventory_title_supplyweed"><![CDATA[“镇静”]]></entry>
+	<entry id="str_inventory_description_supplyweed"><![CDATA[有些人认为这只是一种怪异无用的植物，但用正确的方式使用将会以降低速度 & 精准来减轻你的压力。]]></entry>
+	
+	<!--Riddlestone-->
+	<entry id="str_inventory_title_supplymapstone"><![CDATA[地图石]]></entry>
+	<entry id="str_inventory_description_supplymapstone"><![CDATA[在一片苔藓下发现的杂草丛生的怪异石板，有人在上面刻上了这片地区的地图和一些建议。]]></entry>
+	
+	
+	<!--Glowberrys-->
+	<entry id="str_inventory_title_supplyglimmer"><![CDATA[发光浆果]]></entry>
+	<entry id="str_inventory_description_supplyglimmer"><![CDATA[不可食用的浆果，在镜子照射下会反射出两种颜色。 使用时会标记自身，但{colour_start|surprised}倒退时不会增加压力{colour_end},
+	或者扔掉它可以使{colour_start|surprised} 陷阱{colour_end}失效。]]></entry>
+	
+	<!--saturating-->
+	<entry id="str_inventory_title_supplysaturating"><![CDATA[富含营养的根茎]]></entry>
+	<entry id="str_inventory_description_supplysaturating"><![CDATA[它虽然看样子干瘪，但遇见水将会变的膨胀。吃下将使你的英雄饱腹到任务结束。]]></entry>
+	
+	<!--Resins-->
+	<entry id="str_inventory_title_estateresin_fire"><![CDATA[焦炭松脂]]></entry>
+	<entry id="str_inventory_description_estateresin_fire"><![CDATA[从植物提取的可燃物集合体，将其附于你的武器上，可以更高效的猎杀野兽和血裔。]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_poison"><![CDATA[腐败松脂]]></entry>
+	<entry id="str_inventory_description_estateresin_poison"><![CDATA[可以稀释血液的有毒树脂，将其附于你的武器上，增加{colour_start|blight}腐蚀{colour_end}&{colour_start|bleed}流血{colour_end}技能概率。]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_dark"><![CDATA[人松脂]]></entry>
+	<entry id="str_inventory_description_estateresin_dark"><![CDATA[腐烂植物中收集的黑色树脂，将其附于你的武器上，会在低亮度下造成更高的伤害，尤其是人类。]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_holy"><![CDATA[神圣松脂]]></entry>
+	<entry id="str_inventory_description_estateresin_holy"><![CDATA[用于神圣仪式的发光树脂，将其附于你的武器上，会在高亮度下造成更高的伤害，尤其是邪秽。]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_magic"><![CDATA[青白色松脂]]></entry>
+	<entry id="str_inventory_description_estateresin_magic"><![CDATA[从扭曲的动物中提取的奇怪物质集合，将其附于你的武器上，可以穿透护甲，对异魔造成更高的伤害。]]></entry>
+    
+	<entry id="str_inventory_title_estateresin_heavy"><![CDATA[厚重松脂]]></entry>
+	<entry id="str_inventory_description_estateresin_heavy"><![CDATA[如熔融的二极管一样发出光芒的粘重树液。将其附于你的武器上，将提升 {colour_start|stun}晕眩{colour_end}&{colour_start|move}位移{colour_end} 技能概率。]]></entry>
+    
+	<!--Disease NOT IMPLEMENTED YET-->
+
+    <entry id="buff_rule_data_tooltip_disease_fungal_passive"><![CDATA[真菌感染]]></entry>
+    <entry id="buff_rule_data_tooltip_disease_fungal_active"><![CDATA[超级真菌感染]]></entry>
+    <entry id="quirk_transition_disease_fungal_passive_to_fungal_active"><![CDATA[我的脉搏慢下来了。。。欲望。。。也在消失。。。]]></entry>
+  </language>
+  <language id="polish">
+ 
+
+<!--Tables -->
+	<entry id="camping_skill_effect_loot_HERBS_MAIN"><![CDATA[Search for Herbs]]></entry>
+	<entry id="camping_skill_effect_loot_SHROOM"><![CDATA[Search for Mushrooms]]></entry>
+	<entry id="camping_skill_effect_loot_FRUIT"><![CDATA[Search for Fruits]]></entry>
+	<entry id="camping_skill_effect_loot_WOOD"><![CDATA[Retrieve rare Wood]]></entry>
+	<entry id="camping_skill_effect_loot_MOSS"><![CDATA[Search for curative Moss]]></entry>
+	<entry id="camping_skill_effect_loot_MOSS_B"><![CDATA[Search for curative Moss]]></entry>
+	<entry id="camping_skill_effect_loot_OCCULT_RESIN"><![CDATA[Produce Occult Resin]]></entry>
+	<entry id="camping_skill_effect_loot_HEAVY_RESIN"><![CDATA[Gather Heavy Resin]]></entry>
+	<entry id="camping_skill_effect_loot_HOLY_RESIN"><![CDATA[Produce Holy Resin]]></entry>
+	<entry id="camping_skill_effect_loot_ETHEREAL_RESIN"><![CDATA[Gather Ethereal Resin]]></entry>
+	<entry id="camping_skill_effect_loot_POISON_RESIN"><![CDATA[Gather toxic Resin]]></entry>
+	<entry id="camping_skill_effect_loot_FIRE_RESIN"><![CDATA[Gather flamable Resin]]></entry>
+
+
+ <!--Shrooms -->
+  <entry id="str_inventory_title_supplyshroom"><![CDATA[Shamanic Fungus]]></entry>
+	<entry id="str_inventory_description_supplyshroom"><![CDATA[A mushroom used in shamanic rituals. It provides insight about the true nature of the world.
+	Heal {colour_start|white}Stress{colour_end}.
+	Be wary inisght might also cause {colour_start|stress}Horror{colour_end} trips]]></entry>
+	
+	<entry id="str_inventory_title_supplyshroom_p"><![CDATA[Shamanic Fungus]]></entry>
+	<entry id="str_inventory_description_supplyshroom_p"><![CDATA[A mushroom used in shamanic rituals. It provides insight about the true nature of the world.
+	Heal {colour_start|white}Stress{colour_end}.
+	Be wary inisght might also cause {colour_start|stress}Horror{colour_end} trips]]></entry>
+
+	<!--Royal -->
+	<entry id="str_inventory_title_supplyroyal"><![CDATA[Royal Greencap]]></entry>
+	<entry id="str_inventory_description_supplyroyal"><![CDATA[Rare Mushroom growing on exotic wood. It emmits a purple bloodlike sap.
+	Despite its look it is able to cure {colour_start|mortaldebuff}Mortality Debuffs{colour_end}. ]]></entry>
+	
+	<!--Moss -->	
+	<entry id="str_inventory_title_supplymoss"><![CDATA[Crimson Moss Clump]]></entry>
+	<entry id="str_inventory_description_supplymoss"><![CDATA[Use to treat poison and open wounds.
+	Cure {colour_start|blight}Blight{colour_end}/{colour_start|bleed}Bleed{colour_end}. ]]></entry>
+	
+	<entry id="str_inventory_title_supplymosspurple"><![CDATA[Amaranth Ointment]]></entry>
+	<entry id="str_inventory_description_supplymosspurple"><![CDATA[Salve made out of purple mossclumps. Use to soak out poison from wounds.
+	Cure {colour_start|blight}Blight{colour_end}. ]]></entry>
+	
+	
+	<entry id="str_inventory_title_supplymossred"><![CDATA[Moss Clumps]]></entry>
+	<entry id="str_inventory_description_supplymossred"><![CDATA[Use to soak up blood from open wounds.
+	Cure {colour_start|bleed}Bleed{colour_end}. ]]></entry>
+	
+	<!--Berry -->
+	<entry id="str_inventory_title_supplyberry"><![CDATA[Wildberrys]]></entry>
+	<entry id="str_inventory_description_supplyberry"><![CDATA[Fresh Berrys found in the wilds. Use to increase your resistances.]]></entry>
+	
+	<!--Wolfgras-->
+	<entry id="str_inventory_title_supplywolfgras"><![CDATA[Swordgras]]></entry>
+	<entry id="str_inventory_description_supplywolfgras"><![CDATA[The Riftwatchers use this for their brotherhood ritual.
+	These leaves are sharp like metal.
+	Throw them to {colour_start|bleed}Bleed{colour_end} your foes.]]></entry>
+	
+	<!--Rot -->
+	<entry id="str_inventory_title_supplyrot"><![CDATA[Pile of Rot]]></entry>
+	<entry id="str_inventory_description_supplyrot"><![CDATA[A bunch of rotten leftovers.
+	Throw them to {colour_start|blight}Blight{colour_end} your foes.]]></entry>
+	
+	<!--Tangle-->
+	<entry id="str_inventory_title_supplytangle"><![CDATA[Tangleweed]]></entry>
+	<entry id="str_inventory_description_supplytangle"><![CDATA[A sticky liana, severed from a flesh eating plant.
+	Throw to {colour_start|debuff}Debuff:{colour_end} SPEED & DODGE]]></entry>
+	
+	<!--Fruits-->
+	<entry id="str_inventory_title_supplyfruit"><![CDATA[Smelly Fruit]]></entry>
+	<entry id="str_inventory_description_supplyfruit"><![CDATA[This common fruit emmits an awful smell of rotting flesh. Despite this it has 
+	{colour_start|healhp}medicinical use{colour_end}.
+	Be wary some of them are {colour_start|blight}poisonous{colour_end} ! ]]></entry>
+	
+	<entry id="str_inventory_title_supplyfruit_p"><![CDATA[Smelly Fruit]]></entry>
+	<entry id="str_inventory_description_supplyfruit_p"><![CDATA[This common fruit emmits an awful smell of rotting flesh. Despite this it has 
+	{colour_start|healhp}medicinical use{colour_end}.
+	Be wary some of them are {colour_start|blight}poisonous{colour_end} ! ]]></entry>
+	
+	<!--Branch-->
+	<entry id="str_inventory_title_supplybranch"><![CDATA[Ivory Branch]]></entry>
+	<entry id="str_inventory_description_supplybranch"><![CDATA[Ghosttrees are nearly invisible. Breaking the branch emmits a cloud of white ghastly mist. 
+	{colour_start|stealth}Stealth{colour_end} (2rds)]]></entry>
+	
+	<entry id="str_inventory_title_supplyflute"><![CDATA[Cattail Flute]]></entry>
+	<entry id="str_inventory_description_supplyflute"><![CDATA[The Watchers of the Legion learned to craft flutes out of wild Cattail-gras. 
+	The mild Melody {colour_start|virtue}clears Horror and heals Stress{colour_end}]]></entry>
+	
+	<!--Seed-->
+	<entry id="str_inventory_title_supplyseed"><![CDATA[Seed of an Elder Tree]]></entry>
+	<entry id="str_inventory_description_supplyseed"><![CDATA[Rare seed of a long extinct tree. A spirit-guide resides in it.
+	Use to {colour_start|surprised}prevent any ambush{colour_end} (quest),
+	or sell it for a good price]]></entry>
+	
+	<!--Blossom-->
+	<entry id="str_inventory_title_supplyblossom"><![CDATA[Emerald Blossom]]></entry>
+	<entry id="str_inventory_description_supplyblossom"><![CDATA[Blossom found in clear waters, it has a strong rejunevating effect.
+	Grants two{colour_start|notable} additional Combat Actions {colour_end}]]></entry>
+	
+	<entry id="str_inventory_title_supplybud"><![CDATA[Emerald Bud]]></entry>
+	<entry id="str_inventory_description_supplybud"><![CDATA[Bud of a soon blossoming herb found in clear waters, it has a rejunevating effect.
+	Grants an{colour_start|notable} additional Combat Action {colour_end}]]></entry>
+	
+	<!--Spores-->
+	<entry id="str_inventory_title_supplyspores"><![CDATA[Fungal Spores]]></entry>
+	<entry id="str_inventory_description_supplyspores"><![CDATA[Fungus mutants use these glowing spores to tag their enemys.
+	Throw them to 
+	{colour_start|mark}Mark {colour_end} & {colour_start|stealth}Destealth{colour_end} the enemy group.]]></entry>
+	
+	<!--Coral-->
+	<entry id="str_inventory_title_supplycoral"><![CDATA[Cleansing Coral]]></entry>
+	<entry id="str_inventory_description_supplycoral"><![CDATA[A glowing branch of an Eerie Coral. 
+	Use to remove {colour_start|mark}Marks{colour_end} & {colour_start|debuff}Debuffs{colour_end} from your party]]></entry>
+	
+	<!--Fragrant Branch-->
+	<entry id="str_inventory_title_supplyfragrant"><![CDATA[Fragrant Branch]]></entry>
+	<entry id="str_inventory_description_supplyfragrant"><![CDATA[Rare wood emmiting a calming odour. 
+	Use to clear {colour_start|stun}Stun{colour_end} from your party]]></entry>
+	
+	<!--Lotus-->
+	<entry id="str_inventory_title_supplyblacklotus"><![CDATA[Pitch Black Lotus]]></entry>
+	<entry id="str_inventory_description_supplyblacklotus"><![CDATA[It is the rarest amongst all flowers, only growing upon corpses. It withers within seconds if exposed to light.
+	{colour_start|notable} Use during combat to recover from any ailments, or sell it for precious amount of gold.{colour_end} ]]></entry>
+	
+	<!--Butterfly-->
+	<entry id="str_inventory_title_supplybutterfly"><![CDATA[Encaptured Torchling]]></entry>
+	<entry id="str_inventory_description_supplybutterfly"><![CDATA[Rare Butterfly, emmiting glowing dust from its wings, to keep of predators.
+	Release to fully light the Dungeon, and prevent {colour_start|surprised}party surprised{colour_end}.]]></entry>
+	
+	<!--Weed-->
+	<entry id="str_inventory_title_supplyweed"><![CDATA[Sedative Herb]]></entry>
+	<entry id="str_inventory_description_supplyweed"><![CDATA[Some consider this as odd weed. Used in the right way consumption provides stress relief by the cost of SPEED & ACC]]></entry>
+	
+	<!--Riddlestone-->
+	<entry id="str_inventory_title_supplymapstone"><![CDATA[Mapstone]]></entry>
+	<entry id="str_inventory_description_supplymapstone"><![CDATA[Strange overgrown slab found beneath some moss. Someone engraved a map and some hints about the environment into it.]]></entry>
+	
+	
+	<!--Glowberrys-->
+	<entry id="str_inventory_title_supplyglimmer"><![CDATA[Glimmerberrys]]></entry>
+	<entry id="str_inventory_description_supplyglimmer"><![CDATA[Inedible berrys, glowing in ll coours of the prism. Use to mark your way to prevent{colour_start|surprised}Backtraging Stress{colour_end},
+	or throw them to disable{colour_start|surprised} Traps{colour_end}]]></entry>
+	
+	<!--saturating-->
+	<entry id="str_inventory_title_supplysaturating"><![CDATA[Nutritious Root]]></entry>
+	<entry id="str_inventory_description_supplysaturating"><![CDATA[This seemingly dried root, inflates upen coming in contact with water. Eat it to saturate the hero until the end of the journey .]]></entry>
+	
+	<!--Resins-->
+	<entry id="str_inventory_title_estateresin_fire"><![CDATA[Flamable Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_fire"><![CDATA[Flamable substance, extracted from plants. Attach this to your weapon to hunt beasts and vampires.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_poison"><![CDATA[Venomous Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_poison"><![CDATA[Poisonous sap, wich dilutes the blood. Attach this to your weapon to increase {colour_start|blight}Blight{colour_end}&{colour_start|bleed}Bleed{colour_end} chance.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_dark"><![CDATA[Occult Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_dark"><![CDATA[Black resin gathered from corrupted plants. Attach this to your weapon to deal increased damage against humans and 
+	in low light.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_holy"><![CDATA[Blessed Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_holy"><![CDATA[Glowing resin, used for holy rituals. Attach this to your weapon to deal increased damage against unholy and 
+	in high light.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_magic"><![CDATA[Ethereal Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_magic"><![CDATA[Strange substance, extracted from the twisted wildlife. Attach this to your weapon to hunt eldritchs and 
+	ignore armour.]]></entry>
+    
+	<entry id="str_inventory_title_estateresin_heavy"><![CDATA[Heavy Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_heavy"><![CDATA[Heavy sap that shines like molten led. Attach this to your weapon to increase {colour_start|stun}Stun{colour_end}&{colour_start|move}Move{colour_end} chance.]]></entry>
+    
+	<!--Disease NOT IMPLEMENTED YET-->
+
+    <entry id="buff_rule_data_tooltip_disease_fungal_passive"><![CDATA[Fungal Infection]]></entry>
+    <entry id="buff_rule_data_tooltip_disease_fungal_active"><![CDATA[Fungal Infection - Overtaking]]></entry>
+    <entry id="quirk_transition_disease_fungal_passive_to_fungal_active"><![CDATA[My pulse slows...the need abates.]]></entry>
+  </language>
+  <language id="czech">
+  
+ <!--Tables -->
+	<entry id="camping_skill_effect_loot_HERBS_MAIN"><![CDATA[Search for Herbs]]></entry>
+	<entry id="camping_skill_effect_loot_SHROOM"><![CDATA[Search for Mushrooms]]></entry>
+	<entry id="camping_skill_effect_loot_FRUIT"><![CDATA[Search for Fruits]]></entry>
+	<entry id="camping_skill_effect_loot_WOOD"><![CDATA[Retrieve rare Wood]]></entry>
+	<entry id="camping_skill_effect_loot_MOSS"><![CDATA[Search for curative Moss]]></entry>
+	<entry id="camping_skill_effect_loot_MOSS_B"><![CDATA[Search for curative Moss]]></entry>
+	<entry id="camping_skill_effect_loot_OCCULT_RESIN"><![CDATA[Produce Occult Resin]]></entry>
+	<entry id="camping_skill_effect_loot_HEAVY_RESIN"><![CDATA[Gather Heavy Resin]]></entry>
+	<entry id="camping_skill_effect_loot_HOLY_RESIN"><![CDATA[Produce Holy Resin]]></entry>
+	<entry id="camping_skill_effect_loot_ETHEREAL_RESIN"><![CDATA[Gather Ethereal Resin]]></entry>
+	<entry id="camping_skill_effect_loot_POISON_RESIN"><![CDATA[Gather toxic Resin]]></entry>
+	<entry id="camping_skill_effect_loot_FIRE_RESIN"><![CDATA[Gather flamable Resin]]></entry> 
+  
+  
+  
+  
+  <!--Shrooms -->
+  <entry id="str_inventory_title_supplyshroom"><![CDATA[Shamanic Fungus]]></entry>
+	<entry id="str_inventory_description_supplyshroom"><![CDATA[A mushroom used in shamanic rituals. It provides insight about the true nature of the world.
+	Heal {colour_start|white}Stress{colour_end}.
+	Be wary inisght might also cause {colour_start|stress}Horror{colour_end} trips]]></entry>
+	
+	<entry id="str_inventory_title_supplyshroom_p"><![CDATA[Shamanic Fungus]]></entry>
+	<entry id="str_inventory_description_supplyshroom_p"><![CDATA[A mushroom used in shamanic rituals. It provides insight about the true nature of the world.
+	Heal {colour_start|white}Stress{colour_end}.
+	Be wary inisght might also cause {colour_start|stress}Horror{colour_end} trips]]></entry>
+
+	<!--Royal -->
+	<entry id="str_inventory_title_supplyroyal"><![CDATA[Royal Greencap]]></entry>
+	<entry id="str_inventory_description_supplyroyal"><![CDATA[Rare Mushroom growing on exotic wood. It emmits a purple bloodlike sap.
+	Despite its look it is able to cure {colour_start|mortaldebuff}Mortality Debuffs{colour_end}. ]]></entry>
+	
+	<!--Moss -->	
+	<entry id="str_inventory_title_supplymoss"><![CDATA[Crimson Moss Clump]]></entry>
+	<entry id="str_inventory_description_supplymoss"><![CDATA[Use to treat poison and open wounds.
+	Cure {colour_start|blight}Blight{colour_end}/{colour_start|bleed}Bleed{colour_end}. ]]></entry>
+	
+	<entry id="str_inventory_title_supplymosspurple"><![CDATA[Amaranth Ointment]]></entry>
+	<entry id="str_inventory_description_supplymosspurple"><![CDATA[Salve made out of purple mossclumps. Use to soak out poison from wounds.
+	Cure {colour_start|blight}Blight{colour_end}. ]]></entry>
+	
+	
+	<entry id="str_inventory_title_supplymossred"><![CDATA[Moss Clumps]]></entry>
+	<entry id="str_inventory_description_supplymossred"><![CDATA[Use to soak up blood from open wounds.
+	Cure {colour_start|bleed}Bleed{colour_end}. ]]></entry>
+	
+	<!--Berry -->
+	<entry id="str_inventory_title_supplyberry"><![CDATA[Wildberrys]]></entry>
+	<entry id="str_inventory_description_supplyberry"><![CDATA[Fresh Berrys found in the wilds. Use to increase your resistances.]]></entry>
+	
+	<!--Wolfgras-->
+	<entry id="str_inventory_title_supplywolfgras"><![CDATA[Swordgras]]></entry>
+	<entry id="str_inventory_description_supplywolfgras"><![CDATA[The Riftwatchers use this for their brotherhood ritual.
+	These leaves are sharp like metal.
+	Throw them to {colour_start|bleed}Bleed{colour_end} your foes.]]></entry>
+	
+	<!--Rot -->
+	<entry id="str_inventory_title_supplyrot"><![CDATA[Pile of Rot]]></entry>
+	<entry id="str_inventory_description_supplyrot"><![CDATA[A bunch of rotten leftovers.
+	Throw them to {colour_start|blight}Blight{colour_end} your foes.]]></entry>
+	
+	<!--Tangle-->
+	<entry id="str_inventory_title_supplytangle"><![CDATA[Tangleweed]]></entry>
+	<entry id="str_inventory_description_supplytangle"><![CDATA[A sticky liana, severed from a flesh eating plant.
+	Throw to {colour_start|debuff}Debuff:{colour_end} SPEED & DODGE]]></entry>
+	
+	<!--Fruits-->
+	<entry id="str_inventory_title_supplyfruit"><![CDATA[Smelly Fruit]]></entry>
+	<entry id="str_inventory_description_supplyfruit"><![CDATA[This common fruit emmits an awful smell of rotting flesh. Despite this it has 
+	{colour_start|healhp}medicinical use{colour_end}.
+	Be wary some of them are {colour_start|blight}poisonous{colour_end} ! ]]></entry>
+	
+	<entry id="str_inventory_title_supplyfruit_p"><![CDATA[Smelly Fruit]]></entry>
+	<entry id="str_inventory_description_supplyfruit_p"><![CDATA[This common fruit emmits an awful smell of rotting flesh. Despite this it has 
+	{colour_start|healhp}medicinical use{colour_end}.
+	Be wary some of them are {colour_start|blight}poisonous{colour_end} ! ]]></entry>
+	
+	<!--Branch-->
+	<entry id="str_inventory_title_supplybranch"><![CDATA[Ivory Branch]]></entry>
+	<entry id="str_inventory_description_supplybranch"><![CDATA[Ghosttrees are nearly invisible. Breaking the branch emmits a cloud of white ghastly mist. 
+	{colour_start|stealth}Stealth{colour_end} (2rds)]]></entry>
+	
+	<entry id="str_inventory_title_supplyflute"><![CDATA[Cattail Flute]]></entry>
+	<entry id="str_inventory_description_supplyflute"><![CDATA[The Watchers of the Legion learned to craft flutes out of wild Cattail-gras. 
+	The mild Melody {colour_start|virtue}clears Horror and heals Stress{colour_end}]]></entry>
+	
+	<!--Seed-->
+	<entry id="str_inventory_title_supplyseed"><![CDATA[Seed of an Elder Tree]]></entry>
+	<entry id="str_inventory_description_supplyseed"><![CDATA[Rare seed of a long extinct tree. A spirit-guide resides in it.
+	Use to {colour_start|surprised}prevent any ambush{colour_end} (quest),
+	or sell it for a good price]]></entry>
+	
+	<!--Blossom-->
+	<entry id="str_inventory_title_supplyblossom"><![CDATA[Emerald Blossom]]></entry>
+	<entry id="str_inventory_description_supplyblossom"><![CDATA[Blossom found in clear waters, it has a strong rejunevating effect.
+	Grants two{colour_start|notable} additional Combat Actions {colour_end}]]></entry>
+	
+	<entry id="str_inventory_title_supplybud"><![CDATA[Emerald Bud]]></entry>
+	<entry id="str_inventory_description_supplybud"><![CDATA[Bud of a soon blossoming herb found in clear waters, it has a rejunevating effect.
+	Grants an{colour_start|notable} additional Combat Action {colour_end}]]></entry>
+	
+	<!--Spores-->
+	<entry id="str_inventory_title_supplyspores"><![CDATA[Fungal Spores]]></entry>
+	<entry id="str_inventory_description_supplyspores"><![CDATA[Fungus mutants use these glowing spores to tag their enemys.
+	Throw them to 
+	{colour_start|mark}Mark {colour_end} & {colour_start|stealth}Destealth{colour_end} the enemy group.]]></entry>
+	
+	<!--Coral-->
+	<entry id="str_inventory_title_supplycoral"><![CDATA[Cleansing Coral]]></entry>
+	<entry id="str_inventory_description_supplycoral"><![CDATA[A glowing branch of an Eerie Coral. 
+	Use to remove {colour_start|mark}Marks{colour_end} & {colour_start|debuff}Debuffs{colour_end} from your party]]></entry>
+	
+	<!--Fragrant Branch-->
+	<entry id="str_inventory_title_supplyfragrant"><![CDATA[Fragrant Branch]]></entry>
+	<entry id="str_inventory_description_supplyfragrant"><![CDATA[Rare wood emmiting a calming odour. 
+	Use to clear {colour_start|stun}Stun{colour_end} from your party]]></entry>
+	
+	<!--Lotus-->
+	<entry id="str_inventory_title_supplyblacklotus"><![CDATA[Pitch Black Lotus]]></entry>
+	<entry id="str_inventory_description_supplyblacklotus"><![CDATA[It is the rarest amongst all flowers, only growing upon corpses. It withers within seconds if exposed to light.
+	{colour_start|notable} Use during combat to recover from any ailments, or sell it for precious amount of gold.{colour_end} ]]></entry>
+	
+	<!--Butterfly-->
+	<entry id="str_inventory_title_supplybutterfly"><![CDATA[Encaptured Torchling]]></entry>
+	<entry id="str_inventory_description_supplybutterfly"><![CDATA[Rare Butterfly, emmiting glowing dust from its wings, to keep of predators.
+	Release to fully light the Dungeon, and prevent {colour_start|surprised}party surprised{colour_end}.]]></entry>
+	
+	<!--Weed-->
+	<entry id="str_inventory_title_supplyweed"><![CDATA[Sedative Herb]]></entry>
+	<entry id="str_inventory_description_supplyweed"><![CDATA[Some consider this as odd weed. Used in the right way consumption provides stress relief by the cost of SPEED & ACC]]></entry>
+	
+	<!--Riddlestone-->
+	<entry id="str_inventory_title_supplymapstone"><![CDATA[Mapstone]]></entry>
+	<entry id="str_inventory_description_supplymapstone"><![CDATA[Strange overgrown slab found beneath some moss. Someone engraved a map and some hints about the environment into it.]]></entry>
+	
+	
+	<!--Glowberrys-->
+	<entry id="str_inventory_title_supplyglimmer"><![CDATA[Glimmerberrys]]></entry>
+	<entry id="str_inventory_description_supplyglimmer"><![CDATA[Inedible berrys, glowing in ll coours of the prism. Use to mark your way to prevent{colour_start|surprised}Backtraging Stress{colour_end},
+	or throw them to disable{colour_start|surprised} Traps{colour_end}]]></entry>
+	
+	<!--saturating-->
+	<entry id="str_inventory_title_supplysaturating"><![CDATA[Nutritious Root]]></entry>
+	<entry id="str_inventory_description_supplysaturating"><![CDATA[This seemingly dried root, inflates upen coming in contact with water. Eat it to saturate the hero until the end of the journey .]]></entry>
+	
+	<!--Resins-->
+	<entry id="str_inventory_title_estateresin_fire"><![CDATA[Flamable Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_fire"><![CDATA[Flamable substance, extracted from plants. Attach this to your weapon to hunt beasts and vampires.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_poison"><![CDATA[Venomous Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_poison"><![CDATA[Poisonous sap, wich dilutes the blood. Attach this to your weapon to increase {colour_start|blight}Blight{colour_end}&{colour_start|bleed}Bleed{colour_end} chance.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_dark"><![CDATA[Occult Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_dark"><![CDATA[Black resin gathered from corrupted plants. Attach this to your weapon to deal increased damage against humans and 
+	in low light.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_holy"><![CDATA[Blessed Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_holy"><![CDATA[Glowing resin, used for holy rituals. Attach this to your weapon to deal increased damage against unholy and 
+	in high light.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_magic"><![CDATA[Ethereal Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_magic"><![CDATA[Strange substance, extracted from the twisted wildlife. Attach this to your weapon to hunt eldritchs and 
+	ignore armour.]]></entry>
+    
+	<entry id="str_inventory_title_estateresin_heavy"><![CDATA[Heavy Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_heavy"><![CDATA[Heavy sap that shines like molten led. Attach this to your weapon to increase {colour_start|stun}Stun{colour_end}&{colour_start|move}Move{colour_end} chance.]]></entry>
+    
+	<!--Disease NOT IMPLEMENTED YET-->
+
+    <entry id="buff_rule_data_tooltip_disease_fungal_passive"><![CDATA[Fungal Infection]]></entry>
+    <entry id="buff_rule_data_tooltip_disease_fungal_active"><![CDATA[Fungal Infection - Overtaking]]></entry>
+    <entry id="quirk_transition_disease_fungal_passive_to_fungal_active"><![CDATA[My pulse slows...the need abates.]]></entry>
+  </language>
+  <language id="brazilian">
+  
+ <!--Tables -->
+	<entry id="camping_skill_effect_loot_HERBS_MAIN"><![CDATA[Search for Herbs]]></entry>
+	<entry id="camping_skill_effect_loot_SHROOM"><![CDATA[Search for Mushrooms]]></entry>
+	<entry id="camping_skill_effect_loot_FRUIT"><![CDATA[Search for Fruits]]></entry>
+	<entry id="camping_skill_effect_loot_WOOD"><![CDATA[Retrieve rare Wood]]></entry>
+	<entry id="camping_skill_effect_loot_MOSS"><![CDATA[Search for curative Moss]]></entry>
+	<entry id="camping_skill_effect_loot_MOSS_B"><![CDATA[Search for curative Moss]]></entry>
+	<entry id="camping_skill_effect_loot_OCCULT_RESIN"><![CDATA[Produce Occult Resin]]></entry>
+	<entry id="camping_skill_effect_loot_HEAVY_RESIN"><![CDATA[Gather Heavy Resin]]></entry>
+	<entry id="camping_skill_effect_loot_HOLY_RESIN"><![CDATA[Produce Holy Resin]]></entry>
+	<entry id="camping_skill_effect_loot_ETHEREAL_RESIN"><![CDATA[Gather Ethereal Resin]]></entry>
+	<entry id="camping_skill_effect_loot_POISON_RESIN"><![CDATA[Gather toxic Resin]]></entry>
+	<entry id="camping_skill_effect_loot_FIRE_RESIN"><![CDATA[Gather flamable Resin]]></entry> 
+  
+  
+  
+  
+  <!--Shrooms -->
+  <entry id="str_inventory_title_supplyshroom"><![CDATA[Shamanic Fungus]]></entry>
+	<entry id="str_inventory_description_supplyshroom"><![CDATA[A mushroom used in shamanic rituals. It provides insight about the true nature of the world.
+	Heal {colour_start|white}Stress{colour_end}.
+	Be wary inisght might also cause {colour_start|stress}Horror{colour_end} trips]]></entry>
+	
+	<entry id="str_inventory_title_supplyshroom_p"><![CDATA[Shamanic Fungus]]></entry>
+	<entry id="str_inventory_description_supplyshroom_p"><![CDATA[A mushroom used in shamanic rituals. It provides insight about the true nature of the world.
+	Heal {colour_start|white}Stress{colour_end}.
+	Be wary inisght might also cause {colour_start|stress}Horror{colour_end} trips]]></entry>
+
+	<!--Royal -->
+	<entry id="str_inventory_title_supplyroyal"><![CDATA[Royal Greencap]]></entry>
+	<entry id="str_inventory_description_supplyroyal"><![CDATA[Rare Mushroom growing on exotic wood. It emmits a purple bloodlike sap.
+	Despite its look it is able to cure {colour_start|mortaldebuff}Mortality Debuffs{colour_end}. ]]></entry>
+	
+	<!--Moss -->	
+	<entry id="str_inventory_title_supplymoss"><![CDATA[Crimson Moss Clump]]></entry>
+	<entry id="str_inventory_description_supplymoss"><![CDATA[Use to treat poison and open wounds.
+	Cure {colour_start|blight}Blight{colour_end}/{colour_start|bleed}Bleed{colour_end}. ]]></entry>
+	
+	<entry id="str_inventory_title_supplymosspurple"><![CDATA[Amaranth Ointment]]></entry>
+	<entry id="str_inventory_description_supplymosspurple"><![CDATA[Salve made out of purple mossclumps. Use to soak out poison from wounds.
+	Cure {colour_start|blight}Blight{colour_end}. ]]></entry>
+	
+	
+	<entry id="str_inventory_title_supplymossred"><![CDATA[Moss Clumps]]></entry>
+	<entry id="str_inventory_description_supplymossred"><![CDATA[Use to soak up blood from open wounds.
+	Cure {colour_start|bleed}Bleed{colour_end}. ]]></entry>
+	
+	<!--Berry -->
+	<entry id="str_inventory_title_supplyberry"><![CDATA[Wildberrys]]></entry>
+	<entry id="str_inventory_description_supplyberry"><![CDATA[Fresh Berrys found in the wilds. Use to increase your resistances.]]></entry>
+	
+	<!--Wolfgras-->
+	<entry id="str_inventory_title_supplywolfgras"><![CDATA[Swordgras]]></entry>
+	<entry id="str_inventory_description_supplywolfgras"><![CDATA[The Riftwatchers use this for their brotherhood ritual.
+	These leaves are sharp like metal.
+	Throw them to {colour_start|bleed}Bleed{colour_end} your foes.]]></entry>
+	
+	<!--Rot -->
+	<entry id="str_inventory_title_supplyrot"><![CDATA[Pile of Rot]]></entry>
+	<entry id="str_inventory_description_supplyrot"><![CDATA[A bunch of rotten leftovers.
+	Throw them to {colour_start|blight}Blight{colour_end} your foes.]]></entry>
+	
+	<!--Tangle-->
+	<entry id="str_inventory_title_supplytangle"><![CDATA[Tangleweed]]></entry>
+	<entry id="str_inventory_description_supplytangle"><![CDATA[A sticky liana, severed from a flesh eating plant.
+	Throw to {colour_start|debuff}Debuff:{colour_end} SPEED & DODGE]]></entry>
+	
+	<!--Fruits-->
+	<entry id="str_inventory_title_supplyfruit"><![CDATA[Smelly Fruit]]></entry>
+	<entry id="str_inventory_description_supplyfruit"><![CDATA[This common fruit emmits an awful smell of rotting flesh. Despite this it has 
+	{colour_start|healhp}medicinical use{colour_end}.
+	Be wary some of them are {colour_start|blight}poisonous{colour_end} ! ]]></entry>
+	
+	<entry id="str_inventory_title_supplyfruit_p"><![CDATA[Smelly Fruit]]></entry>
+	<entry id="str_inventory_description_supplyfruit_p"><![CDATA[This common fruit emmits an awful smell of rotting flesh. Despite this it has 
+	{colour_start|healhp}medicinical use{colour_end}.
+	Be wary some of them are {colour_start|blight}poisonous{colour_end} ! ]]></entry>
+	
+	<!--Branch-->
+	<entry id="str_inventory_title_supplybranch"><![CDATA[Ivory Branch]]></entry>
+	<entry id="str_inventory_description_supplybranch"><![CDATA[Ghosttrees are nearly invisible. Breaking the branch emmits a cloud of white ghastly mist. 
+	{colour_start|stealth}Stealth{colour_end} (2rds)]]></entry>
+	
+	<entry id="str_inventory_title_supplyflute"><![CDATA[Cattail Flute]]></entry>
+	<entry id="str_inventory_description_supplyflute"><![CDATA[The Watchers of the Legion learned to craft flutes out of wild Cattail-gras. 
+	The mild Melody {colour_start|virtue}clears Horror and heals Stress{colour_end}]]></entry>
+	
+	<!--Seed-->
+	<entry id="str_inventory_title_supplyseed"><![CDATA[Seed of an Elder Tree]]></entry>
+	<entry id="str_inventory_description_supplyseed"><![CDATA[Rare seed of a long extinct tree. A spirit-guide resides in it.
+	Use to {colour_start|surprised}prevent any ambush{colour_end} (quest),
+	or sell it for a good price]]></entry>
+	
+	<!--Blossom-->
+	<entry id="str_inventory_title_supplyblossom"><![CDATA[Emerald Blossom]]></entry>
+	<entry id="str_inventory_description_supplyblossom"><![CDATA[Blossom found in clear waters, it has a strong rejunevating effect.
+	Grants two{colour_start|notable} additional Combat Actions {colour_end}]]></entry>
+	
+	<entry id="str_inventory_title_supplybud"><![CDATA[Emerald Bud]]></entry>
+	<entry id="str_inventory_description_supplybud"><![CDATA[Bud of a soon blossoming herb found in clear waters, it has a rejunevating effect.
+	Grants an{colour_start|notable} additional Combat Action {colour_end}]]></entry>
+	
+	<!--Spores-->
+	<entry id="str_inventory_title_supplyspores"><![CDATA[Fungal Spores]]></entry>
+	<entry id="str_inventory_description_supplyspores"><![CDATA[Fungus mutants use these glowing spores to tag their enemys.
+	Throw them to 
+	{colour_start|mark}Mark {colour_end} & {colour_start|stealth}Destealth{colour_end} the enemy group.]]></entry>
+	
+	<!--Coral-->
+	<entry id="str_inventory_title_supplycoral"><![CDATA[Cleansing Coral]]></entry>
+	<entry id="str_inventory_description_supplycoral"><![CDATA[A glowing branch of an Eerie Coral. 
+	Use to remove {colour_start|mark}Marks{colour_end} & {colour_start|debuff}Debuffs{colour_end} from your party]]></entry>
+	
+	<!--Fragrant Branch-->
+	<entry id="str_inventory_title_supplyfragrant"><![CDATA[Fragrant Branch]]></entry>
+	<entry id="str_inventory_description_supplyfragrant"><![CDATA[Rare wood emmiting a calming odour. 
+	Use to clear {colour_start|stun}Stun{colour_end} from your party]]></entry>
+	
+	<!--Lotus-->
+	<entry id="str_inventory_title_supplyblacklotus"><![CDATA[Pitch Black Lotus]]></entry>
+	<entry id="str_inventory_description_supplyblacklotus"><![CDATA[It is the rarest amongst all flowers, only growing upon corpses. It withers within seconds if exposed to light.
+	{colour_start|notable} Use during combat to recover from any ailments, or sell it for precious amount of gold.{colour_end} ]]></entry>
+	
+	<!--Butterfly-->
+	<entry id="str_inventory_title_supplybutterfly"><![CDATA[Encaptured Torchling]]></entry>
+	<entry id="str_inventory_description_supplybutterfly"><![CDATA[Rare Butterfly, emmiting glowing dust from its wings, to keep of predators.
+	Release to fully light the Dungeon, and prevent {colour_start|surprised}party surprised{colour_end}.]]></entry>
+	
+	<!--Weed-->
+	<entry id="str_inventory_title_supplyweed"><![CDATA[Sedative Herb]]></entry>
+	<entry id="str_inventory_description_supplyweed"><![CDATA[Some consider this as odd weed. Used in the right way consumption provides stress relief by the cost of SPEED & ACC]]></entry>
+	
+	<!--Riddlestone-->
+	<entry id="str_inventory_title_supplymapstone"><![CDATA[Mapstone]]></entry>
+	<entry id="str_inventory_description_supplymapstone"><![CDATA[Strange overgrown slab found beneath some moss. Someone engraved a map and some hints about the environment into it.]]></entry>
+	
+	
+	<!--Glowberrys-->
+	<entry id="str_inventory_title_supplyglimmer"><![CDATA[Glimmerberrys]]></entry>
+	<entry id="str_inventory_description_supplyglimmer"><![CDATA[Inedible berrys, glowing in ll coours of the prism. Use to mark your way to prevent{colour_start|surprised}Backtraging Stress{colour_end},
+	or throw them to disable{colour_start|surprised} Traps{colour_end}]]></entry>
+	
+	<!--saturating-->
+	<entry id="str_inventory_title_supplysaturating"><![CDATA[Nutritious Root]]></entry>
+	<entry id="str_inventory_description_supplysaturating"><![CDATA[This seemingly dried root, inflates upen coming in contact with water. Eat it to saturate the hero until the end of the journey .]]></entry>
+	
+	<!--Resins-->
+	<entry id="str_inventory_title_estateresin_fire"><![CDATA[Flamable Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_fire"><![CDATA[Flamable substance, extracted from plants. Attach this to your weapon to hunt beasts and vampires.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_poison"><![CDATA[Venomous Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_poison"><![CDATA[Poisonous sap, wich dilutes the blood. Attach this to your weapon to increase {colour_start|blight}Blight{colour_end}&{colour_start|bleed}Bleed{colour_end} chance.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_dark"><![CDATA[Occult Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_dark"><![CDATA[Black resin gathered from corrupted plants. Attach this to your weapon to deal increased damage against humans and 
+	in low light.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_holy"><![CDATA[Blessed Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_holy"><![CDATA[Glowing resin, used for holy rituals. Attach this to your weapon to deal increased damage against unholy and 
+	in high light.]]></entry>
+	
+	<entry id="str_inventory_title_estateresin_magic"><![CDATA[Ethereal Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_magic"><![CDATA[Strange substance, extracted from the twisted wildlife. Attach this to your weapon to hunt eldritchs and 
+	ignore armour.]]></entry>
+    
+	<entry id="str_inventory_title_estateresin_heavy"><![CDATA[Heavy Resin]]></entry>
+	<entry id="str_inventory_description_estateresin_heavy"><![CDATA[Heavy sap that shines like molten led. Attach this to your weapon to increase {colour_start|stun}Stun{colour_end}&{colour_start|move}Move{colour_end} chance.]]></entry>
+    
+	<!--Disease NOT IMPLEMENTED YET-->
+
+    <entry id="buff_rule_data_tooltip_disease_fungal_passive"><![CDATA[Fungal Infection]]></entry>
+    <entry id="buff_rule_data_tooltip_disease_fungal_active"><![CDATA[Fungal Infection - Overtaking]]></entry>
+    <entry id="quirk_transition_disease_fungal_passive_to_fungal_active"><![CDATA[My pulse slows...the need abates.]]></entry>
+  </language>
+  
+</root>
+

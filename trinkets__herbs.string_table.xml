@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <language id="english">
+	
+	
+	<entry id="str_inventory_set_title_herbs_vanguard"><![CDATA[{colour_start|blight}不要害怕黑暗，我的朋友。。。{colour_end}]]></entry>
+	<entry id="str_inventory_set_title_herbs_gluttony"><![CDATA[{colour_start|blight}... 让宴会开始吧{colour_end}]]></entry>
+	<entry id="str_inventory_set_title_herbs_druidic"><![CDATA[{colour_start|blight}无知世界的开始。。。{colour_end}]]></entry>
+	<entry id="str_inventory_set_title_herbs_corrupted"><![CDATA[{colour_start|blight}。。。如果无知就会终结。{colour_end}]]></entry>
+	<entry id="str_inventory_set_title_herbs_cleansing"><![CDATA[{colour_start|blight}无知世界的开始。。。{colour_end}]]></entry>
+	
+	<entry id="trinket_rarity_herbal_rarity"><![CDATA[{colour_start|blight}草药{colour_end}]]></entry>
+	<entry id="str_inventory_title_trinketherbal_boneflower"><![CDATA[骨花]]></entry>
+	<entry id="str_inventory_title_trinketherbal_fungus"><![CDATA[增生真菌]]></entry>
+	<entry id="str_inventory_title_trinketherbal_cattail"><![CDATA[庭院里的猫尾草]]></entry>
+	<entry id="str_inventory_title_trinketherbal_coral"><![CDATA[珊瑚提灯]]></entry>
+	<entry id="str_inventory_title_trinketherbal_fleshflower"><![CDATA[劝诱之花]]></entry>
+	
+	
+	<entry id="str_inventory_title_trinketherbal_cyst"><![CDATA[小型囊肿块]]></entry>
+	
+
+	<entry id="buff_stat_tooltip_upgrade_discount_herbs_bleeddot"><![CDATA[{colour_start|bleed}蛭吸{colour_end}]]></entry>
+	
+	
+	
+	
+	
+  </language>
+  <language id="french">
+	
+	
+	
+  </language>
+  <language id="german">
+
+	<entry id="str_inventory_title_trinketwatcher_veil"><![CDATA[Riftveil ]]></entry>
+	
+	
+  </language>
+  <language id="spanish">
+
+	<entry id="str_inventory_title_trinketwatcher_veil"><![CDATA[Riftveil ]]></entry>
+	
+  
+  
+  </language>
+  
+  <language id="brazilian">
+	<entry id="str_inventory_title_trinketwatcher_veil"><![CDATA[Riftveil ]]></entry>
+	
+  </language>
+  
+  <language id="russian">
+
+	<entry id="str_inventory_title_trinketwatcher_veil"><![CDATA[Riftveil ]]></entry>
+	
+  </language>
+   <language id="polish">
+
+	<entry id="str_inventory_title_trinketwatcher_veil"><![CDATA[Riftveil ]]></entry>
+	
+  </language>
+  
+  <language id="czech">
+	
+	<entry id="str_inventory_title_trinketwatcher_veil"><![CDATA[Riftveil ]]></entry>
+	
+  </language>
+  <language id="italian">
+	
+	<entry id="str_inventory_title_trinketwatcher_veil"><![CDATA[Riftveil ]]></entry>
+	
+  </language>
+  
+  <language id="schinese">
+ 
+   
+ </language>
+</root>
