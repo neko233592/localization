@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <language id="english">
+  </language>
+  <language id="schinese">
+	<entry id="str_inventory_title_trinketAhzidal"><![CDATA[阿兹达尔]]></entry>
+	<entry id="str_inventory_title_trinketDukaan"><![CDATA[杜阚]]></entry>
+	<entry id="str_inventory_title_trinketHevnoraak"><![CDATA[赫诺拉克]]></entry>
+	<entry id="str_inventory_title_trinketKonahrik"><![CDATA[科纳瑞克]]></entry>
+	<entry id="str_inventory_title_trinketKrosis"><![CDATA[克洛斯]]></entry>
+	<entry id="str_inventory_title_trinketMiraak"><![CDATA[米拉克]]></entry>
+	<entry id="str_inventory_title_trinketMorokei"><![CDATA[摩洛克伊]]></entry>
+	<entry id="str_inventory_title_trinketNahkriin"><![CDATA[纳克林]]></entry>
+	<entry id="str_inventory_title_trinketOtar"><![CDATA[奥塔]]></entry>
+	<entry id="str_inventory_title_trinketRahgot"><![CDATA[拉格特]]></entry>
+	<entry id="str_inventory_title_trinketVokun"><![CDATA[沃坤]]></entry>
+	<entry id="str_inventory_title_trinketVolsung"><![CDATA[沃尔逊]]></entry>
+	<entry id="str_inventory_title_trinketWooden"><![CDATA[沃昆]]></entry>
+	<entry id="str_inventory_title_trinketZahkriisos"><![CDATA[扎克利索斯]]></entry>
+  
+</language>
+</root>
+
