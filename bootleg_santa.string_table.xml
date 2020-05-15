@@ -1,0 +1,1345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <language id="english">
+  
+  <entry id="town_quest_name_plot_bootleg_santa"><![CDATA[Go after Thieves!]]></entry>
+  <entry id="town_quest_description_plot_bootleg_santa"><![CDATA[Quick! The thieves are on the run, but they couldn't have gone far.]]></entry>
+  <entry id="str_embarked_on_plot_bootleg_santa"><![CDATA[Quick! The thieves are on the run, but they couldn't have gone far.]]></entry>
+  <entry id="str_plot_bootleg_santa_tip"><![CDATA[Be careful - Despite the looks, they're actually the bad guys.]]></entry>
+  <entry id="str_lumberjack_tip"><![CDATA[Sharing is caring!]]></entry>
+  <entry id="str_returned_from_plot_bootleg_santa_failure"><![CDATA[{?hero_names}%s couldn't catch up to the fleeing thieves.]]></entry>
+  <entry id="str_returned_from_plot_bootleg_santa_success"><![CDATA[{?hero_names}%s have successfully caught up to and apprehended the thieves.]]></entry>
+  <entry id="town_event_title_bootleg_santa_invade"><![CDATA[Thieves on the run]]></entry>
+  <entry id="town_event_description_bootleg_santa_invade"><![CDATA[Under the cover of the night, and with the costumes to fool the denizens of the hamlet, thieves have stolen all the toys from the hamlet's children. Go after them and reclaim what is ours! ]]></entry>
+  <entry id="town_event_title_bootleg_santa_reward"><![CDATA[Factory Rebuilt]]></entry>
+  <entry id="town_event_description_bootleg_santa_reward"><![CDATA[With the thieves banished from our lands, the people of hamlet can sleep sound again. As a gift of appreciation, hamlet's craftsmen decided to open a workshop, and let you do the honors!]]></entry>
+  <entry id="town_quest_description_bootleg_santa_invade"><![CDATA[%s went on to chase the scummy outlaws.]]></entry>
+  
+  <entry id="str_monstername_bootleg_santa_A"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_A"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_A"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_santa_B"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_B"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_B"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_santa_C"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_C"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_C"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_gift_dummy_A"><![CDATA[please message snorlaxxo#5067 on discord if you see this in-game]]></entry>
+  
+  <entry id="str_monster_skill_bootleg_santa_spawn"><![CDATA[The more the merrier!]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_heal"><![CDATA[Spirit of stolen christmas]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_actor_dot_1"><![CDATA[What goes around comes around]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_actor_dot_2"><![CDATA[Sharing is Caring]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_bag"><![CDATA[Bag Attack]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_gift"><![CDATA[Unsolicited Gift]]></entry>
+  <entry id="str_monster_skill_bootleg_pew_pew"><![CDATA[Sprinkles]]></entry>
+  <entry id="str_monster_skill_bootleg_pew_bash"><![CDATA[Candy Crush]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_stab"><![CDATA[Hearty Blow]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_chomp"><![CDATA[Healthy Meal]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_snowball"><![CDATA[Snowball Warfare]]></entry>
+  
+  <entry id="town_event_info_format_bonus_currency"><![CDATA[{?bonus_currency_type}%s +{?amount}%d]]></entry>
+  <entry id="str_toy_factory_title"><![CDATA[Toy Factory]]></entry>
+  <entry id="str_toy_factory_buff_bootleg_gift"><![CDATA[Might produce a gift at the end of the week.]]></entry>
+  <entry id="bonus_currency_name_snowflake"><![CDATA[Snowflakes]]></entry>
+  <entry id="str_inventory_title_heirloomsnowflake"><![CDATA[Snowflakes]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_pet"><![CDATA["Rudolph" (Reindeer...?)]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_hat"><![CDATA[Festive Hat]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_bag"><![CDATA[Bottomless Bag]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_daggel"><![CDATA[Vegedaggles]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_caneon"><![CDATA[Candy Caneon]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_hat"><![CDATA[Hat of a Mischevious Elf]]></entry>
+  <entry id="str_inventory_title_trinketfactory_tops"><![CDATA[Tops]]></entry>
+  <entry id="str_inventory_title_trinketfactory_gem_box"><![CDATA[Box of treasures]]></entry>
+  <entry id="str_inventory_title_trinketfactory_drum"><![CDATA[Drums]]></entry>
+  <entry id="str_inventory_title_trinketfactory_rattle"><![CDATA[Rattle]]></entry>
+  <entry id="str_inventory_title_trinketfactory_doll_off"><![CDATA[Angry Doll]]></entry>
+  <entry id="str_inventory_title_trinketfactory_doll_def"><![CDATA[Happy Doll]]></entry>
+  <entry id="str_inventory_title_trinketfactory_sword"><![CDATA[Wodden Sword]]></entry>
+  <entry id="str_inventory_title_trinketfactory_horse"><![CDATA[Wodden Horse]]></entry>
+  <entry id="str_inventory_title_trinketfactory_puppet"><![CDATA[Puppet]]></entry>
+  <entry id="str_inventory_title_trinketfactory_kite"><![CDATA[Kite]]></entry>
+  
+  	<entry id="trinket_rarity_bootleg_gift"><![CDATA[Christmas Gift]]></entry>
+  	<entry id="trinket_rarity_bootleg_santa"><![CDATA[Very Rare]]></entry>
+  	<entry id="trinket_rarity_bootleg_pew"><![CDATA[Very Rare]]></entry>
+  	<entry id="trinket_rarity_bootleg_stab"><![CDATA[Very Rare]]></entry>
+	
+	
+  	<entry id="str_inventory_title_gemcoal"><![CDATA[Piece of Coal]]></entry>
+  	<entry id="str_inventory_description_gemcoal"><![CDATA[Someone's been naughty this year.]]></entry>
+  	<entry id="str_inventory_title_estatebootleg_gift"><![CDATA[Present]]></entry>
+  	<entry id="str_inventory_description_estatebootleg_gift"><![CDATA[Share it with your enemies, and you'll be rewarded]]></entry>
+  
+  <entry id="str_inventory_set_title_factory_instruments"><![CDATA["The one man band"]]></entry>
+  <entry id="str_inventory_set_title_factory_dolls"><![CDATA["My friends are all around!"]]></entry>
+  <entry id="str_inventory_set_title_factory_warrior"><![CDATA["The regalia of a future warrior"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_santa"><![CDATA["Stealing christmas, one by one"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_helper"><![CDATA["The #1 secondary villan of the year"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_pet"><![CDATA["Not a pet nor a set"]]></entry>
+  
+  
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet1"><![CDATA[{colour_start|yellow}Reality Bending:{colour_end}On attack, will end user's turn. Most likely.]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet2"><![CDATA[{colour_start|riposte} Antler of Justice:{colour_end} Low chance to make baddies disappear]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet3"><![CDATA[{colour_start|blue}Playful Spirit:{colour_end} On Friendly Skill: Might lick target]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet4"><![CDATA[{colour_start|red}Sniffing Expert:{colour_end}Increases scout chance by a lot]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet"><![CDATA[+10%% petting speed]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box1"><![CDATA[+15%% max hp if Citrine in inventory, otherwise -10%% max HP]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box2"><![CDATA[+12%% Dodge if Jade in inventory, otherwise -8%% Dodge]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box3"><![CDATA[+4 SPD if Onyx in inventory, otherwise -2 SPD]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box4"><![CDATA[+30%% DMG if Emerald in inventory, otherwise -15%% DMG]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box5"><![CDATA[+12%% ACC if Sapphire in inventory, otherwise -4%% ACC]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box6"><![CDATA[+9%% CRIT if Ruby in inventory, otherwise -3%% CRIT]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_caneon1"><![CDATA[+2 SPD in front]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_caneon2"><![CDATA[+15%% DMG in back]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_once"><![CDATA[{colour_start|skill_unselectable}Effects apply only once on AoE skills{colour_end}]]></entry>
+  
+    <entry id="trinket_friendly_skill_additional_effects"><![CDATA[Friendly Skill:]]></entry>
+	<entry id="trinket_attack_skill_additional_effects_hit_miss"><![CDATA[On Attack:]]></entry>
+	<entry id="trinket_attack_skill_additional_effects_hit"><![CDATA[On Hit:]]></entry>
+    <entry id="trinket_was_hit_additional_effects"><![CDATA[On Being Hit:]]></entry>
+    <entry id="effect_health_damage_format"><![CDATA[-%d HP]]></entry>
+	
+  <entry id="buff_rule_tooltip_has_item_id"><![CDATA[%s if %s in inventory]]></entry>
+  <entry id="buff_rule_data_tooltip_bootleg_gift"><![CDATA[Present]]></entry>
+  
+  </language>
+  <language id="french">
+  
+  <entry id="town_quest_name_plot_bootleg_santa"><![CDATA[Go after Thieves!]]></entry>
+  <entry id="town_quest_description_plot_bootleg_santa"><![CDATA[Quick! The thieves are on the run, but they couldn't have gone far.]]></entry>
+  <entry id="str_embarked_on_plot_bootleg_santa"><![CDATA[Quick! The thieves are on the run, but they couldn't have gone far.]]></entry>
+  <entry id="str_plot_bootleg_santa_tip"><![CDATA[Be careful - Despite the looks, they're actually the bad guys.]]></entry>
+  <entry id="str_lumberjack_tip"><![CDATA[Sharing is caring!]]></entry>
+  <entry id="str_returned_from_plot_bootleg_santa_failure"><![CDATA[{?hero_names}%s couldn't catch up to the fleeing thieves.]]></entry>
+  <entry id="str_returned_from_plot_bootleg_santa_success"><![CDATA[{?hero_names}%s have successfully caught up to and apprehended the thieves.]]></entry>
+  <entry id="town_event_title_bootleg_santa_invade"><![CDATA[Thieves on the run]]></entry>
+  <entry id="town_event_description_bootleg_santa_invade"><![CDATA[Under the cover of the night, and with the costumes to fool the denizens of the hamlet, thieves have stolen all the toys from the hamlet's children. Go after them and reclaim what is ours! ]]></entry>
+  <entry id="town_event_title_bootleg_santa_reward"><![CDATA[Factory Rebuilt]]></entry>
+  <entry id="town_event_description_bootleg_santa_reward"><![CDATA[With the thieves banished from our lands, the people of hamlet can sleep sound again. As a gift of appreciation, hamlet's craftsmen decided to open a workshop, and let you do the honors!]]></entry>
+  <entry id="town_quest_description_bootleg_santa_invade"><![CDATA[%s went on to chase the scummy outlaws.]]></entry>
+  
+  <entry id="str_monstername_bootleg_santa_A"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_A"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_A"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_santa_B"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_B"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_B"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_santa_C"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_C"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_C"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_gift_dummy_A"><![CDATA[please message snorlaxxo#5067 on discord if you see this in-game]]></entry>
+  
+  <entry id="str_monster_skill_bootleg_santa_spawn"><![CDATA[The more the merrier!]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_heal"><![CDATA[Spirit of stolen christmas]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_actor_dot_1"><![CDATA[What goes around comes around]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_actor_dot_2"><![CDATA[Sharing is Caring]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_bag"><![CDATA[Bag Attack]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_gift"><![CDATA[Unsolicited Gift]]></entry>
+  <entry id="str_monster_skill_bootleg_pew_pew"><![CDATA[Sprinkles]]></entry>
+  <entry id="str_monster_skill_bootleg_pew_bash"><![CDATA[Candy Crush]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_stab"><![CDATA[Hearty Blow]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_chomp"><![CDATA[Healthy Meal]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_snowball"><![CDATA[Snowball Warfare]]></entry>
+  
+  <entry id="town_event_info_format_bonus_currency"><![CDATA[{?bonus_currency_type}%s +{?amount}%d]]></entry>
+  <entry id="str_toy_factory_title"><![CDATA[Toy Factory]]></entry>
+  <entry id="str_toy_factory_buff_bootleg_gift"><![CDATA[Might produce a gift at the end of the week.]]></entry>
+  <entry id="bonus_currency_name_snowflake"><![CDATA[Snowflakes]]></entry>
+  <entry id="str_inventory_title_heirloomsnowflake"><![CDATA[Snowflakes]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_pet"><![CDATA["Rudolph" (Reindeer...?)]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_hat"><![CDATA[Festive Hat]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_bag"><![CDATA[Bottomless Bag]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_daggel"><![CDATA[Vegedaggles]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_caneon"><![CDATA[Candy Caneon]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_hat"><![CDATA[Hat of a Mischevious Elf]]></entry>
+  <entry id="str_inventory_title_trinketfactory_tops"><![CDATA[Tops]]></entry>
+  <entry id="str_inventory_title_trinketfactory_gem_box"><![CDATA[Box of treasures]]></entry>
+  <entry id="str_inventory_title_trinketfactory_drum"><![CDATA[Drums]]></entry>
+  <entry id="str_inventory_title_trinketfactory_rattle"><![CDATA[Rattle]]></entry>
+  <entry id="str_inventory_title_trinketfactory_doll_off"><![CDATA[Angry Doll]]></entry>
+  <entry id="str_inventory_title_trinketfactory_doll_def"><![CDATA[Happy Doll]]></entry>
+  <entry id="str_inventory_title_trinketfactory_sword"><![CDATA[Wodden Sword]]></entry>
+  <entry id="str_inventory_title_trinketfactory_horse"><![CDATA[Wodden Horse]]></entry>
+  <entry id="str_inventory_title_trinketfactory_puppet"><![CDATA[Puppet]]></entry>
+  <entry id="str_inventory_title_trinketfactory_kite"><![CDATA[Kite]]></entry>
+  
+  	<entry id="trinket_rarity_bootleg_gift"><![CDATA[Christmas Gift]]></entry>
+  	<entry id="trinket_rarity_bootleg_santa"><![CDATA[Very Rare]]></entry>
+  	<entry id="trinket_rarity_bootleg_pew"><![CDATA[Very Rare]]></entry>
+  	<entry id="trinket_rarity_bootleg_stab"><![CDATA[Very Rare]]></entry>
+	
+	
+  	<entry id="str_inventory_title_gemcoal"><![CDATA[Piece of Coal]]></entry>
+  	<entry id="str_inventory_description_gemcoal"><![CDATA[Someone's been naughty this year.]]></entry>
+  	<entry id="str_inventory_title_estatebootleg_gift"><![CDATA[Present]]></entry>
+  	<entry id="str_inventory_description_estatebootleg_gift"><![CDATA[Share it with your enemies, and you'll be rewarded]]></entry>
+  
+  <entry id="str_inventory_set_title_factory_instruments"><![CDATA["The one man band"]]></entry>
+  <entry id="str_inventory_set_title_factory_dolls"><![CDATA["My friends are all around!"]]></entry>
+  <entry id="str_inventory_set_title_factory_warrior"><![CDATA["The regalia of a future warrior"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_santa"><![CDATA["Stealing christmas, one by one"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_helper"><![CDATA["The #1 secondary villan of the year"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_pet"><![CDATA["Not a pet nor a set"]]></entry>
+  
+  
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet1"><![CDATA[{colour_start|yellow}Reality Bending:{colour_end}On attack, will end user's turn. Most likely.]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet2"><![CDATA[{colour_start|riposte} Antler of Justice:{colour_end} Low chance to make baddies disappear]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet3"><![CDATA[{colour_start|blue}Playful Spirit:{colour_end} On Friendly Skill: Might lick target]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet4"><![CDATA[{colour_start|red}Sniffing Expert:{colour_end}Increases scout chance by a lot]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet"><![CDATA[+10%% petting speed]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box1"><![CDATA[+15%% max hp if Citrine in inventory, otherwise -10%% max HP]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box2"><![CDATA[+12%% Dodge if Jade in inventory, otherwise -8%% Dodge]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box3"><![CDATA[+4 SPD if Onyx in inventory, otherwise -2 SPD]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box4"><![CDATA[+30%% DMG if Emerald in inventory, otherwise -15%% DMG]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box5"><![CDATA[+12%% ACC if Sapphire in inventory, otherwise -4%% ACC]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box6"><![CDATA[+9%% CRIT if Ruby in inventory, otherwise -3%% CRIT]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_caneon1"><![CDATA[+2 SPD in front]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_caneon2"><![CDATA[+15%% DMG in back]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_once"><![CDATA[{colour_start|skill_unselectable}Effects apply only once on AoE skills{colour_end}]]></entry>
+  
+    <entry id="trinket_friendly_skill_additional_effects"><![CDATA[Friendly Skill:]]></entry>
+	<entry id="trinket_attack_skill_additional_effects_hit_miss"><![CDATA[On Attack:]]></entry>
+	<entry id="trinket_attack_skill_additional_effects_hit"><![CDATA[On Hit:]]></entry>
+    <entry id="trinket_was_hit_additional_effects"><![CDATA[On Being Hit:]]></entry>
+    <entry id="effect_health_damage_format"><![CDATA[-%d HP]]></entry>
+	
+  <entry id="buff_rule_tooltip_has_item_id"><![CDATA[%s if %s in inventory]]></entry>
+  <entry id="buff_rule_data_tooltip_bootleg_gift"><![CDATA[Present]]></entry>
+  </language>
+  <language id="german">
+  
+  <entry id="town_quest_name_plot_bootleg_santa"><![CDATA[Go after Thieves!]]></entry>
+  <entry id="town_quest_description_plot_bootleg_santa"><![CDATA[Quick! The thieves are on the run, but they couldn't have gone far.]]></entry>
+  <entry id="str_embarked_on_plot_bootleg_santa"><![CDATA[Quick! The thieves are on the run, but they couldn't have gone far.]]></entry>
+  <entry id="str_plot_bootleg_santa_tip"><![CDATA[Be careful - Despite the looks, they're actually the bad guys.]]></entry>
+  <entry id="str_lumberjack_tip"><![CDATA[Sharing is caring!]]></entry>
+  <entry id="str_returned_from_plot_bootleg_santa_failure"><![CDATA[{?hero_names}%s couldn't catch up to the fleeing thieves.]]></entry>
+  <entry id="str_returned_from_plot_bootleg_santa_success"><![CDATA[{?hero_names}%s have successfully caught up to and apprehended the thieves.]]></entry>
+  <entry id="town_event_title_bootleg_santa_invade"><![CDATA[Thieves on the run]]></entry>
+  <entry id="town_event_description_bootleg_santa_invade"><![CDATA[Under the cover of the night, and with the costumes to fool the denizens of the hamlet, thieves have stolen all the toys from the hamlet's children. Go after them and reclaim what is ours! ]]></entry>
+  <entry id="town_event_title_bootleg_santa_reward"><![CDATA[Factory Rebuilt]]></entry>
+  <entry id="town_event_description_bootleg_santa_reward"><![CDATA[With the thieves banished from our lands, the people of hamlet can sleep sound again. As a gift of appreciation, hamlet's craftsmen decided to open a workshop, and let you do the honors!]]></entry>
+  <entry id="town_quest_description_bootleg_santa_invade"><![CDATA[%s went on to chase the scummy outlaws.]]></entry>
+  
+  <entry id="str_monstername_bootleg_santa_A"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_A"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_A"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_santa_B"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_B"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_B"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_santa_C"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_C"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_C"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_gift_dummy_A"><![CDATA[please message snorlaxxo#5067 on discord if you see this in-game]]></entry>
+  
+  <entry id="str_monster_skill_bootleg_santa_spawn"><![CDATA[The more the merrier!]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_heal"><![CDATA[Spirit of stolen christmas]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_actor_dot_1"><![CDATA[What goes around comes around]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_actor_dot_2"><![CDATA[Sharing is Caring]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_bag"><![CDATA[Bag Attack]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_gift"><![CDATA[Unsolicited Gift]]></entry>
+  <entry id="str_monster_skill_bootleg_pew_pew"><![CDATA[Sprinkles]]></entry>
+  <entry id="str_monster_skill_bootleg_pew_bash"><![CDATA[Candy Crush]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_stab"><![CDATA[Hearty Blow]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_chomp"><![CDATA[Healthy Meal]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_snowball"><![CDATA[Snowball Warfare]]></entry>
+  
+  <entry id="town_event_info_format_bonus_currency"><![CDATA[{?bonus_currency_type}%s +{?amount}%d]]></entry>
+  <entry id="str_toy_factory_title"><![CDATA[Toy Factory]]></entry>
+  <entry id="str_toy_factory_buff_bootleg_gift"><![CDATA[Might produce a gift at the end of the week.]]></entry>
+  <entry id="bonus_currency_name_snowflake"><![CDATA[Snowflakes]]></entry>
+  <entry id="str_inventory_title_heirloomsnowflake"><![CDATA[Snowflakes]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_pet"><![CDATA["Rudolph" (Reindeer...?)]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_hat"><![CDATA[Festive Hat]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_bag"><![CDATA[Bottomless Bag]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_daggel"><![CDATA[Vegedaggles]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_caneon"><![CDATA[Candy Caneon]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_hat"><![CDATA[Hat of a Mischevious Elf]]></entry>
+  <entry id="str_inventory_title_trinketfactory_tops"><![CDATA[Tops]]></entry>
+  <entry id="str_inventory_title_trinketfactory_gem_box"><![CDATA[Box of treasures]]></entry>
+  <entry id="str_inventory_title_trinketfactory_drum"><![CDATA[Drums]]></entry>
+  <entry id="str_inventory_title_trinketfactory_rattle"><![CDATA[Rattle]]></entry>
+  <entry id="str_inventory_title_trinketfactory_doll_off"><![CDATA[Angry Doll]]></entry>
+  <entry id="str_inventory_title_trinketfactory_doll_def"><![CDATA[Happy Doll]]></entry>
+  <entry id="str_inventory_title_trinketfactory_sword"><![CDATA[Wodden Sword]]></entry>
+  <entry id="str_inventory_title_trinketfactory_horse"><![CDATA[Wodden Horse]]></entry>
+  <entry id="str_inventory_title_trinketfactory_puppet"><![CDATA[Puppet]]></entry>
+  <entry id="str_inventory_title_trinketfactory_kite"><![CDATA[Kite]]></entry>
+  
+  	<entry id="trinket_rarity_bootleg_gift"><![CDATA[Christmas Gift]]></entry>
+  	<entry id="trinket_rarity_bootleg_santa"><![CDATA[Very Rare]]></entry>
+  	<entry id="trinket_rarity_bootleg_pew"><![CDATA[Very Rare]]></entry>
+  	<entry id="trinket_rarity_bootleg_stab"><![CDATA[Very Rare]]></entry>
+	
+	
+  	<entry id="str_inventory_title_gemcoal"><![CDATA[Piece of Coal]]></entry>
+  	<entry id="str_inventory_description_gemcoal"><![CDATA[Someone's been naughty this year.]]></entry>
+  	<entry id="str_inventory_title_estatebootleg_gift"><![CDATA[Present]]></entry>
+  	<entry id="str_inventory_description_estatebootleg_gift"><![CDATA[Share it with your enemies, and you'll be rewarded]]></entry>
+  
+  <entry id="str_inventory_set_title_factory_instruments"><![CDATA["The one man band"]]></entry>
+  <entry id="str_inventory_set_title_factory_dolls"><![CDATA["My friends are all around!"]]></entry>
+  <entry id="str_inventory_set_title_factory_warrior"><![CDATA["The regalia of a future warrior"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_santa"><![CDATA["Stealing christmas, one by one"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_helper"><![CDATA["The #1 secondary villan of the year"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_pet"><![CDATA["Not a pet nor a set"]]></entry>
+  
+  
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet1"><![CDATA[{colour_start|yellow}Reality Bending:{colour_end}On attack, will end user's turn. Most likely.]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet2"><![CDATA[{colour_start|riposte} Antler of Justice:{colour_end} Low chance to make baddies disappear]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet3"><![CDATA[{colour_start|blue}Playful Spirit:{colour_end} On Friendly Skill: Might lick target]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet4"><![CDATA[{colour_start|red}Sniffing Expert:{colour_end}Increases scout chance by a lot]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet"><![CDATA[+10%% petting speed]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box1"><![CDATA[+15%% max hp if Citrine in inventory, otherwise -10%% max HP]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box2"><![CDATA[+12%% Dodge if Jade in inventory, otherwise -8%% Dodge]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box3"><![CDATA[+4 SPD if Onyx in inventory, otherwise -2 SPD]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box4"><![CDATA[+30%% DMG if Emerald in inventory, otherwise -15%% DMG]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box5"><![CDATA[+12%% ACC if Sapphire in inventory, otherwise -4%% ACC]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box6"><![CDATA[+9%% CRIT if Ruby in inventory, otherwise -3%% CRIT]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_caneon1"><![CDATA[+2 SPD in front]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_caneon2"><![CDATA[+15%% DMG in back]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_once"><![CDATA[{colour_start|skill_unselectable}Effects apply only once on AoE skills{colour_end}]]></entry>
+  
+    <entry id="trinket_friendly_skill_additional_effects"><![CDATA[Friendly Skill:]]></entry>
+	<entry id="trinket_attack_skill_additional_effects_hit_miss"><![CDATA[On Attack:]]></entry>
+	<entry id="trinket_attack_skill_additional_effects_hit"><![CDATA[On Hit:]]></entry>
+    <entry id="trinket_was_hit_additional_effects"><![CDATA[On Being Hit:]]></entry>
+    <entry id="effect_health_damage_format"><![CDATA[-%d HP]]></entry>
+	
+  <entry id="buff_rule_tooltip_has_item_id"><![CDATA[%s if %s in inventory]]></entry>
+  <entry id="buff_rule_data_tooltip_bootleg_gift"><![CDATA[Present]]></entry>
+  </language>
+  <language id="spanish">
+  
+  <entry id="town_quest_name_plot_bootleg_santa"><![CDATA[Go after Thieves!]]></entry>
+  <entry id="town_quest_description_plot_bootleg_santa"><![CDATA[Quick! The thieves are on the run, but they couldn't have gone far.]]></entry>
+  <entry id="str_embarked_on_plot_bootleg_santa"><![CDATA[Quick! The thieves are on the run, but they couldn't have gone far.]]></entry>
+  <entry id="str_plot_bootleg_santa_tip"><![CDATA[Be careful - Despite the looks, they're actually the bad guys.]]></entry>
+  <entry id="str_lumberjack_tip"><![CDATA[Sharing is caring!]]></entry>
+  <entry id="str_returned_from_plot_bootleg_santa_failure"><![CDATA[{?hero_names}%s couldn't catch up to the fleeing thieves.]]></entry>
+  <entry id="str_returned_from_plot_bootleg_santa_success"><![CDATA[{?hero_names}%s have successfully caught up to and apprehended the thieves.]]></entry>
+  <entry id="town_event_title_bootleg_santa_invade"><![CDATA[Thieves on the run]]></entry>
+  <entry id="town_event_description_bootleg_santa_invade"><![CDATA[Under the cover of the night, and with the costumes to fool the denizens of the hamlet, thieves have stolen all the toys from the hamlet's children. Go after them and reclaim what is ours! ]]></entry>
+  <entry id="town_event_title_bootleg_santa_reward"><![CDATA[Factory Rebuilt]]></entry>
+  <entry id="town_event_description_bootleg_santa_reward"><![CDATA[With the thieves banished from our lands, the people of hamlet can sleep sound again. As a gift of appreciation, hamlet's craftsmen decided to open a workshop, and let you do the honors!]]></entry>
+  <entry id="town_quest_description_bootleg_santa_invade"><![CDATA[%s went on to chase the scummy outlaws.]]></entry>
+  
+  <entry id="str_monstername_bootleg_santa_A"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_A"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_A"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_santa_B"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_B"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_B"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_santa_C"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_C"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_C"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_gift_dummy_A"><![CDATA[please message snorlaxxo#5067 on discord if you see this in-game]]></entry>
+  
+  <entry id="str_monster_skill_bootleg_santa_spawn"><![CDATA[The more the merrier!]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_heal"><![CDATA[Spirit of stolen christmas]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_actor_dot_1"><![CDATA[What goes around comes around]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_actor_dot_2"><![CDATA[Sharing is Caring]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_bag"><![CDATA[Bag Attack]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_gift"><![CDATA[Unsolicited Gift]]></entry>
+  <entry id="str_monster_skill_bootleg_pew_pew"><![CDATA[Sprinkles]]></entry>
+  <entry id="str_monster_skill_bootleg_pew_bash"><![CDATA[Candy Crush]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_stab"><![CDATA[Hearty Blow]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_chomp"><![CDATA[Healthy Meal]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_snowball"><![CDATA[Snowball Warfare]]></entry>
+  
+  <entry id="town_event_info_format_bonus_currency"><![CDATA[{?bonus_currency_type}%s +{?amount}%d]]></entry>
+  <entry id="str_toy_factory_title"><![CDATA[Toy Factory]]></entry>
+  <entry id="str_toy_factory_buff_bootleg_gift"><![CDATA[Might produce a gift at the end of the week.]]></entry>
+  <entry id="bonus_currency_name_snowflake"><![CDATA[Snowflakes]]></entry>
+  <entry id="str_inventory_title_heirloomsnowflake"><![CDATA[Snowflakes]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_pet"><![CDATA["Rudolph" (Reindeer...?)]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_hat"><![CDATA[Festive Hat]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_bag"><![CDATA[Bottomless Bag]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_daggel"><![CDATA[Vegedaggles]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_caneon"><![CDATA[Candy Caneon]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_hat"><![CDATA[Hat of a Mischevious Elf]]></entry>
+  <entry id="str_inventory_title_trinketfactory_tops"><![CDATA[Tops]]></entry>
+  <entry id="str_inventory_title_trinketfactory_gem_box"><![CDATA[Box of treasures]]></entry>
+  <entry id="str_inventory_title_trinketfactory_drum"><![CDATA[Drums]]></entry>
+  <entry id="str_inventory_title_trinketfactory_rattle"><![CDATA[Rattle]]></entry>
+  <entry id="str_inventory_title_trinketfactory_doll_off"><![CDATA[Angry Doll]]></entry>
+  <entry id="str_inventory_title_trinketfactory_doll_def"><![CDATA[Happy Doll]]></entry>
+  <entry id="str_inventory_title_trinketfactory_sword"><![CDATA[Wodden Sword]]></entry>
+  <entry id="str_inventory_title_trinketfactory_horse"><![CDATA[Wodden Horse]]></entry>
+  <entry id="str_inventory_title_trinketfactory_puppet"><![CDATA[Puppet]]></entry>
+  <entry id="str_inventory_title_trinketfactory_kite"><![CDATA[Kite]]></entry>
+  
+  	<entry id="trinket_rarity_bootleg_gift"><![CDATA[Christmas Gift]]></entry>
+  	<entry id="trinket_rarity_bootleg_santa"><![CDATA[Very Rare]]></entry>
+  	<entry id="trinket_rarity_bootleg_pew"><![CDATA[Very Rare]]></entry>
+  	<entry id="trinket_rarity_bootleg_stab"><![CDATA[Very Rare]]></entry>
+	
+	
+  	<entry id="str_inventory_title_gemcoal"><![CDATA[Piece of Coal]]></entry>
+  	<entry id="str_inventory_description_gemcoal"><![CDATA[Someone's been naughty this year.]]></entry>
+  	<entry id="str_inventory_title_estatebootleg_gift"><![CDATA[Present]]></entry>
+  	<entry id="str_inventory_description_estatebootleg_gift"><![CDATA[Share it with your enemies, and you'll be rewarded]]></entry>
+  
+  <entry id="str_inventory_set_title_factory_instruments"><![CDATA["The one man band"]]></entry>
+  <entry id="str_inventory_set_title_factory_dolls"><![CDATA["My friends are all around!"]]></entry>
+  <entry id="str_inventory_set_title_factory_warrior"><![CDATA["The regalia of a future warrior"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_santa"><![CDATA["Stealing christmas, one by one"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_helper"><![CDATA["The #1 secondary villan of the year"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_pet"><![CDATA["Not a pet nor a set"]]></entry>
+  
+  
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet1"><![CDATA[{colour_start|yellow}Reality Bending:{colour_end}On attack, will end user's turn. Most likely.]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet2"><![CDATA[{colour_start|riposte} Antler of Justice:{colour_end} Low chance to make baddies disappear]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet3"><![CDATA[{colour_start|blue}Playful Spirit:{colour_end} On Friendly Skill: Might lick target]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet4"><![CDATA[{colour_start|red}Sniffing Expert:{colour_end}Increases scout chance by a lot]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet"><![CDATA[+10%% petting speed]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box1"><![CDATA[+15%% max hp if Citrine in inventory, otherwise -10%% max HP]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box2"><![CDATA[+12%% Dodge if Jade in inventory, otherwise -8%% Dodge]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box3"><![CDATA[+4 SPD if Onyx in inventory, otherwise -2 SPD]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box4"><![CDATA[+30%% DMG if Emerald in inventory, otherwise -15%% DMG]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box5"><![CDATA[+12%% ACC if Sapphire in inventory, otherwise -4%% ACC]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box6"><![CDATA[+9%% CRIT if Ruby in inventory, otherwise -3%% CRIT]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_caneon1"><![CDATA[+2 SPD in front]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_caneon2"><![CDATA[+15%% DMG in back]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_once"><![CDATA[{colour_start|skill_unselectable}Effects apply only once on AoE skills{colour_end}]]></entry>
+  
+    <entry id="trinket_friendly_skill_additional_effects"><![CDATA[Friendly Skill:]]></entry>
+	<entry id="trinket_attack_skill_additional_effects_hit_miss"><![CDATA[On Attack:]]></entry>
+	<entry id="trinket_attack_skill_additional_effects_hit"><![CDATA[On Hit:]]></entry>
+    <entry id="trinket_was_hit_additional_effects"><![CDATA[On Being Hit:]]></entry>
+    <entry id="effect_health_damage_format"><![CDATA[-%d HP]]></entry>
+	
+  <entry id="buff_rule_tooltip_has_item_id"><![CDATA[%s if %s in inventory]]></entry>
+  <entry id="buff_rule_data_tooltip_bootleg_gift"><![CDATA[Present]]></entry>
+  </language>
+  <language id="brazilian">
+  
+  <entry id="town_quest_name_plot_bootleg_santa"><![CDATA[Go after Thieves!]]></entry>
+  <entry id="town_quest_description_plot_bootleg_santa"><![CDATA[Quick! The thieves are on the run, but they couldn't have gone far.]]></entry>
+  <entry id="str_embarked_on_plot_bootleg_santa"><![CDATA[Quick! The thieves are on the run, but they couldn't have gone far.]]></entry>
+  <entry id="str_plot_bootleg_santa_tip"><![CDATA[Be careful - Despite the looks, they're actually the bad guys.]]></entry>
+  <entry id="str_lumberjack_tip"><![CDATA[Sharing is caring!]]></entry>
+  <entry id="str_returned_from_plot_bootleg_santa_failure"><![CDATA[{?hero_names}%s couldn't catch up to the fleeing thieves.]]></entry>
+  <entry id="str_returned_from_plot_bootleg_santa_success"><![CDATA[{?hero_names}%s have successfully caught up to and apprehended the thieves.]]></entry>
+  <entry id="town_event_title_bootleg_santa_invade"><![CDATA[Thieves on the run]]></entry>
+  <entry id="town_event_description_bootleg_santa_invade"><![CDATA[Under the cover of the night, and with the costumes to fool the denizens of the hamlet, thieves have stolen all the toys from the hamlet's children. Go after them and reclaim what is ours! ]]></entry>
+  <entry id="town_event_title_bootleg_santa_reward"><![CDATA[Factory Rebuilt]]></entry>
+  <entry id="town_event_description_bootleg_santa_reward"><![CDATA[With the thieves banished from our lands, the people of hamlet can sleep sound again. As a gift of appreciation, hamlet's craftsmen decided to open a workshop, and let you do the honors!]]></entry>
+  <entry id="town_quest_description_bootleg_santa_invade"><![CDATA[%s went on to chase the scummy outlaws.]]></entry>
+  
+  <entry id="str_monstername_bootleg_santa_A"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_A"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_A"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_santa_B"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_B"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_B"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_santa_C"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_C"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_C"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_gift_dummy_A"><![CDATA[please message snorlaxxo#5067 on discord if you see this in-game]]></entry>
+  
+  <entry id="str_monster_skill_bootleg_santa_spawn"><![CDATA[The more the merrier!]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_heal"><![CDATA[Spirit of stolen christmas]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_actor_dot_1"><![CDATA[What goes around comes around]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_actor_dot_2"><![CDATA[Sharing is Caring]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_bag"><![CDATA[Bag Attack]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_gift"><![CDATA[Unsolicited Gift]]></entry>
+  <entry id="str_monster_skill_bootleg_pew_pew"><![CDATA[Sprinkles]]></entry>
+  <entry id="str_monster_skill_bootleg_pew_bash"><![CDATA[Candy Crush]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_stab"><![CDATA[Hearty Blow]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_chomp"><![CDATA[Healthy Meal]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_snowball"><![CDATA[Snowball Warfare]]></entry>
+  
+  <entry id="town_event_info_format_bonus_currency"><![CDATA[{?bonus_currency_type}%s +{?amount}%d]]></entry>
+  <entry id="str_toy_factory_title"><![CDATA[Toy Factory]]></entry>
+  <entry id="str_toy_factory_buff_bootleg_gift"><![CDATA[Might produce a gift at the end of the week.]]></entry>
+  <entry id="bonus_currency_name_snowflake"><![CDATA[Snowflakes]]></entry>
+  <entry id="str_inventory_title_heirloomsnowflake"><![CDATA[Snowflakes]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_pet"><![CDATA["Rudolph" (Reindeer...?)]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_hat"><![CDATA[Festive Hat]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_bag"><![CDATA[Bottomless Bag]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_daggel"><![CDATA[Vegedaggles]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_caneon"><![CDATA[Candy Caneon]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_hat"><![CDATA[Hat of a Mischevious Elf]]></entry>
+  <entry id="str_inventory_title_trinketfactory_tops"><![CDATA[Tops]]></entry>
+  <entry id="str_inventory_title_trinketfactory_gem_box"><![CDATA[Box of treasures]]></entry>
+  <entry id="str_inventory_title_trinketfactory_drum"><![CDATA[Drums]]></entry>
+  <entry id="str_inventory_title_trinketfactory_rattle"><![CDATA[Rattle]]></entry>
+  <entry id="str_inventory_title_trinketfactory_doll_off"><![CDATA[Angry Doll]]></entry>
+  <entry id="str_inventory_title_trinketfactory_doll_def"><![CDATA[Happy Doll]]></entry>
+  <entry id="str_inventory_title_trinketfactory_sword"><![CDATA[Wodden Sword]]></entry>
+  <entry id="str_inventory_title_trinketfactory_horse"><![CDATA[Wodden Horse]]></entry>
+  <entry id="str_inventory_title_trinketfactory_puppet"><![CDATA[Puppet]]></entry>
+  <entry id="str_inventory_title_trinketfactory_kite"><![CDATA[Kite]]></entry>
+  
+  	<entry id="trinket_rarity_bootleg_gift"><![CDATA[Christmas Gift]]></entry>
+  	<entry id="trinket_rarity_bootleg_santa"><![CDATA[Very Rare]]></entry>
+  	<entry id="trinket_rarity_bootleg_pew"><![CDATA[Very Rare]]></entry>
+  	<entry id="trinket_rarity_bootleg_stab"><![CDATA[Very Rare]]></entry>
+	
+	
+  	<entry id="str_inventory_title_gemcoal"><![CDATA[Piece of Coal]]></entry>
+  	<entry id="str_inventory_description_gemcoal"><![CDATA[Someone's been naughty this year.]]></entry>
+  	<entry id="str_inventory_title_estatebootleg_gift"><![CDATA[Present]]></entry>
+  	<entry id="str_inventory_description_estatebootleg_gift"><![CDATA[Share it with your enemies, and you'll be rewarded]]></entry>
+  
+  <entry id="str_inventory_set_title_factory_instruments"><![CDATA["The one man band"]]></entry>
+  <entry id="str_inventory_set_title_factory_dolls"><![CDATA["My friends are all around!"]]></entry>
+  <entry id="str_inventory_set_title_factory_warrior"><![CDATA["The regalia of a future warrior"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_santa"><![CDATA["Stealing christmas, one by one"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_helper"><![CDATA["The #1 secondary villan of the year"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_pet"><![CDATA["Not a pet nor a set"]]></entry>
+  
+  
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet1"><![CDATA[{colour_start|yellow}Reality Bending:{colour_end}On attack, will end user's turn. Most likely.]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet2"><![CDATA[{colour_start|riposte} Antler of Justice:{colour_end} Low chance to make baddies disappear]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet3"><![CDATA[{colour_start|blue}Playful Spirit:{colour_end} On Friendly Skill: Might lick target]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet4"><![CDATA[{colour_start|red}Sniffing Expert:{colour_end}Increases scout chance by a lot]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet"><![CDATA[+10%% petting speed]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box1"><![CDATA[+15%% max hp if Citrine in inventory, otherwise -10%% max HP]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box2"><![CDATA[+12%% Dodge if Jade in inventory, otherwise -8%% Dodge]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box3"><![CDATA[+4 SPD if Onyx in inventory, otherwise -2 SPD]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box4"><![CDATA[+30%% DMG if Emerald in inventory, otherwise -15%% DMG]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box5"><![CDATA[+12%% ACC if Sapphire in inventory, otherwise -4%% ACC]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box6"><![CDATA[+9%% CRIT if Ruby in inventory, otherwise -3%% CRIT]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_caneon1"><![CDATA[+2 SPD in front]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_caneon2"><![CDATA[+15%% DMG in back]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_once"><![CDATA[{colour_start|skill_unselectable}Effects apply only once on AoE skills{colour_end}]]></entry>
+  
+    <entry id="trinket_friendly_skill_additional_effects"><![CDATA[Friendly Skill:]]></entry>
+	<entry id="trinket_attack_skill_additional_effects_hit_miss"><![CDATA[On Attack:]]></entry>
+	<entry id="trinket_attack_skill_additional_effects_hit"><![CDATA[On Hit:]]></entry>
+    <entry id="trinket_was_hit_additional_effects"><![CDATA[On Being Hit:]]></entry>
+    <entry id="effect_health_damage_format"><![CDATA[-%d HP]]></entry>
+	
+  <entry id="buff_rule_tooltip_has_item_id"><![CDATA[%s if %s in inventory]]></entry>
+  <entry id="buff_rule_data_tooltip_bootleg_gift"><![CDATA[Present]]></entry>
+  </language>
+  <language id="russian">
+  
+  <entry id="town_quest_name_plot_bootleg_santa"><![CDATA[Go after Thieves!]]></entry>
+  <entry id="town_quest_description_plot_bootleg_santa"><![CDATA[Quick! The thieves are on the run, but they couldn't have gone far.]]></entry>
+  <entry id="str_embarked_on_plot_bootleg_santa"><![CDATA[Quick! The thieves are on the run, but they couldn't have gone far.]]></entry>
+  <entry id="str_plot_bootleg_santa_tip"><![CDATA[Be careful - Despite the looks, they're actually the bad guys.]]></entry>
+  <entry id="str_lumberjack_tip"><![CDATA[Sharing is caring!]]></entry>
+  <entry id="str_returned_from_plot_bootleg_santa_failure"><![CDATA[{?hero_names}%s couldn't catch up to the fleeing thieves.]]></entry>
+  <entry id="str_returned_from_plot_bootleg_santa_success"><![CDATA[{?hero_names}%s have successfully caught up to and apprehended the thieves.]]></entry>
+  <entry id="town_event_title_bootleg_santa_invade"><![CDATA[Thieves on the run]]></entry>
+  <entry id="town_event_description_bootleg_santa_invade"><![CDATA[Under the cover of the night, and with the costumes to fool the denizens of the hamlet, thieves have stolen all the toys from the hamlet's children. Go after them and reclaim what is ours! ]]></entry>
+  <entry id="town_event_title_bootleg_santa_reward"><![CDATA[Factory Rebuilt]]></entry>
+  <entry id="town_event_description_bootleg_santa_reward"><![CDATA[With the thieves banished from our lands, the people of hamlet can sleep sound again. As a gift of appreciation, hamlet's craftsmen decided to open a workshop, and let you do the honors!]]></entry>
+  <entry id="town_quest_description_bootleg_santa_invade"><![CDATA[%s went on to chase the scummy outlaws.]]></entry>
+  
+  <entry id="str_monstername_bootleg_santa_A"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_A"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_A"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_santa_B"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_B"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_B"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_santa_C"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_C"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_C"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_gift_dummy_A"><![CDATA[please message snorlaxxo#5067 on discord if you see this in-game]]></entry>
+  
+  <entry id="str_monster_skill_bootleg_santa_spawn"><![CDATA[The more the merrier!]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_heal"><![CDATA[Spirit of stolen christmas]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_actor_dot_1"><![CDATA[What goes around comes around]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_actor_dot_2"><![CDATA[Sharing is Caring]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_bag"><![CDATA[Bag Attack]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_gift"><![CDATA[Unsolicited Gift]]></entry>
+  <entry id="str_monster_skill_bootleg_pew_pew"><![CDATA[Sprinkles]]></entry>
+  <entry id="str_monster_skill_bootleg_pew_bash"><![CDATA[Candy Crush]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_stab"><![CDATA[Hearty Blow]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_chomp"><![CDATA[Healthy Meal]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_snowball"><![CDATA[Snowball Warfare]]></entry>
+  
+  <entry id="town_event_info_format_bonus_currency"><![CDATA[{?bonus_currency_type}%s +{?amount}%d]]></entry>
+  <entry id="str_toy_factory_title"><![CDATA[Toy Factory]]></entry>
+  <entry id="str_toy_factory_buff_bootleg_gift"><![CDATA[Might produce a gift at the end of the week.]]></entry>
+  <entry id="bonus_currency_name_snowflake"><![CDATA[Snowflakes]]></entry>
+  <entry id="str_inventory_title_heirloomsnowflake"><![CDATA[Snowflakes]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_pet"><![CDATA["Rudolph" (Reindeer...?)]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_hat"><![CDATA[Festive Hat]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_bag"><![CDATA[Bottomless Bag]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_daggel"><![CDATA[Vegedaggles]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_caneon"><![CDATA[Candy Caneon]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_hat"><![CDATA[Hat of a Mischevious Elf]]></entry>
+  <entry id="str_inventory_title_trinketfactory_tops"><![CDATA[Tops]]></entry>
+  <entry id="str_inventory_title_trinketfactory_gem_box"><![CDATA[Box of treasures]]></entry>
+  <entry id="str_inventory_title_trinketfactory_drum"><![CDATA[Drums]]></entry>
+  <entry id="str_inventory_title_trinketfactory_rattle"><![CDATA[Rattle]]></entry>
+  <entry id="str_inventory_title_trinketfactory_doll_off"><![CDATA[Angry Doll]]></entry>
+  <entry id="str_inventory_title_trinketfactory_doll_def"><![CDATA[Happy Doll]]></entry>
+  <entry id="str_inventory_title_trinketfactory_sword"><![CDATA[Wodden Sword]]></entry>
+  <entry id="str_inventory_title_trinketfactory_horse"><![CDATA[Wodden Horse]]></entry>
+  <entry id="str_inventory_title_trinketfactory_puppet"><![CDATA[Puppet]]></entry>
+  <entry id="str_inventory_title_trinketfactory_kite"><![CDATA[Kite]]></entry>
+  
+  	<entry id="trinket_rarity_bootleg_gift"><![CDATA[Christmas Gift]]></entry>
+  	<entry id="trinket_rarity_bootleg_santa"><![CDATA[Very Rare]]></entry>
+  	<entry id="trinket_rarity_bootleg_pew"><![CDATA[Very Rare]]></entry>
+  	<entry id="trinket_rarity_bootleg_stab"><![CDATA[Very Rare]]></entry>
+	
+	
+  	<entry id="str_inventory_title_gemcoal"><![CDATA[Piece of Coal]]></entry>
+  	<entry id="str_inventory_description_gemcoal"><![CDATA[Someone's been naughty this year.]]></entry>
+  	<entry id="str_inventory_title_estatebootleg_gift"><![CDATA[Present]]></entry>
+  	<entry id="str_inventory_description_estatebootleg_gift"><![CDATA[Share it with your enemies, and you'll be rewarded]]></entry>
+  
+  <entry id="str_inventory_set_title_factory_instruments"><![CDATA["The one man band"]]></entry>
+  <entry id="str_inventory_set_title_factory_dolls"><![CDATA["My friends are all around!"]]></entry>
+  <entry id="str_inventory_set_title_factory_warrior"><![CDATA["The regalia of a future warrior"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_santa"><![CDATA["Stealing christmas, one by one"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_helper"><![CDATA["The #1 secondary villan of the year"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_pet"><![CDATA["Not a pet nor a set"]]></entry>
+  
+  
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet1"><![CDATA[{colour_start|yellow}Reality Bending:{colour_end}On attack, will end user's turn. Most likely.]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet2"><![CDATA[{colour_start|riposte} Antler of Justice:{colour_end} Low chance to make baddies disappear]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet3"><![CDATA[{colour_start|blue}Playful Spirit:{colour_end} On Friendly Skill: Might lick target]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet4"><![CDATA[{colour_start|red}Sniffing Expert:{colour_end}Increases scout chance by a lot]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet"><![CDATA[+10%% petting speed]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box1"><![CDATA[+15%% max hp if Citrine in inventory, otherwise -10%% max HP]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box2"><![CDATA[+12%% Dodge if Jade in inventory, otherwise -8%% Dodge]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box3"><![CDATA[+4 SPD if Onyx in inventory, otherwise -2 SPD]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box4"><![CDATA[+30%% DMG if Emerald in inventory, otherwise -15%% DMG]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box5"><![CDATA[+12%% ACC if Sapphire in inventory, otherwise -4%% ACC]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box6"><![CDATA[+9%% CRIT if Ruby in inventory, otherwise -3%% CRIT]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_caneon1"><![CDATA[+2 SPD in front]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_caneon2"><![CDATA[+15%% DMG in back]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_once"><![CDATA[{colour_start|skill_unselectable}Effects apply only once on AoE skills{colour_end}]]></entry>
+  
+    <entry id="trinket_friendly_skill_additional_effects"><![CDATA[Friendly Skill:]]></entry>
+	<entry id="trinket_attack_skill_additional_effects_hit_miss"><![CDATA[On Attack:]]></entry>
+	<entry id="trinket_attack_skill_additional_effects_hit"><![CDATA[On Hit:]]></entry>
+    <entry id="trinket_was_hit_additional_effects"><![CDATA[On Being Hit:]]></entry>
+    <entry id="effect_health_damage_format"><![CDATA[-%d HP]]></entry>
+	
+  <entry id="buff_rule_tooltip_has_item_id"><![CDATA[%s if %s in inventory]]></entry>
+  <entry id="buff_rule_data_tooltip_bootleg_gift"><![CDATA[Present]]></entry>
+  </language>
+  <language id="polish">
+  
+  <entry id="town_quest_name_plot_bootleg_santa"><![CDATA[Go after Thieves!]]></entry>
+  <entry id="town_quest_description_plot_bootleg_santa"><![CDATA[Quick! The thieves are on the run, but they couldn't have gone far.]]></entry>
+  <entry id="str_embarked_on_plot_bootleg_santa"><![CDATA[Quick! The thieves are on the run, but they couldn't have gone far.]]></entry>
+  <entry id="str_plot_bootleg_santa_tip"><![CDATA[Be careful - Despite the looks, they're actually the bad guys.]]></entry>
+  <entry id="str_lumberjack_tip"><![CDATA[Sharing is caring!]]></entry>
+  <entry id="str_returned_from_plot_bootleg_santa_failure"><![CDATA[{?hero_names}%s couldn't catch up to the fleeing thieves.]]></entry>
+  <entry id="str_returned_from_plot_bootleg_santa_success"><![CDATA[{?hero_names}%s have successfully caught up to and apprehended the thieves.]]></entry>
+  <entry id="town_event_title_bootleg_santa_invade"><![CDATA[Thieves on the run]]></entry>
+  <entry id="town_event_description_bootleg_santa_invade"><![CDATA[Under the cover of the night, and with the costumes to fool the denizens of the hamlet, thieves have stolen all the toys from the hamlet's children. Go after them and reclaim what is ours! ]]></entry>
+  <entry id="town_event_title_bootleg_santa_reward"><![CDATA[Factory Rebuilt]]></entry>
+  <entry id="town_event_description_bootleg_santa_reward"><![CDATA[With the thieves banished from our lands, the people of hamlet can sleep sound again. As a gift of appreciation, hamlet's craftsmen decided to open a workshop, and let you do the honors!]]></entry>
+  <entry id="town_quest_description_bootleg_santa_invade"><![CDATA[%s went on to chase the scummy outlaws.]]></entry>
+  
+  <entry id="str_monstername_bootleg_santa_A"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_A"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_A"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_santa_B"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_B"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_B"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_santa_C"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_C"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_C"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_gift_dummy_A"><![CDATA[please message snorlaxxo#5067 on discord if you see this in-game]]></entry>
+  
+  <entry id="str_monster_skill_bootleg_santa_spawn"><![CDATA[The more the merrier!]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_heal"><![CDATA[Spirit of stolen christmas]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_actor_dot_1"><![CDATA[What goes around comes around]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_actor_dot_2"><![CDATA[Sharing is Caring]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_bag"><![CDATA[Bag Attack]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_gift"><![CDATA[Unsolicited Gift]]></entry>
+  <entry id="str_monster_skill_bootleg_pew_pew"><![CDATA[Sprinkles]]></entry>
+  <entry id="str_monster_skill_bootleg_pew_bash"><![CDATA[Candy Crush]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_stab"><![CDATA[Hearty Blow]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_chomp"><![CDATA[Healthy Meal]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_snowball"><![CDATA[Snowball Warfare]]></entry>
+  
+  <entry id="town_event_info_format_bonus_currency"><![CDATA[{?bonus_currency_type}%s +{?amount}%d]]></entry>
+  <entry id="str_toy_factory_title"><![CDATA[Toy Factory]]></entry>
+  <entry id="str_toy_factory_buff_bootleg_gift"><![CDATA[Might produce a gift at the end of the week.]]></entry>
+  <entry id="bonus_currency_name_snowflake"><![CDATA[Snowflakes]]></entry>
+  <entry id="str_inventory_title_heirloomsnowflake"><![CDATA[Snowflakes]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_pet"><![CDATA["Rudolph" (Reindeer...?)]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_hat"><![CDATA[Festive Hat]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_bag"><![CDATA[Bottomless Bag]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_daggel"><![CDATA[Vegedaggles]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_caneon"><![CDATA[Candy Caneon]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_hat"><![CDATA[Hat of a Mischevious Elf]]></entry>
+  <entry id="str_inventory_title_trinketfactory_tops"><![CDATA[Tops]]></entry>
+  <entry id="str_inventory_title_trinketfactory_gem_box"><![CDATA[Box of treasures]]></entry>
+  <entry id="str_inventory_title_trinketfactory_drum"><![CDATA[Drums]]></entry>
+  <entry id="str_inventory_title_trinketfactory_rattle"><![CDATA[Rattle]]></entry>
+  <entry id="str_inventory_title_trinketfactory_doll_off"><![CDATA[Angry Doll]]></entry>
+  <entry id="str_inventory_title_trinketfactory_doll_def"><![CDATA[Happy Doll]]></entry>
+  <entry id="str_inventory_title_trinketfactory_sword"><![CDATA[Wodden Sword]]></entry>
+  <entry id="str_inventory_title_trinketfactory_horse"><![CDATA[Wodden Horse]]></entry>
+  <entry id="str_inventory_title_trinketfactory_puppet"><![CDATA[Puppet]]></entry>
+  <entry id="str_inventory_title_trinketfactory_kite"><![CDATA[Kite]]></entry>
+  
+  	<entry id="trinket_rarity_bootleg_gift"><![CDATA[Christmas Gift]]></entry>
+  	<entry id="trinket_rarity_bootleg_santa"><![CDATA[Very Rare]]></entry>
+  	<entry id="trinket_rarity_bootleg_pew"><![CDATA[Very Rare]]></entry>
+  	<entry id="trinket_rarity_bootleg_stab"><![CDATA[Very Rare]]></entry>
+	
+	
+  	<entry id="str_inventory_title_gemcoal"><![CDATA[Piece of Coal]]></entry>
+  	<entry id="str_inventory_description_gemcoal"><![CDATA[Someone's been naughty this year.]]></entry>
+  	<entry id="str_inventory_title_estatebootleg_gift"><![CDATA[Present]]></entry>
+  	<entry id="str_inventory_description_estatebootleg_gift"><![CDATA[Share it with your enemies, and you'll be rewarded]]></entry>
+  
+  <entry id="str_inventory_set_title_factory_instruments"><![CDATA["The one man band"]]></entry>
+  <entry id="str_inventory_set_title_factory_dolls"><![CDATA["My friends are all around!"]]></entry>
+  <entry id="str_inventory_set_title_factory_warrior"><![CDATA["The regalia of a future warrior"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_santa"><![CDATA["Stealing christmas, one by one"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_helper"><![CDATA["The #1 secondary villan of the year"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_pet"><![CDATA["Not a pet nor a set"]]></entry>
+  
+  
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet1"><![CDATA[{colour_start|yellow}Reality Bending:{colour_end}On attack, will end user's turn. Most likely.]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet2"><![CDATA[{colour_start|riposte} Antler of Justice:{colour_end} Low chance to make baddies disappear]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet3"><![CDATA[{colour_start|blue}Playful Spirit:{colour_end} On Friendly Skill: Might lick target]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet4"><![CDATA[{colour_start|red}Sniffing Expert:{colour_end}Increases scout chance by a lot]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet"><![CDATA[+10%% petting speed]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box1"><![CDATA[+15%% max hp if Citrine in inventory, otherwise -10%% max HP]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box2"><![CDATA[+12%% Dodge if Jade in inventory, otherwise -8%% Dodge]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box3"><![CDATA[+4 SPD if Onyx in inventory, otherwise -2 SPD]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box4"><![CDATA[+30%% DMG if Emerald in inventory, otherwise -15%% DMG]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box5"><![CDATA[+12%% ACC if Sapphire in inventory, otherwise -4%% ACC]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box6"><![CDATA[+9%% CRIT if Ruby in inventory, otherwise -3%% CRIT]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_caneon1"><![CDATA[+2 SPD in front]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_caneon2"><![CDATA[+15%% DMG in back]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_once"><![CDATA[{colour_start|skill_unselectable}Effects apply only once on AoE skills{colour_end}]]></entry>
+  
+    <entry id="trinket_friendly_skill_additional_effects"><![CDATA[Friendly Skill:]]></entry>
+	<entry id="trinket_attack_skill_additional_effects_hit_miss"><![CDATA[On Attack:]]></entry>
+	<entry id="trinket_attack_skill_additional_effects_hit"><![CDATA[On Hit:]]></entry>
+    <entry id="trinket_was_hit_additional_effects"><![CDATA[On Being Hit:]]></entry>
+    <entry id="effect_health_damage_format"><![CDATA[-%d HP]]></entry>
+	
+  <entry id="buff_rule_tooltip_has_item_id"><![CDATA[%s if %s in inventory]]></entry>
+  <entry id="buff_rule_data_tooltip_bootleg_gift"><![CDATA[Present]]></entry>
+  </language>
+  <language id="czech">
+  
+  <entry id="town_quest_name_plot_bootleg_santa"><![CDATA[Go after Thieves!]]></entry>
+  <entry id="town_quest_description_plot_bootleg_santa"><![CDATA[Quick! The thieves are on the run, but they couldn't have gone far.]]></entry>
+  <entry id="str_embarked_on_plot_bootleg_santa"><![CDATA[Quick! The thieves are on the run, but they couldn't have gone far.]]></entry>
+  <entry id="str_plot_bootleg_santa_tip"><![CDATA[Be careful - Despite the looks, they're actually the bad guys.]]></entry>
+  <entry id="str_lumberjack_tip"><![CDATA[Sharing is caring!]]></entry>
+  <entry id="str_returned_from_plot_bootleg_santa_failure"><![CDATA[{?hero_names}%s couldn't catch up to the fleeing thieves.]]></entry>
+  <entry id="str_returned_from_plot_bootleg_santa_success"><![CDATA[{?hero_names}%s have successfully caught up to and apprehended the thieves.]]></entry>
+  <entry id="town_event_title_bootleg_santa_invade"><![CDATA[Thieves on the run]]></entry>
+  <entry id="town_event_description_bootleg_santa_invade"><![CDATA[Under the cover of the night, and with the costumes to fool the denizens of the hamlet, thieves have stolen all the toys from the hamlet's children. Go after them and reclaim what is ours! ]]></entry>
+  <entry id="town_event_title_bootleg_santa_reward"><![CDATA[Factory Rebuilt]]></entry>
+  <entry id="town_event_description_bootleg_santa_reward"><![CDATA[With the thieves banished from our lands, the people of hamlet can sleep sound again. As a gift of appreciation, hamlet's craftsmen decided to open a workshop, and let you do the honors!]]></entry>
+  <entry id="town_quest_description_bootleg_santa_invade"><![CDATA[%s went on to chase the scummy outlaws.]]></entry>
+  
+  <entry id="str_monstername_bootleg_santa_A"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_A"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_A"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_santa_B"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_B"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_B"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_santa_C"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_C"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_C"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_gift_dummy_A"><![CDATA[please message snorlaxxo#5067 on discord if you see this in-game]]></entry>
+  
+  <entry id="str_monster_skill_bootleg_santa_spawn"><![CDATA[The more the merrier!]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_heal"><![CDATA[Spirit of stolen christmas]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_actor_dot_1"><![CDATA[What goes around comes around]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_actor_dot_2"><![CDATA[Sharing is Caring]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_bag"><![CDATA[Bag Attack]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_gift"><![CDATA[Unsolicited Gift]]></entry>
+  <entry id="str_monster_skill_bootleg_pew_pew"><![CDATA[Sprinkles]]></entry>
+  <entry id="str_monster_skill_bootleg_pew_bash"><![CDATA[Candy Crush]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_stab"><![CDATA[Hearty Blow]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_chomp"><![CDATA[Healthy Meal]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_snowball"><![CDATA[Snowball Warfare]]></entry>
+  
+  <entry id="town_event_info_format_bonus_currency"><![CDATA[{?bonus_currency_type}%s +{?amount}%d]]></entry>
+  <entry id="str_toy_factory_title"><![CDATA[Toy Factory]]></entry>
+  <entry id="str_toy_factory_buff_bootleg_gift"><![CDATA[Might produce a gift at the end of the week.]]></entry>
+  <entry id="bonus_currency_name_snowflake"><![CDATA[Snowflakes]]></entry>
+  <entry id="str_inventory_title_heirloomsnowflake"><![CDATA[Snowflakes]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_pet"><![CDATA["Rudolph" (Reindeer...?)]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_hat"><![CDATA[Festive Hat]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_bag"><![CDATA[Bottomless Bag]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_daggel"><![CDATA[Vegedaggles]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_caneon"><![CDATA[Candy Caneon]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_hat"><![CDATA[Hat of a Mischevious Elf]]></entry>
+  <entry id="str_inventory_title_trinketfactory_tops"><![CDATA[Tops]]></entry>
+  <entry id="str_inventory_title_trinketfactory_gem_box"><![CDATA[Box of treasures]]></entry>
+  <entry id="str_inventory_title_trinketfactory_drum"><![CDATA[Drums]]></entry>
+  <entry id="str_inventory_title_trinketfactory_rattle"><![CDATA[Rattle]]></entry>
+  <entry id="str_inventory_title_trinketfactory_doll_off"><![CDATA[Angry Doll]]></entry>
+  <entry id="str_inventory_title_trinketfactory_doll_def"><![CDATA[Happy Doll]]></entry>
+  <entry id="str_inventory_title_trinketfactory_sword"><![CDATA[Wodden Sword]]></entry>
+  <entry id="str_inventory_title_trinketfactory_horse"><![CDATA[Wodden Horse]]></entry>
+  <entry id="str_inventory_title_trinketfactory_puppet"><![CDATA[Puppet]]></entry>
+  <entry id="str_inventory_title_trinketfactory_kite"><![CDATA[Kite]]></entry>
+  
+  	<entry id="trinket_rarity_bootleg_gift"><![CDATA[Christmas Gift]]></entry>
+  	<entry id="trinket_rarity_bootleg_santa"><![CDATA[Very Rare]]></entry>
+  	<entry id="trinket_rarity_bootleg_pew"><![CDATA[Very Rare]]></entry>
+  	<entry id="trinket_rarity_bootleg_stab"><![CDATA[Very Rare]]></entry>
+	
+	
+  	<entry id="str_inventory_title_gemcoal"><![CDATA[Piece of Coal]]></entry>
+  	<entry id="str_inventory_description_gemcoal"><![CDATA[Someone's been naughty this year.]]></entry>
+  	<entry id="str_inventory_title_estatebootleg_gift"><![CDATA[Present]]></entry>
+  	<entry id="str_inventory_description_estatebootleg_gift"><![CDATA[Share it with your enemies, and you'll be rewarded]]></entry>
+  
+  <entry id="str_inventory_set_title_factory_instruments"><![CDATA["The one man band"]]></entry>
+  <entry id="str_inventory_set_title_factory_dolls"><![CDATA["My friends are all around!"]]></entry>
+  <entry id="str_inventory_set_title_factory_warrior"><![CDATA["The regalia of a future warrior"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_santa"><![CDATA["Stealing christmas, one by one"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_helper"><![CDATA["The #1 secondary villan of the year"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_pet"><![CDATA["Not a pet nor a set"]]></entry>
+  
+  
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet1"><![CDATA[{colour_start|yellow}Reality Bending:{colour_end}On attack, will end user's turn. Most likely.]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet2"><![CDATA[{colour_start|riposte} Antler of Justice:{colour_end} Low chance to make baddies disappear]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet3"><![CDATA[{colour_start|blue}Playful Spirit:{colour_end} On Friendly Skill: Might lick target]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet4"><![CDATA[{colour_start|red}Sniffing Expert:{colour_end}Increases scout chance by a lot]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet"><![CDATA[+10%% petting speed]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box1"><![CDATA[+15%% max hp if Citrine in inventory, otherwise -10%% max HP]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box2"><![CDATA[+12%% Dodge if Jade in inventory, otherwise -8%% Dodge]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box3"><![CDATA[+4 SPD if Onyx in inventory, otherwise -2 SPD]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box4"><![CDATA[+30%% DMG if Emerald in inventory, otherwise -15%% DMG]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box5"><![CDATA[+12%% ACC if Sapphire in inventory, otherwise -4%% ACC]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box6"><![CDATA[+9%% CRIT if Ruby in inventory, otherwise -3%% CRIT]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_caneon1"><![CDATA[+2 SPD in front]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_caneon2"><![CDATA[+15%% DMG in back]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_once"><![CDATA[{colour_start|skill_unselectable}Effects apply only once on AoE skills{colour_end}]]></entry>
+  
+    <entry id="trinket_friendly_skill_additional_effects"><![CDATA[Friendly Skill:]]></entry>
+	<entry id="trinket_attack_skill_additional_effects_hit_miss"><![CDATA[On Attack:]]></entry>
+	<entry id="trinket_attack_skill_additional_effects_hit"><![CDATA[On Hit:]]></entry>
+    <entry id="trinket_was_hit_additional_effects"><![CDATA[On Being Hit:]]></entry>
+    <entry id="effect_health_damage_format"><![CDATA[-%d HP]]></entry>
+	
+  <entry id="buff_rule_tooltip_has_item_id"><![CDATA[%s if %s in inventory]]></entry>
+  <entry id="buff_rule_data_tooltip_bootleg_gift"><![CDATA[Present]]></entry>
+  </language>
+  <language id="italian">
+  
+  <entry id="town_quest_name_plot_bootleg_santa"><![CDATA[Go after Thieves!]]></entry>
+  <entry id="town_quest_description_plot_bootleg_santa"><![CDATA[Quick! The thieves are on the run, but they couldn't have gone far.]]></entry>
+  <entry id="str_embarked_on_plot_bootleg_santa"><![CDATA[Quick! The thieves are on the run, but they couldn't have gone far.]]></entry>
+  <entry id="str_plot_bootleg_santa_tip"><![CDATA[Be careful - Despite the looks, they're actually the bad guys.]]></entry>
+  <entry id="str_lumberjack_tip"><![CDATA[Sharing is caring!]]></entry>
+  <entry id="str_returned_from_plot_bootleg_santa_failure"><![CDATA[{?hero_names}%s couldn't catch up to the fleeing thieves.]]></entry>
+  <entry id="str_returned_from_plot_bootleg_santa_success"><![CDATA[{?hero_names}%s have successfully caught up to and apprehended the thieves.]]></entry>
+  <entry id="town_event_title_bootleg_santa_invade"><![CDATA[Thieves on the run]]></entry>
+  <entry id="town_event_description_bootleg_santa_invade"><![CDATA[Under the cover of the night, and with the costumes to fool the denizens of the hamlet, thieves have stolen all the toys from the hamlet's children. Go after them and reclaim what is ours! ]]></entry>
+  <entry id="town_event_title_bootleg_santa_reward"><![CDATA[Factory Rebuilt]]></entry>
+  <entry id="town_event_description_bootleg_santa_reward"><![CDATA[With the thieves banished from our lands, the people of hamlet can sleep sound again. As a gift of appreciation, hamlet's craftsmen decided to open a workshop, and let you do the honors!]]></entry>
+  <entry id="town_quest_description_bootleg_santa_invade"><![CDATA[%s went on to chase the scummy outlaws.]]></entry>
+  
+  <entry id="str_monstername_bootleg_santa_A"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_A"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_A"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_santa_B"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_B"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_B"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_santa_C"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_C"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_C"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_gift_dummy_A"><![CDATA[please message snorlaxxo#5067 on discord if you see this in-game]]></entry>
+  
+  <entry id="str_monster_skill_bootleg_santa_spawn"><![CDATA[The more the merrier!]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_heal"><![CDATA[Spirit of stolen christmas]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_actor_dot_1"><![CDATA[What goes around comes around]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_actor_dot_2"><![CDATA[Sharing is Caring]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_bag"><![CDATA[Bag Attack]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_gift"><![CDATA[Unsolicited Gift]]></entry>
+  <entry id="str_monster_skill_bootleg_pew_pew"><![CDATA[Sprinkles]]></entry>
+  <entry id="str_monster_skill_bootleg_pew_bash"><![CDATA[Candy Crush]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_stab"><![CDATA[Hearty Blow]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_chomp"><![CDATA[Healthy Meal]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_snowball"><![CDATA[Snowball Warfare]]></entry>
+  
+  <entry id="town_event_info_format_bonus_currency"><![CDATA[{?bonus_currency_type}%s +{?amount}%d]]></entry>
+  <entry id="str_toy_factory_title"><![CDATA[Toy Factory]]></entry>
+  <entry id="str_toy_factory_buff_bootleg_gift"><![CDATA[Might produce a gift at the end of the week.]]></entry>
+  <entry id="bonus_currency_name_snowflake"><![CDATA[Snowflakes]]></entry>
+  <entry id="str_inventory_title_heirloomsnowflake"><![CDATA[Snowflakes]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_pet"><![CDATA["Rudolph" (Reindeer...?)]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_hat"><![CDATA[Festive Hat]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_bag"><![CDATA[Bottomless Bag]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_daggel"><![CDATA[Vegedaggles]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_caneon"><![CDATA[Candy Caneon]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_hat"><![CDATA[Hat of a Mischevious Elf]]></entry>
+  <entry id="str_inventory_title_trinketfactory_tops"><![CDATA[Tops]]></entry>
+  <entry id="str_inventory_title_trinketfactory_gem_box"><![CDATA[Box of treasures]]></entry>
+  <entry id="str_inventory_title_trinketfactory_drum"><![CDATA[Drums]]></entry>
+  <entry id="str_inventory_title_trinketfactory_rattle"><![CDATA[Rattle]]></entry>
+  <entry id="str_inventory_title_trinketfactory_doll_off"><![CDATA[Angry Doll]]></entry>
+  <entry id="str_inventory_title_trinketfactory_doll_def"><![CDATA[Happy Doll]]></entry>
+  <entry id="str_inventory_title_trinketfactory_sword"><![CDATA[Wodden Sword]]></entry>
+  <entry id="str_inventory_title_trinketfactory_horse"><![CDATA[Wodden Horse]]></entry>
+  <entry id="str_inventory_title_trinketfactory_puppet"><![CDATA[Puppet]]></entry>
+  <entry id="str_inventory_title_trinketfactory_kite"><![CDATA[Kite]]></entry>
+  
+  	<entry id="trinket_rarity_bootleg_gift"><![CDATA[Christmas Gift]]></entry>
+  	<entry id="trinket_rarity_bootleg_santa"><![CDATA[Very Rare]]></entry>
+  	<entry id="trinket_rarity_bootleg_pew"><![CDATA[Very Rare]]></entry>
+  	<entry id="trinket_rarity_bootleg_stab"><![CDATA[Very Rare]]></entry>
+	
+	
+  	<entry id="str_inventory_title_gemcoal"><![CDATA[Piece of Coal]]></entry>
+  	<entry id="str_inventory_description_gemcoal"><![CDATA[Someone's been naughty this year.]]></entry>
+  	<entry id="str_inventory_title_estatebootleg_gift"><![CDATA[Present]]></entry>
+  	<entry id="str_inventory_description_estatebootleg_gift"><![CDATA[Share it with your enemies, and you'll be rewarded]]></entry>
+  
+  <entry id="str_inventory_set_title_factory_instruments"><![CDATA["The one man band"]]></entry>
+  <entry id="str_inventory_set_title_factory_dolls"><![CDATA["My friends are all around!"]]></entry>
+  <entry id="str_inventory_set_title_factory_warrior"><![CDATA["The regalia of a future warrior"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_santa"><![CDATA["Stealing christmas, one by one"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_helper"><![CDATA["The #1 secondary villan of the year"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_pet"><![CDATA["Not a pet nor a set"]]></entry>
+  
+  
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet1"><![CDATA[{colour_start|yellow}Reality Bending:{colour_end}On attack, will end user's turn. Most likely.]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet2"><![CDATA[{colour_start|riposte} Antler of Justice:{colour_end} Low chance to make baddies disappear]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet3"><![CDATA[{colour_start|blue}Playful Spirit:{colour_end} On Friendly Skill: Might lick target]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet4"><![CDATA[{colour_start|red}Sniffing Expert:{colour_end}Increases scout chance by a lot]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet"><![CDATA[+10%% petting speed]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box1"><![CDATA[+15%% max hp if Citrine in inventory, otherwise -10%% max HP]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box2"><![CDATA[+12%% Dodge if Jade in inventory, otherwise -8%% Dodge]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box3"><![CDATA[+4 SPD if Onyx in inventory, otherwise -2 SPD]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box4"><![CDATA[+30%% DMG if Emerald in inventory, otherwise -15%% DMG]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box5"><![CDATA[+12%% ACC if Sapphire in inventory, otherwise -4%% ACC]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box6"><![CDATA[+9%% CRIT if Ruby in inventory, otherwise -3%% CRIT]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_caneon1"><![CDATA[+2 SPD in front]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_caneon2"><![CDATA[+15%% DMG in back]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_once"><![CDATA[{colour_start|skill_unselectable}Effects apply only once on AoE skills{colour_end}]]></entry>
+  
+    <entry id="trinket_friendly_skill_additional_effects"><![CDATA[Friendly Skill:]]></entry>
+	<entry id="trinket_attack_skill_additional_effects_hit_miss"><![CDATA[On Attack:]]></entry>
+	<entry id="trinket_attack_skill_additional_effects_hit"><![CDATA[On Hit:]]></entry>
+    <entry id="trinket_was_hit_additional_effects"><![CDATA[On Being Hit:]]></entry>
+    <entry id="effect_health_damage_format"><![CDATA[-%d HP]]></entry>
+	
+  <entry id="buff_rule_tooltip_has_item_id"><![CDATA[%s if %s in inventory]]></entry>
+  <entry id="buff_rule_data_tooltip_bootleg_gift"><![CDATA[Present]]></entry>
+  </language>
+  <language id="schinese">
+  
+  <entry id="town_quest_name_plot_bootleg_santa"><![CDATA[抓住那些小偷！]]></entry>
+  <entry id="town_quest_description_plot_bootleg_santa"><![CDATA[快点！那些小偷正在逃跑，但他们还没走远。]]></entry>
+  <entry id="str_embarked_on_plot_bootleg_santa"><![CDATA[快点！那些小偷正在逃跑，但他们还没走远。]]></entry>
+  <entry id="str_plot_bootleg_santa_tip"><![CDATA[小心点-毕竟他们看起来就不是啥好家伙。]]></entry>
+  <entry id="str_lumberjack_tip"><![CDATA[分享就是爱！]]></entry>
+  <entry id="str_returned_from_plot_bootleg_santa_failure"><![CDATA[{?hero_names}%s 没有追上逃跑的小偷。]]></entry>
+  <entry id="str_returned_from_plot_bootleg_santa_success"><![CDATA[{?hero_names}%s 成功地抓住并逮捕了小偷。]]></entry>
+  <entry id="town_event_title_bootleg_santa_invade"><![CDATA[小偷跑路了！]]></entry>
+  <entry id="town_event_description_bootleg_santa_invade"><![CDATA[在黑夜的掩护下，那些小偷用戏服成功的愚弄了哈姆雷特的居民们，他们拿走了孩子们的玩具。追上他们！拿回我们的东西！]]></entry>
+  <entry id="town_event_title_bootleg_santa_reward"><![CDATA[工厂重建]]></entry>
+  <entry id="town_event_description_bootleg_santa_reward"><![CDATA[那些小偷被驱逐出我们的土地，现在哈姆雷特的居民们又能安然入睡了。出于感激，哈姆雷特的工匠们开一个小作坊，为你打造荣誉之物！]]></entry>
+  <entry id="town_quest_description_bootleg_santa_invade"><![CDATA[%s 继续追捕着那些卑鄙的不法分子。]]></entry>
+  
+  <entry id="str_monstername_bootleg_santa_A"><![CDATA[淘气的 "圣诞老人"]]></entry>
+  <entry id="str_monstername_bootleg_stab_A"><![CDATA[阴险的 "助手"]]></entry>
+  <entry id="str_monstername_bootleg_pew_A"><![CDATA[狡猾的 "精灵"]]></entry>
+  <entry id="str_monstername_bootleg_santa_B"><![CDATA[淘气的 "圣诞老人"]]></entry>
+  <entry id="str_monstername_bootleg_stab_B"><![CDATA[阴险的 "助手"]]></entry>
+  <entry id="str_monstername_bootleg_pew_B"><![CDATA[狡猾的 "精灵"]]></entry>
+  <entry id="str_monstername_bootleg_santa_C"><![CDATA[淘气的 "圣诞老人"]]></entry>
+  <entry id="str_monstername_bootleg_stab_C"><![CDATA[阴险的 "助手"]]></entry>
+  <entry id="str_monstername_bootleg_pew_C"><![CDATA[狡猾的 "精灵"]]></entry>
+  <entry id="str_monstername_bootleg_gift_dummy_A"><![CDATA[如果你在游戏中看到这个，请在snorlaxxo#5067留言]]></entry>
+  
+  <entry id="str_monster_skill_bootleg_santa_spawn"><![CDATA[快乐多更多！]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_heal"><![CDATA[就算是圣诞节也要有的偷窃精神]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_actor_dot_1"><![CDATA[出来混是迟早要还的]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_actor_dot_2"><![CDATA[分享就是爱]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_bag"><![CDATA[背包攻击]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_gift"><![CDATA[不请自来的礼物]]></entry>
+  <entry id="str_monster_skill_bootleg_pew_pew"><![CDATA[洒上！]]></entry>
+  <entry id="str_monster_skill_bootleg_pew_bash"><![CDATA[糖果传奇]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_stab"><![CDATA[猛烈打击]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_chomp"><![CDATA[营养餐]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_snowball"><![CDATA[雪球大作战]]></entry>
+  
+  <entry id="town_event_info_format_bonus_currency"><![CDATA[{?bonus_currency_type}%s +{?amount}%d]]></entry>
+  <entry id="str_toy_factory_title"><![CDATA[玩具工厂]]></entry>
+  <entry id="str_toy_factory_buff_bootleg_gift"><![CDATA[可能会在周末送出的礼物。]]></entry>
+  <entry id="bonus_currency_name_snowflake"><![CDATA[雪花]]></entry>
+  <entry id="str_inventory_title_heirloomsnowflake"><![CDATA[雪花]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_pet"><![CDATA["鲁道夫" (驯鹿...?)]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_hat"><![CDATA[节日礼帽]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_bag"><![CDATA[深不见底的大袋子]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_daggel"><![CDATA[Vegedaggles]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_caneon"><![CDATA[智慧糖果]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_hat"><![CDATA[狡猾的精灵帽子]]></entry>
+  <entry id="str_inventory_title_trinketfactory_tops"><![CDATA[陀螺]]></entry>
+  <entry id="str_inventory_title_trinketfactory_gem_box"><![CDATA[宝贝盒子]]></entry>
+  <entry id="str_inventory_title_trinketfactory_drum"><![CDATA[小鼓]]></entry>
+  <entry id="str_inventory_title_trinketfactory_rattle"><![CDATA[砂槌]]></entry>
+  <entry id="str_inventory_title_trinketfactory_doll_off"><![CDATA[愤怒娃娃]]></entry>
+  <entry id="str_inventory_title_trinketfactory_doll_def"><![CDATA[开心娃娃]]></entry>
+  <entry id="str_inventory_title_trinketfactory_sword"><![CDATA[木制长剑]]></entry>
+  <entry id="str_inventory_title_trinketfactory_horse"><![CDATA[小木马]]></entry>
+  <entry id="str_inventory_title_trinketfactory_puppet"><![CDATA[小木偶]]></entry>
+  <entry id="str_inventory_title_trinketfactory_kite"><![CDATA[小风筝]]></entry>
+  
+  	<entry id="trinket_rarity_bootleg_gift"><![CDATA[圣诞礼物]]></entry>
+  	<entry id="trinket_rarity_bootleg_santa"><![CDATA[非常稀有]]></entry>
+  	<entry id="trinket_rarity_bootleg_pew"><![CDATA[非常稀有]]></entry>
+  	<entry id="trinket_rarity_bootleg_stab"><![CDATA[非常稀有]]></entry>
+	
+	
+  	<entry id="str_inventory_title_gemcoal"><![CDATA[一小块煤]]></entry>
+  	<entry id="str_inventory_description_gemcoal"><![CDATA[看来今年有人淘气了。]]></entry>
+  	<entry id="str_inventory_title_estatebootleg_gift"><![CDATA[礼物]]></entry>
+  	<entry id="str_inventory_description_estatebootleg_gift"><![CDATA[分享给敌人吧，你会得到回报的]]></entry>
+  
+  <entry id="str_inventory_set_title_factory_instruments"><![CDATA["单人乐队"]]></entry>
+  <entry id="str_inventory_set_title_factory_dolls"><![CDATA["我的朋友们都在！"]]></entry>
+  <entry id="str_inventory_set_title_factory_warrior"><![CDATA["未来战士的王冠"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_santa"><![CDATA["圣诞节的偷窃，一个一个来"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_helper"><![CDATA["年度最佳恶棍副手"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_pet"><![CDATA["这不是宠物，也不是套装"]]></entry>
+  
+  
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet1"><![CDATA[{colour_start|yellow}现实扭曲:{colour_end}攻击时会结束使用者的回合，有很大的概率。]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet2"><![CDATA[{colour_start|riposte}正义鹿角:{colour_end} 小概率使敌人消失]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet3"><![CDATA[{colour_start|blue}游戏精神:{colour_end} 友军技能：可以舔一下（？）目标]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet4"><![CDATA[{colour_start|red}嗅探专家:{colour_end}大幅度增加侦查概率]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet"><![CDATA[+10%% petting speed]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box1"><![CDATA[+15%% 最大生命如果背包里有黄水晶, 否则 -10%% 最大生命]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box2"><![CDATA[+12%% 闪避倍率如果背包里有翡翠, 否则 -8%% 闪避倍率]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box3"><![CDATA[+4 速度如果背包里有玛瑙, 否则 -2 速度]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box4"><![CDATA[+30%% 伤害如果背包里有绿宝石, 否则 -15%% 伤害]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box5"><![CDATA[+12%% 精准倍率如果蓝宝石在背包内，否则 -4%% 精准倍率]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box6"><![CDATA[+9%% 暴击率如果红宝石在背包内，否则 -3%% CRIT]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_caneon1"><![CDATA[+2 速度如果处于队伍首位]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_caneon2"><![CDATA[+15%% 伤害如果处于队伍末位]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_once"><![CDATA[{colour_start|skill_unselectable}对范围攻击技能仅有一次效果{colour_end}]]></entry>
+  
+    <entry id="trinket_friendly_skill_additional_effects"><![CDATA[友军技能:]]></entry>
+	<entry id="trinket_attack_skill_additional_effects_hit_miss"><![CDATA[攻击时:]]></entry>
+	<entry id="trinket_attack_skill_additional_effects_hit"><![CDATA[命中时:]]></entry>
+    <entry id="trinket_was_hit_additional_effects"><![CDATA[被击中时:]]></entry>
+    <entry id="effect_health_damage_format"><![CDATA[-%d 生命值]]></entry>
+	
+  <entry id="buff_rule_tooltip_has_item_id"><![CDATA[%s if %s 在背包里]]></entry>
+  <entry id="buff_rule_data_tooltip_bootleg_gift"><![CDATA[礼物]]></entry>
+  </language>
+  <language id="koreanb">
+  
+  <entry id="town_quest_name_plot_bootleg_santa"><![CDATA[Go after Thieves!]]></entry>
+  <entry id="town_quest_description_plot_bootleg_santa"><![CDATA[Quick! The thieves are on the run, but they couldn't have gone far.]]></entry>
+  <entry id="str_embarked_on_plot_bootleg_santa"><![CDATA[Quick! The thieves are on the run, but they couldn't have gone far.]]></entry>
+  <entry id="str_plot_bootleg_santa_tip"><![CDATA[Be careful - Despite the looks, they're actually the bad guys.]]></entry>
+  <entry id="str_lumberjack_tip"><![CDATA[Sharing is caring!]]></entry>
+  <entry id="str_returned_from_plot_bootleg_santa_failure"><![CDATA[{?hero_names}%s couldn't catch up to the fleeing thieves.]]></entry>
+  <entry id="str_returned_from_plot_bootleg_santa_success"><![CDATA[{?hero_names}%s have successfully caught up to and apprehended the thieves.]]></entry>
+  <entry id="town_event_title_bootleg_santa_invade"><![CDATA[Thieves on the run]]></entry>
+  <entry id="town_event_description_bootleg_santa_invade"><![CDATA[Under the cover of the night, and with the costumes to fool the denizens of the hamlet, thieves have stolen all the toys from the hamlet's children. Go after them and reclaim what is ours! ]]></entry>
+  <entry id="town_event_title_bootleg_santa_reward"><![CDATA[Factory Rebuilt]]></entry>
+  <entry id="town_event_description_bootleg_santa_reward"><![CDATA[With the thieves banished from our lands, the people of hamlet can sleep sound again. As a gift of appreciation, hamlet's craftsmen decided to open a workshop, and let you do the honors!]]></entry>
+  <entry id="town_quest_description_bootleg_santa_invade"><![CDATA[%s went on to chase the scummy outlaws.]]></entry>
+  
+  <entry id="str_monstername_bootleg_santa_A"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_A"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_A"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_santa_B"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_B"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_B"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_santa_C"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_C"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_C"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_gift_dummy_A"><![CDATA[please message snorlaxxo#5067 on discord if you see this in-game]]></entry>
+  
+  <entry id="str_monster_skill_bootleg_santa_spawn"><![CDATA[The more the merrier!]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_heal"><![CDATA[Spirit of stolen christmas]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_actor_dot_1"><![CDATA[What goes around comes around]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_actor_dot_2"><![CDATA[Sharing is Caring]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_bag"><![CDATA[Bag Attack]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_gift"><![CDATA[Unsolicited Gift]]></entry>
+  <entry id="str_monster_skill_bootleg_pew_pew"><![CDATA[Sprinkles]]></entry>
+  <entry id="str_monster_skill_bootleg_pew_bash"><![CDATA[Candy Crush]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_stab"><![CDATA[Hearty Blow]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_chomp"><![CDATA[Healthy Meal]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_snowball"><![CDATA[Snowball Warfare]]></entry>
+  
+  <entry id="town_event_info_format_bonus_currency"><![CDATA[{?bonus_currency_type}%s +{?amount}%d]]></entry>
+  <entry id="str_toy_factory_title"><![CDATA[Toy Factory]]></entry>
+  <entry id="str_toy_factory_buff_bootleg_gift"><![CDATA[Might produce a gift at the end of the week.]]></entry>
+  <entry id="bonus_currency_name_snowflake"><![CDATA[Snowflakes]]></entry>
+  <entry id="str_inventory_title_heirloomsnowflake"><![CDATA[Snowflakes]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_pet"><![CDATA["Rudolph" (Reindeer...?)]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_hat"><![CDATA[Festive Hat]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_bag"><![CDATA[Bottomless Bag]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_daggel"><![CDATA[Vegedaggles]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_caneon"><![CDATA[Candy Caneon]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_hat"><![CDATA[Hat of a Mischevious Elf]]></entry>
+  <entry id="str_inventory_title_trinketfactory_tops"><![CDATA[Tops]]></entry>
+  <entry id="str_inventory_title_trinketfactory_gem_box"><![CDATA[Box of treasures]]></entry>
+  <entry id="str_inventory_title_trinketfactory_drum"><![CDATA[Drums]]></entry>
+  <entry id="str_inventory_title_trinketfactory_rattle"><![CDATA[Rattle]]></entry>
+  <entry id="str_inventory_title_trinketfactory_doll_off"><![CDATA[Angry Doll]]></entry>
+  <entry id="str_inventory_title_trinketfactory_doll_def"><![CDATA[Happy Doll]]></entry>
+  <entry id="str_inventory_title_trinketfactory_sword"><![CDATA[Wodden Sword]]></entry>
+  <entry id="str_inventory_title_trinketfactory_horse"><![CDATA[Wodden Horse]]></entry>
+  <entry id="str_inventory_title_trinketfactory_puppet"><![CDATA[Puppet]]></entry>
+  <entry id="str_inventory_title_trinketfactory_kite"><![CDATA[Kite]]></entry>
+  
+  	<entry id="trinket_rarity_bootleg_gift"><![CDATA[Christmas Gift]]></entry>
+  	<entry id="trinket_rarity_bootleg_santa"><![CDATA[Very Rare]]></entry>
+  	<entry id="trinket_rarity_bootleg_pew"><![CDATA[Very Rare]]></entry>
+  	<entry id="trinket_rarity_bootleg_stab"><![CDATA[Very Rare]]></entry>
+	
+	
+  	<entry id="str_inventory_title_gemcoal"><![CDATA[Piece of Coal]]></entry>
+  	<entry id="str_inventory_description_gemcoal"><![CDATA[Someone's been naughty this year.]]></entry>
+  	<entry id="str_inventory_title_estatebootleg_gift"><![CDATA[Present]]></entry>
+  	<entry id="str_inventory_description_estatebootleg_gift"><![CDATA[Share it with your enemies, and you'll be rewarded]]></entry>
+  
+  <entry id="str_inventory_set_title_factory_instruments"><![CDATA["The one man band"]]></entry>
+  <entry id="str_inventory_set_title_factory_dolls"><![CDATA["My friends are all around!"]]></entry>
+  <entry id="str_inventory_set_title_factory_warrior"><![CDATA["The regalia of a future warrior"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_santa"><![CDATA["Stealing christmas, one by one"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_helper"><![CDATA["The #1 secondary villan of the year"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_pet"><![CDATA["Not a pet nor a set"]]></entry>
+  
+  
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet1"><![CDATA[{colour_start|yellow}Reality Bending:{colour_end}On attack, will end user's turn. Most likely.]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet2"><![CDATA[{colour_start|riposte} Antler of Justice:{colour_end} Low chance to make baddies disappear]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet3"><![CDATA[{colour_start|blue}Playful Spirit:{colour_end} On Friendly Skill: Might lick target]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet4"><![CDATA[{colour_start|red}Sniffing Expert:{colour_end}Increases scout chance by a lot]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet"><![CDATA[+10%% petting speed]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box1"><![CDATA[+15%% max hp if Citrine in inventory, otherwise -10%% max HP]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box2"><![CDATA[+12%% Dodge if Jade in inventory, otherwise -8%% Dodge]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box3"><![CDATA[+4 SPD if Onyx in inventory, otherwise -2 SPD]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box4"><![CDATA[+30%% DMG if Emerald in inventory, otherwise -15%% DMG]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box5"><![CDATA[+12%% ACC if Sapphire in inventory, otherwise -4%% ACC]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box6"><![CDATA[+9%% CRIT if Ruby in inventory, otherwise -3%% CRIT]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_caneon1"><![CDATA[+2 SPD in front]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_caneon2"><![CDATA[+15%% DMG in back]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_once"><![CDATA[{colour_start|skill_unselectable}Effects apply only once on AoE skills{colour_end}]]></entry>
+  
+    <entry id="trinket_friendly_skill_additional_effects"><![CDATA[Friendly Skill:]]></entry>
+	<entry id="trinket_attack_skill_additional_effects_hit_miss"><![CDATA[On Attack:]]></entry>
+	<entry id="trinket_attack_skill_additional_effects_hit"><![CDATA[On Hit:]]></entry>
+    <entry id="trinket_was_hit_additional_effects"><![CDATA[On Being Hit:]]></entry>
+    <entry id="effect_health_damage_format"><![CDATA[-%d HP]]></entry>
+	
+	
+  <entry id="buff_rule_tooltip_has_item_id"><![CDATA[%s if %s in inventory]]></entry>
+  <entry id="buff_rule_data_bootleg_gift"><![CDATA[Present]]></entry>
+  </language>
+  <language id="koreana">
+  
+  <entry id="town_quest_name_plot_bootleg_santa"><![CDATA[Go after Thieves!]]></entry>
+  <entry id="town_quest_description_plot_bootleg_santa"><![CDATA[Quick! The thieves are on the run, but they couldn't have gone far.]]></entry>
+  <entry id="str_embarked_on_plot_bootleg_santa"><![CDATA[Quick! The thieves are on the run, but they couldn't have gone far.]]></entry>
+  <entry id="str_plot_bootleg_santa_tip"><![CDATA[Be careful - Despite the looks, they're actually the bad guys.]]></entry>
+  <entry id="str_lumberjack_tip"><![CDATA[Sharing is caring!]]></entry>
+  <entry id="str_returned_from_plot_bootleg_santa_failure"><![CDATA[{?hero_names}%s couldn't catch up to the fleeing thieves.]]></entry>
+  <entry id="str_returned_from_plot_bootleg_santa_success"><![CDATA[{?hero_names}%s have successfully caught up to and apprehended the thieves.]]></entry>
+  <entry id="town_event_title_bootleg_santa_invade"><![CDATA[Thieves on the run]]></entry>
+  <entry id="town_event_description_bootleg_santa_invade"><![CDATA[Under the cover of the night, and with the costumes to fool the denizens of the hamlet, thieves have stolen all the toys from the hamlet's children. Go after them and reclaim what is ours! ]]></entry>
+  <entry id="town_event_title_bootleg_santa_reward"><![CDATA[Factory Rebuilt]]></entry>
+  <entry id="town_event_description_bootleg_santa_reward"><![CDATA[With the thieves banished from our lands, the people of hamlet can sleep sound again. As a gift of appreciation, hamlet's craftsmen decided to open a workshop, and let you do the honors!]]></entry>
+  <entry id="town_quest_description_bootleg_santa_invade"><![CDATA[%s went on to chase the scummy outlaws.]]></entry>
+  
+  <entry id="str_monstername_bootleg_santa_A"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_A"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_A"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_santa_B"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_B"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_B"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_santa_C"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_C"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_C"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_gift_dummy_A"><![CDATA[please message snorlaxxo#5067 on discord if you see this in-game]]></entry>
+  
+  <entry id="str_monster_skill_bootleg_santa_spawn"><![CDATA[The more the merrier!]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_heal"><![CDATA[Spirit of stolen christmas]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_actor_dot_1"><![CDATA[What goes around comes around]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_actor_dot_2"><![CDATA[Sharing is Caring]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_bag"><![CDATA[Bag Attack]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_gift"><![CDATA[Unsolicited Gift]]></entry>
+  <entry id="str_monster_skill_bootleg_pew_pew"><![CDATA[Sprinkles]]></entry>
+  <entry id="str_monster_skill_bootleg_pew_bash"><![CDATA[Candy Crush]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_stab"><![CDATA[Hearty Blow]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_chomp"><![CDATA[Healthy Meal]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_snowball"><![CDATA[Snowball Warfare]]></entry>
+  
+  <entry id="town_event_info_format_bonus_currency"><![CDATA[{?bonus_currency_type}%s +{?amount}%d]]></entry>
+  <entry id="str_toy_factory_title"><![CDATA[Toy Factory]]></entry>
+  <entry id="str_toy_factory_buff_bootleg_gift"><![CDATA[Might produce a gift at the end of the week.]]></entry>
+  <entry id="bonus_currency_name_snowflake"><![CDATA[Snowflakes]]></entry>
+  <entry id="str_inventory_title_heirloomsnowflake"><![CDATA[Snowflakes]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_pet"><![CDATA["Rudolph" (Reindeer...?)]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_hat"><![CDATA[Festive Hat]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_bag"><![CDATA[Bottomless Bag]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_daggel"><![CDATA[Vegedaggles]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_caneon"><![CDATA[Candy Caneon]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_hat"><![CDATA[Hat of a Mischevious Elf]]></entry>
+  <entry id="str_inventory_title_trinketfactory_tops"><![CDATA[Tops]]></entry>
+  <entry id="str_inventory_title_trinketfactory_gem_box"><![CDATA[Box of treasures]]></entry>
+  <entry id="str_inventory_title_trinketfactory_drum"><![CDATA[Drums]]></entry>
+  <entry id="str_inventory_title_trinketfactory_rattle"><![CDATA[Rattle]]></entry>
+  <entry id="str_inventory_title_trinketfactory_doll_off"><![CDATA[Angry Doll]]></entry>
+  <entry id="str_inventory_title_trinketfactory_doll_def"><![CDATA[Happy Doll]]></entry>
+  <entry id="str_inventory_title_trinketfactory_sword"><![CDATA[Wodden Sword]]></entry>
+  <entry id="str_inventory_title_trinketfactory_horse"><![CDATA[Wodden Horse]]></entry>
+  <entry id="str_inventory_title_trinketfactory_puppet"><![CDATA[Puppet]]></entry>
+  <entry id="str_inventory_title_trinketfactory_kite"><![CDATA[Kite]]></entry>
+  
+  	<entry id="trinket_rarity_bootleg_gift"><![CDATA[Christmas Gift]]></entry>
+  	<entry id="trinket_rarity_bootleg_santa"><![CDATA[Very Rare]]></entry>
+  	<entry id="trinket_rarity_bootleg_pew"><![CDATA[Very Rare]]></entry>
+  	<entry id="trinket_rarity_bootleg_stab"><![CDATA[Very Rare]]></entry>
+	
+	
+  	<entry id="str_inventory_title_gemcoal"><![CDATA[Piece of Coal]]></entry>
+  	<entry id="str_inventory_description_gemcoal"><![CDATA[Someone's been naughty this year.]]></entry>
+  	<entry id="str_inventory_title_estatebootleg_gift"><![CDATA[Present]]></entry>
+  	<entry id="str_inventory_description_estatebootleg_gift"><![CDATA[Share it with your enemies, and you'll be rewarded]]></entry>
+  
+  <entry id="str_inventory_set_title_factory_instruments"><![CDATA["The one man band"]]></entry>
+  <entry id="str_inventory_set_title_factory_dolls"><![CDATA["My friends are all around!"]]></entry>
+  <entry id="str_inventory_set_title_factory_warrior"><![CDATA["The regalia of a future warrior"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_santa"><![CDATA["Stealing christmas, one by one"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_helper"><![CDATA["The #1 secondary villan of the year"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_pet"><![CDATA["Not a pet nor a set"]]></entry>
+  
+  
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet1"><![CDATA[{colour_start|yellow}Reality Bending:{colour_end}On attack, will end user's turn. Most likely.]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet2"><![CDATA[{colour_start|riposte} Antler of Justice:{colour_end} Low chance to make baddies disappear]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet3"><![CDATA[{colour_start|blue}Playful Spirit:{colour_end} On Friendly Skill: Might lick target]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet4"><![CDATA[{colour_start|red}Sniffing Expert:{colour_end}Increases scout chance by a lot]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet"><![CDATA[+10%% petting speed]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box1"><![CDATA[+15%% max hp if Citrine in inventory, otherwise -10%% max HP]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box2"><![CDATA[+12%% Dodge if Jade in inventory, otherwise -8%% Dodge]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box3"><![CDATA[+4 SPD if Onyx in inventory, otherwise -2 SPD]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box4"><![CDATA[+30%% DMG if Emerald in inventory, otherwise -15%% DMG]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box5"><![CDATA[+12%% ACC if Sapphire in inventory, otherwise -4%% ACC]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box6"><![CDATA[+9%% CRIT if Ruby in inventory, otherwise -3%% CRIT]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_caneon1"><![CDATA[+2 SPD in front]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_caneon2"><![CDATA[+15%% DMG in back]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_once"><![CDATA[{colour_start|skill_unselectable}Effects apply only once on AoE skills{colour_end}]]></entry>
+  
+    <entry id="trinket_friendly_skill_additional_effects"><![CDATA[Friendly Skill:]]></entry>
+	<entry id="trinket_attack_skill_additional_effects_hit_miss"><![CDATA[On Attack:]]></entry>
+	<entry id="trinket_attack_skill_additional_effects_hit"><![CDATA[On Hit:]]></entry>
+    <entry id="trinket_was_hit_additional_effects"><![CDATA[On Being Hit:]]></entry>
+    <entry id="effect_health_damage_format"><![CDATA[-%d HP]]></entry>
+	
+  <entry id="buff_rule_tooltip_has_item_id"><![CDATA[%s if %s in inventory]]></entry>
+  <entry id="buff_rule_data_tooltip_bootleg_gift"><![CDATA[Present]]></entry>
+  </language>
+  <language id="japanese">
+  
+  <entry id="town_quest_name_plot_bootleg_santa"><![CDATA[Go after Thieves!]]></entry>
+  <entry id="town_quest_description_plot_bootleg_santa"><![CDATA[Quick! The thieves are on the run, but they couldn't have gone far.]]></entry>
+  <entry id="str_embarked_on_plot_bootleg_santa"><![CDATA[Quick! The thieves are on the run, but they couldn't have gone far.]]></entry>
+  <entry id="str_plot_bootleg_santa_tip"><![CDATA[Be careful - Despite the looks, they're actually the bad guys.]]></entry>
+  <entry id="str_lumberjack_tip"><![CDATA[Sharing is caring!]]></entry>
+  <entry id="str_returned_from_plot_bootleg_santa_failure"><![CDATA[{?hero_names}%s couldn't catch up to the fleeing thieves.]]></entry>
+  <entry id="str_returned_from_plot_bootleg_santa_success"><![CDATA[{?hero_names}%s have successfully caught up to and apprehended the thieves.]]></entry>
+  <entry id="town_event_title_bootleg_santa_invade"><![CDATA[Thieves on the run]]></entry>
+  <entry id="town_event_description_bootleg_santa_invade"><![CDATA[Under the cover of the night, and with the costumes to fool the denizens of the hamlet, thieves have stolen all the toys from the hamlet's children. Go after them and reclaim what is ours! ]]></entry>
+  <entry id="town_event_title_bootleg_santa_reward"><![CDATA[Factory Rebuilt]]></entry>
+  <entry id="town_event_description_bootleg_santa_reward"><![CDATA[With the thieves banished from our lands, the people of hamlet can sleep sound again. As a gift of appreciation, hamlet's craftsmen decided to open a workshop, and let you do the honors!]]></entry>
+  <entry id="town_quest_description_bootleg_santa_invade"><![CDATA[%s went on to chase the scummy outlaws.]]></entry>
+  
+  <entry id="str_monstername_bootleg_santa_A"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_A"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_A"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_santa_B"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_B"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_B"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_santa_C"><![CDATA[Mischievous "Santa"]]></entry>
+  <entry id="str_monstername_bootleg_stab_C"><![CDATA[Shady "Helper"]]></entry>
+  <entry id="str_monstername_bootleg_pew_C"><![CDATA[Cunning "Elf"]]></entry>
+  <entry id="str_monstername_bootleg_gift_dummy_A"><![CDATA[please message snorlaxxo#5067 on discord if you see this in-game]]></entry>
+  
+  <entry id="str_monster_skill_bootleg_santa_spawn"><![CDATA[The more the merrier!]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_heal"><![CDATA[Spirit of stolen christmas]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_actor_dot_1"><![CDATA[What goes around comes around]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_actor_dot_2"><![CDATA[Sharing is Caring]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_bag"><![CDATA[Bag Attack]]></entry>
+  <entry id="str_monster_skill_bootleg_santa_gift"><![CDATA[Unsolicited Gift]]></entry>
+  <entry id="str_monster_skill_bootleg_pew_pew"><![CDATA[Sprinkles]]></entry>
+  <entry id="str_monster_skill_bootleg_pew_bash"><![CDATA[Candy Crush]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_stab"><![CDATA[Hearty Blow]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_chomp"><![CDATA[Healthy Meal]]></entry>
+  <entry id="str_monster_skill_bootleg_stab_snowball"><![CDATA[Snowball Warfare]]></entry>
+  
+  <entry id="town_event_info_format_bonus_currency"><![CDATA[{?bonus_currency_type}%s +{?amount}%d]]></entry>
+  <entry id="str_toy_factory_title"><![CDATA[Toy Factory]]></entry>
+  <entry id="str_toy_factory_buff_bootleg_gift"><![CDATA[Might produce a gift at the end of the week.]]></entry>
+  <entry id="bonus_currency_name_snowflake"><![CDATA[Snowflakes]]></entry>
+  <entry id="str_inventory_title_heirloomsnowflake"><![CDATA[Snowflakes]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_pet"><![CDATA["Rudolph" (Reindeer...?)]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_hat"><![CDATA[Festive Hat]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_bag"><![CDATA[Bottomless Bag]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_daggel"><![CDATA[Vegedaggles]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_santa_caneon"><![CDATA[Candy Caneon]]></entry>
+  <entry id="str_inventory_title_trinketbootleg_hat"><![CDATA[Hat of a Mischevious Elf]]></entry>
+  <entry id="str_inventory_title_trinketfactory_tops"><![CDATA[Tops]]></entry>
+  <entry id="str_inventory_title_trinketfactory_gem_box"><![CDATA[Box of treasures]]></entry>
+  <entry id="str_inventory_title_trinketfactory_drum"><![CDATA[Drums]]></entry>
+  <entry id="str_inventory_title_trinketfactory_rattle"><![CDATA[Rattle]]></entry>
+  <entry id="str_inventory_title_trinketfactory_doll_off"><![CDATA[Angry Doll]]></entry>
+  <entry id="str_inventory_title_trinketfactory_doll_def"><![CDATA[Happy Doll]]></entry>
+  <entry id="str_inventory_title_trinketfactory_sword"><![CDATA[Wodden Sword]]></entry>
+  <entry id="str_inventory_title_trinketfactory_horse"><![CDATA[Wodden Horse]]></entry>
+  <entry id="str_inventory_title_trinketfactory_puppet"><![CDATA[Puppet]]></entry>
+  <entry id="str_inventory_title_trinketfactory_kite"><![CDATA[Kite]]></entry>
+  
+  	<entry id="trinket_rarity_bootleg_gift"><![CDATA[Christmas Gift]]></entry>
+  	<entry id="trinket_rarity_bootleg_santa"><![CDATA[Very Rare]]></entry>
+  	<entry id="trinket_rarity_bootleg_pew"><![CDATA[Very Rare]]></entry>
+  	<entry id="trinket_rarity_bootleg_stab"><![CDATA[Very Rare]]></entry>
+	
+	
+  	<entry id="str_inventory_title_gemcoal"><![CDATA[Piece of Coal]]></entry>
+  	<entry id="str_inventory_description_gemcoal"><![CDATA[Someone's been naughty this year.]]></entry>
+  	<entry id="str_inventory_title_estatebootleg_gift"><![CDATA[Present]]></entry>
+  	<entry id="str_inventory_description_estatebootleg_gift"><![CDATA[Share it with your enemies, and you'll be rewarded]]></entry>
+  
+  <entry id="str_inventory_set_title_factory_instruments"><![CDATA["The one man band"]]></entry>
+  <entry id="str_inventory_set_title_factory_dolls"><![CDATA["My friends are all around!"]]></entry>
+  <entry id="str_inventory_set_title_factory_warrior"><![CDATA["The regalia of a future warrior"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_santa"><![CDATA["Stealing christmas, one by one"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_helper"><![CDATA["The #1 secondary villan of the year"]]></entry>
+  <entry id="str_inventory_set_title_bootleg_pet"><![CDATA["Not a pet nor a set"]]></entry>
+  
+  
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet1"><![CDATA[{colour_start|yellow}Reality Bending:{colour_end}On attack, will end user's turn. Most likely.]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet2"><![CDATA[{colour_start|riposte} Antler of Justice:{colour_end} Low chance to make baddies disappear]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet3"><![CDATA[{colour_start|blue}Playful Spirit:{colour_end} On Friendly Skill: Might lick target]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet4"><![CDATA[{colour_start|red}Sniffing Expert:{colour_end}Increases scout chance by a lot]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_pet"><![CDATA[+10%% petting speed]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box1"><![CDATA[+15%% max hp if Citrine in inventory, otherwise -10%% max HP]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box2"><![CDATA[+12%% Dodge if Jade in inventory, otherwise -8%% Dodge]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box3"><![CDATA[+4 SPD if Onyx in inventory, otherwise -2 SPD]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box4"><![CDATA[+30%% DMG if Emerald in inventory, otherwise -15%% DMG]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box5"><![CDATA[+12%% ACC if Sapphire in inventory, otherwise -4%% ACC]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_box6"><![CDATA[+9%% CRIT if Ruby in inventory, otherwise -3%% CRIT]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_caneon1"><![CDATA[+2 SPD in front]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_caneon2"><![CDATA[+15%% DMG in back]]></entry>
+  <entry id="buff_stat_tooltip_upgrade_discount_bootleg_santa_once"><![CDATA[{colour_start|skill_unselectable}Effects apply only once on AoE skills{colour_end}]]></entry>
+  
+    <entry id="trinket_friendly_skill_additional_effects"><![CDATA[Friendly Skill:]]></entry>
+	<entry id="trinket_attack_skill_additional_effects_hit_miss"><![CDATA[On Attack:]]></entry>
+	<entry id="trinket_attack_skill_additional_effects_hit"><![CDATA[On Hit:]]></entry>
+    <entry id="trinket_was_hit_additional_effects"><![CDATA[On Being Hit:]]></entry>
+    <entry id="effect_health_damage_format"><![CDATA[-%d HP]]></entry>
+	
+  <entry id="buff_rule_tooltip_has_item_id"><![CDATA[%s if %s in inventory]]></entry>
+  <entry id="buff_rule_data_tooltip_bootleg_gift"><![CDATA[Present]]></entry>
+  </language>
+</root>
+
